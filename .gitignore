@@ -1,6 +1,8 @@
 # 大表格文件，不上传GitHub
 final_cleaned_bird_data.csv
 10w bird data 2015-2026.xlsx
+filtered_new_bird_data.csv
+
 
 # Python缓存
 __pycache__/
