@@ -1,0 +1,1657 @@
+﻿common_name,season,environment_factor,selected_month,month_name,correlation,absolute_correlation,n_years
+Amur Stonechat,Spring,temperature,4.0,April,0.5720813737152234,0.5720813737152234,9
+Amur Stonechat,Spring,humidity,5.0,May,-0.6504089629231473,0.6504089629231473,9
+Amur Stonechat,Spring,prcp,5.0,May,-0.5678602639507684,0.5678602639507684,9
+Anser sp.,Spring,temperature,,,,,0
+Anser sp.,Spring,humidity,,,,,0
+Anser sp.,Spring,prcp,,,,,0
+Arctic Warbler,Spring,temperature,5.0,May,0.15320591444728293,0.15320591444728293,9
+Arctic Warbler,Spring,humidity,5.0,May,0.33895286221438836,0.33895286221438836,9
+Arctic Warbler,Spring,prcp,5.0,May,0.5117339863841233,0.5117339863841233,9
+Ashy Minivet,Spring,temperature,5.0,May,0.7070167415157955,0.7070167415157955,8
+Ashy Minivet,Spring,humidity,5.0,May,-0.5688595118998678,0.5688595118998678,8
+Ashy Minivet,Spring,prcp,5.0,May,-0.26249706567342046,0.26249706567342046,8
+Asian Brown Flycatcher,Spring,temperature,5.0,May,0.3544436933920781,0.3544436933920781,9
+Asian Brown Flycatcher,Spring,humidity,5.0,May,-0.2906881247370678,0.2906881247370678,9
+Asian Brown Flycatcher,Spring,prcp,5.0,May,-0.13861299459872564,0.13861299459872564,9
+Asian Short-toed Lark,Spring,temperature,5.0,May,0.5643964200444602,0.5643964200444602,7
+Asian Short-toed Lark,Spring,humidity,4.0,April,0.29044581851444146,0.29044581851444146,8
+Asian Short-toed Lark,Spring,prcp,4.0,April,0.5836123766628876,0.5836123766628876,8
+Asian Stubtail,Spring,temperature,5.0,May,-0.2773592474165723,0.2773592474165723,9
+Asian Stubtail,Spring,humidity,5.0,May,-0.045480493767295585,0.045480493767295585,9
+Asian Stubtail,Spring,prcp,5.0,May,0.24028394061124653,0.24028394061124653,9
+Baer's Pochard,Spring,temperature,5.0,May,-0.9649643153499831,0.9649643153499831,6
+Baer's Pochard,Spring,humidity,4.0,April,-0.6458364836592435,0.6458364836592435,8
+Baer's Pochard,Spring,prcp,4.0,April,-0.9356068191139967,0.9356068191139967,8
+Baikal Bush Warbler,Spring,temperature,5.0,May,-0.44147713869593885,0.44147713869593885,9
+Baikal Bush Warbler,Spring,humidity,5.0,May,0.27746674822711953,0.27746674822711953,9
+Baikal Bush Warbler,Spring,prcp,5.0,May,-0.18389241077669613,0.18389241077669613,9
+Baillon's Crake,Spring,temperature,5.0,May,-0.33464453261764765,0.33464453261764765,9
+Baillon's Crake,Spring,humidity,5.0,May,-0.37568599930069324,0.37568599930069324,9
+Baillon's Crake,Spring,prcp,5.0,May,-0.4638896509802701,0.4638896509802701,9
+Bank Swallow,Spring,temperature,4.0,April,-0.47579764477878445,0.47579764477878445,7
+Bank Swallow,Spring,humidity,5.0,May,-0.40073904563702956,0.40073904563702956,9
+Bank Swallow,Spring,prcp,4.0,April,-0.2696523268200249,0.2696523268200249,7
+Bar-headed Goose,Spring,temperature,5.0,May,0.8778823949689514,0.8778823949689514,5
+Bar-headed Goose,Spring,humidity,3.0,March,-0.6347541389960163,0.6347541389960163,6
+Bar-headed Goose,Spring,prcp,4.0,April,0.8463626264767375,0.8463626264767375,6
+Barn Swallow,Spring,temperature,4.0,April,-0.611884218976633,0.611884218976633,9
+Barn Swallow,Spring,humidity,3.0,March,-0.2250317013975786,0.2250317013975786,9
+Barn Swallow,Spring,prcp,5.0,May,-0.491849058865978,0.491849058865978,9
+Black Kite,Spring,temperature,5.0,May,0.5692769558825963,0.5692769558825963,9
+Black Kite,Spring,humidity,5.0,May,-0.1520629048827491,0.1520629048827491,9
+Black Kite,Spring,prcp,4.0,April,0.36305578597526644,0.36305578597526644,9
+Black Swan,Spring,temperature,3.0,March,0.6824589152397283,0.6824589152397283,8
+Black Swan,Spring,humidity,5.0,May,0.6875758259536399,0.6875758259536399,6
+Black Swan,Spring,prcp,5.0,May,0.8236558150712536,0.8236558150712536,6
+Black-bellied Plover,Spring,temperature,,,,,0
+Black-bellied Plover,Spring,humidity,,,,,0
+Black-bellied Plover,Spring,prcp,,,,,0
+Black-faced Bunting,Spring,temperature,4.0,April,-0.44800082505137895,0.44800082505137895,9
+Black-faced Bunting,Spring,humidity,3.0,March,-0.4998712684445874,0.4998712684445874,8
+Black-faced Bunting,Spring,prcp,5.0,May,-0.26369240210780687,0.26369240210780687,9
+Black-headed Gull,Spring,temperature,5.0,May,0.2201493789722871,0.2201493789722871,9
+Black-headed Gull,Spring,humidity,5.0,May,-0.4218387440478228,0.4218387440478228,9
+Black-headed Gull,Spring,prcp,5.0,May,-0.40474483850545845,0.40474483850545845,9
+Black-legged Kittiwake,Spring,temperature,,,,,0
+Black-legged Kittiwake,Spring,humidity,,,,,0
+Black-legged Kittiwake,Spring,prcp,,,,,0
+Black-tailed Godwit,Spring,temperature,4.0,April,-0.35327689858159145,0.35327689858159145,7
+Black-tailed Godwit,Spring,humidity,5.0,May,-0.32706779244380085,0.32706779244380085,9
+Black-tailed Godwit,Spring,prcp,4.0,April,0.18458878119037767,0.18458878119037767,7
+Black-winged Cuckooshrike,Spring,temperature,,,,,0
+Black-winged Cuckooshrike,Spring,humidity,,,,,0
+Black-winged Cuckooshrike,Spring,prcp,,,,,0
+Black-winged Stilt,Spring,temperature,4.0,April,-0.30580381825292907,0.30580381825292907,9
+Black-winged Stilt,Spring,humidity,5.0,May,-0.5277197081156415,0.5277197081156415,9
+Black-winged Stilt,Spring,prcp,5.0,May,-0.7343001989321479,0.7343001989321479,9
+Bluethroat,Spring,temperature,4.0,April,-0.11252601119266224,0.11252601119266224,6
+Bluethroat,Spring,humidity,5.0,May,-0.7272747473357176,0.7272747473357176,9
+Bluethroat,Spring,prcp,4.0,April,0.45904587760023335,0.45904587760023335,6
+Blyth's Pipit,Spring,temperature,5.0,May,0.38055694934111595,0.38055694934111595,8
+Blyth's Pipit,Spring,humidity,5.0,May,-0.4066175637962415,0.4066175637962415,8
+Blyth's Pipit,Spring,prcp,5.0,May,-0.5443158077562551,0.5443158077562551,8
+Booted Eagle,Spring,temperature,4.0,April,0.3621681328495062,0.3621681328495062,7
+Booted Eagle,Spring,humidity,5.0,May,-0.7915272427190299,0.7915272427190299,7
+Booted Eagle,Spring,prcp,5.0,May,-0.3948714406527846,0.3948714406527846,7
+Brambling,Spring,temperature,5.0,May,-0.7346213296282215,0.7346213296282215,9
+Brambling,Spring,humidity,4.0,April,-0.261677661300774,0.261677661300774,9
+Brambling,Spring,prcp,3.0,March,0.549207234169451,0.549207234169451,9
+Brown Eared-Pheasant,Spring,temperature,,,,,0
+Brown Eared-Pheasant,Spring,humidity,,,,,0
+Brown Eared-Pheasant,Spring,prcp,,,,,0
+Calidris sp.,Spring,temperature,,,,,0
+Calidris sp.,Spring,humidity,,,,,0
+Calidris sp.,Spring,prcp,,,,,0
+Chestnut Bunting,Spring,temperature,5.0,May,-0.30422440919238053,0.30422440919238053,9
+Chestnut Bunting,Spring,humidity,5.0,May,-0.22294714884260258,0.22294714884260258,9
+Chestnut Bunting,Spring,prcp,5.0,May,-0.008611980042145834,0.008611980042145834,9
+Chestnut-eared Bunting,Spring,temperature,5.0,May,0.28026360987133475,0.28026360987133475,9
+Chestnut-eared Bunting,Spring,humidity,5.0,May,-0.8460424574608622,0.8460424574608622,9
+Chestnut-eared Bunting,Spring,prcp,4.0,April,0.5185760232513794,0.5185760232513794,5
+Chinese Penduline-Tit,Spring,temperature,5.0,May,0.7634047724076474,0.7634047724076474,9
+Chinese Penduline-Tit,Spring,humidity,5.0,May,-0.4395824226357926,0.4395824226357926,9
+Chinese Penduline-Tit,Spring,prcp,5.0,May,-0.6502953934998321,0.6502953934998321,9
+Chinese Sparrowhawk,Spring,temperature,5.0,May,-0.016715664583328838,0.016715664583328838,9
+Chinese Sparrowhawk,Spring,humidity,5.0,May,0.43239626494885625,0.43239626494885625,9
+Chinese Sparrowhawk,Spring,prcp,5.0,May,0.8280193276563854,0.8280193276563854,9
+Chinese Thrush,Spring,temperature,4.0,April,0.16913945503397837,0.16913945503397837,8
+Chinese Thrush,Spring,humidity,4.0,April,-0.4441470786467672,0.4441470786467672,8
+Chinese Thrush,Spring,prcp,4.0,April,-0.4277504343298584,0.4277504343298584,8
+Citrine Wagtail,Spring,temperature,4.0,April,-0.20883394122490934,0.20883394122490934,9
+Citrine Wagtail,Spring,humidity,5.0,May,-0.5906036244359698,0.5906036244359698,9
+Citrine Wagtail,Spring,prcp,5.0,May,-0.6211893516623223,0.6211893516623223,9
+Claudia's Leaf Warbler,Spring,temperature,5.0,May,-0.4115735532097655,0.4115735532097655,9
+Claudia's Leaf Warbler,Spring,humidity,5.0,May,0.4869110317887411,0.4869110317887411,9
+Claudia's Leaf Warbler,Spring,prcp,4.0,April,-0.7273489755516219,0.7273489755516219,9
+Coal Tit,Spring,temperature,4.0,April,0.23222765073287868,0.23222765073287868,7
+Coal Tit,Spring,humidity,5.0,May,0.45379591214843845,0.45379591214843845,9
+Coal Tit,Spring,prcp,5.0,May,0.8087006629949186,0.8087006629949186,9
+Collared Crow,Spring,temperature,,,,,0
+Collared Crow,Spring,humidity,,,,,0
+Collared Crow,Spring,prcp,,,,,0
+Common Goldeneye,Spring,temperature,3.0,March,-0.46570733778574114,0.46570733778574114,9
+Common Goldeneye,Spring,humidity,3.0,March,0.07784308629561985,0.07784308629561985,9
+Common Goldeneye,Spring,prcp,3.0,March,0.24279451077567685,0.24279451077567685,9
+Common Greenshank,Spring,temperature,4.0,April,-0.5638881041953393,0.5638881041953393,8
+Common Greenshank,Spring,humidity,5.0,May,-0.840792269063741,0.840792269063741,9
+Common Greenshank,Spring,prcp,5.0,May,-0.49686185762278623,0.49686185762278623,9
+Common Gull,Spring,temperature,4.0,April,-0.4323223301132426,0.4323223301132426,8
+Common Gull,Spring,humidity,3.0,March,-0.36204747216543026,0.36204747216543026,7
+Common Gull,Spring,prcp,4.0,April,-0.47809491855504094,0.47809491855504094,8
+Common Pochard,Spring,temperature,3.0,March,-0.32133145091204873,0.32133145091204873,9
+Common Pochard,Spring,humidity,4.0,April,0.45496057227460523,0.45496057227460523,9
+Common Pochard,Spring,prcp,4.0,April,0.763667342303239,0.763667342303239,9
+Common Pochard x Ferruginous Duck (hybrid),Spring,temperature,,,,,0
+Common Pochard x Ferruginous Duck (hybrid),Spring,humidity,,,,,0
+Common Pochard x Ferruginous Duck (hybrid),Spring,prcp,,,,,0
+Common Redshank,Spring,temperature,4.0,April,-0.17704859759172276,0.17704859759172276,9
+Common Redshank,Spring,humidity,5.0,May,-0.6971699319615738,0.6971699319615738,9
+Common Redshank,Spring,prcp,5.0,May,-0.6588507933573639,0.6588507933573639,9
+Common Sandpiper,Spring,temperature,5.0,May,0.1922473214685383,0.1922473214685383,9
+Common Sandpiper,Spring,humidity,5.0,May,-0.8536041586525996,0.8536041586525996,9
+Common Sandpiper,Spring,prcp,3.0,March,0.9457258347443738,0.9457258347443738,7
+Common Shelduck,Spring,temperature,4.0,April,-0.677942259586579,0.677942259586579,8
+Common Shelduck,Spring,humidity,5.0,May,-0.7721341713913732,0.7721341713913732,9
+Common Shelduck,Spring,prcp,5.0,May,-0.4668547915731809,0.4668547915731809,9
+Common Snipe,Spring,temperature,5.0,May,-0.6844508339529615,0.6844508339529615,9
+Common Snipe,Spring,humidity,4.0,April,-0.13511614701836624,0.13511614701836624,9
+Common Snipe,Spring,prcp,5.0,May,-0.23995598071115654,0.23995598071115654,9
+Common Swift,Spring,temperature,5.0,May,0.6896944648997504,0.6896944648997504,9
+Common Swift,Spring,humidity,4.0,April,-0.05248421015510364,0.05248421015510364,9
+Common Swift,Spring,prcp,3.0,March,-0.4567092744276329,0.4567092744276329,7
+Common Tern,Spring,temperature,5.0,May,-0.43666317216678624,0.43666317216678624,9
+Common Tern,Spring,humidity,4.0,April,0.36813780991486195,0.36813780991486195,9
+Common Tern,Spring,prcp,5.0,May,0.18027718725993316,0.18027718725993316,9
+Crested Goshawk,Spring,temperature,,,,,0
+Crested Goshawk,Spring,humidity,,,,,0
+Crested Goshawk,Spring,prcp,,,,,0
+Crested Lark,Spring,temperature,3.0,March,-0.05831558079669677,0.05831558079669677,8
+Crested Lark,Spring,humidity,5.0,May,-0.7467006309461598,0.7467006309461598,5
+Crested Lark,Spring,prcp,5.0,May,-0.7521020176369577,0.7521020176369577,5
+Curlew Sandpiper,Spring,temperature,5.0,May,0.4025418160936812,0.4025418160936812,9
+Curlew Sandpiper,Spring,humidity,5.0,May,-0.021479587113222592,0.021479587113222592,9
+Curlew Sandpiper,Spring,prcp,5.0,May,-0.04442563274831957,0.04442563274831957,9
+Dalmatian Pelican,Spring,temperature,,,,,0
+Dalmatian Pelican,Spring,humidity,,,,,0
+Dalmatian Pelican,Spring,prcp,,,,,0
+Dark-sided Flycatcher,Spring,temperature,5.0,May,-0.6698205979756359,0.6698205979756359,9
+Dark-sided Flycatcher,Spring,humidity,5.0,May,0.7361216555301882,0.7361216555301882,9
+Dark-sided Flycatcher,Spring,prcp,5.0,May,0.6478876055840618,0.6478876055840618,9
+Daurian Jackdaw,Spring,temperature,3.0,March,-0.5926947060571909,0.5926947060571909,9
+Daurian Jackdaw,Spring,humidity,3.0,March,0.3527697325687179,0.3527697325687179,9
+Daurian Jackdaw,Spring,prcp,5.0,May,-0.3479076308915478,0.3479076308915478,7
+Daurian Starling,Spring,temperature,4.0,April,0.6239296184091448,0.6239296184091448,7
+Daurian Starling,Spring,humidity,5.0,May,0.3268790348195284,0.3268790348195284,9
+Daurian Starling,Spring,prcp,4.0,April,-0.19876623803577134,0.19876623803577134,7
+Demoiselle Crane,Spring,temperature,,,,,0
+Demoiselle Crane,Spring,humidity,,,,,0
+Demoiselle Crane,Spring,prcp,,,,,0
+Dendrocopos sp.,Spring,temperature,,,,,0
+Dendrocopos sp.,Spring,humidity,,,,,0
+Dendrocopos sp.,Spring,prcp,,,,,0
+Domestic goose sp. (Domestic type),Spring,temperature,,,,,0
+Domestic goose sp. (Domestic type),Spring,humidity,,,,,0
+Domestic goose sp. (Domestic type),Spring,prcp,,,,,0
+Dusky Warbler,Spring,temperature,5.0,May,-0.27598527744091683,0.27598527744091683,9
+Dusky Warbler,Spring,humidity,5.0,May,-0.43681837168174015,0.43681837168174015,9
+Dusky Warbler,Spring,prcp,5.0,May,-0.09280459819138971,0.09280459819138971,9
+Eared Grebe,Spring,temperature,5.0,May,-0.3180780951232443,0.3180780951232443,7
+Eared Grebe,Spring,humidity,4.0,April,-0.38309029002362294,0.38309029002362294,9
+Eared Grebe,Spring,prcp,5.0,May,0.19739721822797246,0.19739721822797246,7
+Eastern Buzzard,Spring,temperature,5.0,May,-0.6736416029566789,0.6736416029566789,9
+Eastern Buzzard,Spring,humidity,3.0,March,0.40838629389581943,0.40838629389581943,9
+Eastern Buzzard,Spring,prcp,3.0,March,-0.3642391118971409,0.3642391118971409,9
+Eastern Cattle-Egret,Spring,temperature,5.0,May,0.5249191621235947,0.5249191621235947,9
+Eastern Cattle-Egret,Spring,humidity,5.0,May,-0.6720326592711668,0.6720326592711668,9
+Eastern Cattle-Egret,Spring,prcp,5.0,May,-0.2513820449926413,0.2513820449926413,9
+Eastern Crowned Warbler,Spring,temperature,5.0,May,-0.2719936203749013,0.2719936203749013,9
+Eastern Crowned Warbler,Spring,humidity,5.0,May,0.6242263988408101,0.6242263988408101,9
+Eastern Crowned Warbler,Spring,prcp,4.0,April,-0.5930895733269527,0.5930895733269527,7
+Eastern Marsh Harrier,Spring,temperature,4.0,April,0.47826235127139216,0.47826235127139216,9
+Eastern Marsh Harrier,Spring,humidity,4.0,April,0.38593938766675406,0.38593938766675406,9
+Eastern Marsh Harrier,Spring,prcp,4.0,April,0.5864349901802228,0.5864349901802228,9
+Eastern Red-rumped Swallow,Spring,temperature,3.0,March,0.40996618084115366,0.40996618084115366,7
+Eastern Red-rumped Swallow,Spring,humidity,3.0,March,-0.7016808763569526,0.7016808763569526,7
+Eastern Red-rumped Swallow,Spring,prcp,4.0,April,0.45549128865379285,0.45549128865379285,9
+Eastern Yellow Wagtail,Spring,temperature,4.0,April,0.13597932908709265,0.13597932908709265,9
+Eastern Yellow Wagtail,Spring,humidity,5.0,May,-0.775697101322139,0.775697101322139,9
+Eastern Yellow Wagtail,Spring,prcp,5.0,May,-0.31861974907183027,0.31861974907183027,9
+Eurasian Crag-Martin,Spring,temperature,5.0,May,0.3660988892108925,0.3660988892108925,6
+Eurasian Crag-Martin,Spring,humidity,3.0,March,0.16812141045077478,0.16812141045077478,8
+Eurasian Crag-Martin,Spring,prcp,5.0,May,0.4112561632382712,0.4112561632382712,6
+Eurasian Curlew,Spring,temperature,5.0,May,0.7320564209026315,0.7320564209026315,6
+Eurasian Curlew,Spring,humidity,4.0,April,0.36281569179203627,0.36281569179203627,7
+Eurasian Curlew,Spring,prcp,3.0,March,0.40812981199518794,0.40812981199518794,6
+Eurasian Goshawk,Spring,temperature,5.0,May,-0.26829978740867066,0.26829978740867066,5
+Eurasian Goshawk,Spring,humidity,5.0,May,-0.21688605664086089,0.21688605664086089,5
+Eurasian Goshawk,Spring,prcp,3.0,March,0.3256052968191244,0.3256052968191244,9
+Eurasian Nuthatch,Spring,temperature,4.0,April,-0.40294197784190694,0.40294197784190694,8
+Eurasian Nuthatch,Spring,humidity,3.0,March,0.7413355622138955,0.7413355622138955,9
+Eurasian Nuthatch,Spring,prcp,3.0,March,0.6854349946708982,0.6854349946708982,9
+Eurasian Skylark,Spring,temperature,5.0,May,-0.4911592138633805,0.4911592138633805,6
+Eurasian Skylark,Spring,humidity,5.0,May,-0.2873547589501678,0.2873547589501678,6
+Eurasian Skylark,Spring,prcp,3.0,March,0.5545956548666201,0.5545956548666201,9
+Eurasian Spoonbill,Spring,temperature,5.0,May,0.3056612269227949,0.3056612269227949,9
+Eurasian Spoonbill,Spring,humidity,5.0,May,-0.9137723036053734,0.9137723036053734,9
+Eurasian Spoonbill,Spring,prcp,4.0,April,0.5092163054769472,0.5092163054769472,9
+Eurasian Whimbrel,Spring,temperature,5.0,May,0.029815638155843854,0.029815638155843854,8
+Eurasian Whimbrel,Spring,humidity,5.0,May,-0.4871070857137805,0.4871070857137805,8
+Eurasian Whimbrel,Spring,prcp,5.0,May,-0.7613771660779242,0.7613771660779242,8
+Eurasian Wigeon,Spring,temperature,5.0,May,-0.6226804757118997,0.6226804757118997,7
+Eurasian Wigeon,Spring,humidity,4.0,April,0.6166959822549453,0.6166959822549453,9
+Eurasian Wigeon,Spring,prcp,4.0,April,0.5082844669973553,0.5082844669973553,9
+Eurasian Woodcock,Spring,temperature,4.0,April,0.1422185881453291,0.1422185881453291,9
+Eurasian Woodcock,Spring,humidity,4.0,April,-0.02142563521392811,0.02142563521392811,9
+Eurasian Woodcock,Spring,prcp,4.0,April,0.06361035297421237,0.06361035297421237,9
+Eurasian Wryneck,Spring,temperature,5.0,May,0.48263211043802584,0.48263211043802584,9
+Eurasian Wryneck,Spring,humidity,4.0,April,0.8576321365036983,0.8576321365036983,6
+Eurasian Wryneck,Spring,prcp,4.0,April,0.7391927510333935,0.7391927510333935,6
+European Starling,Spring,temperature,3.0,March,-0.3708251013681149,0.3708251013681149,8
+European Starling,Spring,humidity,3.0,March,0.45064295101374097,0.45064295101374097,8
+European Starling,Spring,prcp,3.0,March,0.2860291338765723,0.2860291338765723,8
+Eyebrowed Thrush,Spring,temperature,5.0,May,-0.5450702616926921,0.5450702616926921,9
+Eyebrowed Thrush,Spring,humidity,5.0,May,-0.2007610344174435,0.2007610344174435,9
+Eyebrowed Thrush,Spring,prcp,5.0,May,-0.21958513348064115,0.21958513348064115,9
+Falcated Duck,Spring,temperature,3.0,March,-0.24935743631529986,0.24935743631529986,9
+Falcated Duck,Spring,humidity,5.0,May,0.6885277535906124,0.6885277535906124,8
+Falcated Duck,Spring,prcp,5.0,May,0.7628849812100756,0.7628849812100756,8
+Ferruginous Duck,Spring,temperature,4.0,April,0.29883176475447154,0.29883176475447154,9
+Ferruginous Duck,Spring,humidity,4.0,April,0.525431515832463,0.525431515832463,9
+Ferruginous Duck,Spring,prcp,4.0,April,0.7645184203488008,0.7645184203488008,9
+Ferruginous Duck x Baer's Pochard (hybrid),Spring,temperature,,,,,0
+Ferruginous Duck x Baer's Pochard (hybrid),Spring,humidity,,,,,0
+Ferruginous Duck x Baer's Pochard (hybrid),Spring,prcp,,,,,0
+Ferruginous Duck/Baer's Pochard,Spring,temperature,,,,,0
+Ferruginous Duck/Baer's Pochard,Spring,humidity,,,,,0
+Ferruginous Duck/Baer's Pochard,Spring,prcp,,,,,0
+Forest Wagtail,Spring,temperature,5.0,May,-0.3738825840824965,0.3738825840824965,9
+Forest Wagtail,Spring,humidity,5.0,May,0.30109198700550255,0.30109198700550255,9
+Forest Wagtail,Spring,prcp,5.0,May,0.5609289983577153,0.5609289983577153,9
+Garganey,Spring,temperature,5.0,May,-0.5468409555970783,0.5468409555970783,9
+Garganey,Spring,humidity,3.0,March,-0.45543905271280355,0.45543905271280355,8
+Garganey,Spring,prcp,3.0,March,-0.2851423245620941,0.2851423245620941,8
+Gray Nightjar,Spring,temperature,5.0,May,-0.2017708952546751,0.2017708952546751,9
+Gray Nightjar,Spring,humidity,5.0,May,-0.20816906031048402,0.20816906031048402,9
+Gray Nightjar,Spring,prcp,5.0,May,-0.15762507155286257,0.15762507155286257,9
+Gray-faced Buzzard,Spring,temperature,3.0,March,-0.6844937826243395,0.6844937826243395,5
+Gray-faced Buzzard,Spring,humidity,3.0,March,0.30826466051614154,0.30826466051614154,5
+Gray-faced Buzzard,Spring,prcp,3.0,March,-0.5671317948102716,0.5671317948102716,5
+Gray-headed Lapwing,Spring,temperature,5.0,May,0.5951743257351976,0.5951743257351976,9
+Gray-headed Lapwing,Spring,humidity,5.0,May,-0.8204745416434758,0.8204745416434758,9
+Gray-headed Lapwing,Spring,prcp,5.0,May,-0.5638008495439233,0.5638008495439233,9
+Gray-streaked Flycatcher,Spring,temperature,5.0,May,0.002304559009310879,0.002304559009310879,9
+Gray-streaked Flycatcher,Spring,humidity,5.0,May,0.6638918141201432,0.6638918141201432,9
+Gray-streaked Flycatcher,Spring,prcp,5.0,May,0.5476291894127451,0.5476291894127451,9
+Graylag Goose,Spring,temperature,3.0,March,-0.2782723665185477,0.2782723665185477,9
+Graylag Goose,Spring,humidity,3.0,March,0.4723201285990833,0.4723201285990833,9
+Graylag Goose,Spring,prcp,5.0,May,0.35998037697726576,0.35998037697726576,7
+Graylag x Swan Goose (hybrid),Spring,temperature,,,,,0
+Graylag x Swan Goose (hybrid),Spring,humidity,,,,,0
+Graylag x Swan Goose (hybrid),Spring,prcp,,,,,0
+Great Bustard,Spring,temperature,3.0,March,-0.2471170100302032,0.2471170100302032,7
+Great Bustard,Spring,humidity,4.0,April,-0.15631701731927,0.15631701731927,8
+Great Bustard,Spring,prcp,4.0,April,-0.434176529370039,0.434176529370039,8
+Greater Sand-Plover,Spring,temperature,5.0,May,-0.12438088113863585,0.12438088113863585,9
+Greater Sand-Plover,Spring,humidity,5.0,May,-0.5742471238159346,0.5742471238159346,9
+Greater Sand-Plover,Spring,prcp,5.0,May,-0.6814502220614533,0.6814502220614533,9
+Greater Scaup,Spring,temperature,3.0,March,-0.3874261158593712,0.3874261158593712,5
+Greater Scaup,Spring,humidity,3.0,March,0.5215349665634152,0.5215349665634152,5
+Greater Scaup,Spring,prcp,3.0,March,0.6391481877931616,0.6391481877931616,5
+Greater Spotted Eagle,Spring,temperature,5.0,May,0.6147563914656806,0.6147563914656806,9
+Greater Spotted Eagle,Spring,humidity,3.0,March,-0.7185233423500537,0.7185233423500537,7
+Greater Spotted Eagle,Spring,prcp,4.0,April,-0.31154509921420603,0.31154509921420603,9
+Greater White-fronted Goose,Spring,temperature,3.0,March,-0.48358620351206444,0.48358620351206444,8
+Greater White-fronted Goose,Spring,humidity,4.0,April,-0.5343882799099828,0.5343882799099828,7
+Greater White-fronted Goose,Spring,prcp,4.0,April,-0.545985255536784,0.545985255536784,7
+Green-backed Flycatcher,Spring,temperature,5.0,May,-0.7334473230248912,0.7334473230248912,9
+Green-backed Flycatcher,Spring,humidity,4.0,April,-0.778795399342604,0.778795399342604,5
+Green-backed Flycatcher,Spring,prcp,5.0,May,0.7262844986363519,0.7262844986363519,9
+Gull-billed Tern,Spring,temperature,5.0,May,-0.28079794749699316,0.28079794749699316,9
+Gull-billed Tern,Spring,humidity,4.0,April,0.45403549253245606,0.45403549253245606,7
+Gull-billed Tern,Spring,prcp,4.0,April,0.24596499707153927,0.24596499707153927,7
+Hair-crested Drongo,Spring,temperature,5.0,May,0.06818415165555859,0.06818415165555859,9
+Hair-crested Drongo,Spring,humidity,5.0,May,0.3349925146118526,0.3349925146118526,9
+Hair-crested Drongo,Spring,prcp,5.0,May,-0.2412659944605072,0.2412659944605072,9
+Hen Harrier,Spring,temperature,3.0,March,0.5203696790373918,0.5203696790373918,9
+Hen Harrier,Spring,humidity,4.0,April,0.31311471092014326,0.31311471092014326,9
+Hen Harrier,Spring,prcp,5.0,May,0.31049675723578735,0.31049675723578735,9
+Himalayan Owl,Spring,temperature,5.0,May,0.5720170308758007,0.5720170308758007,9
+Himalayan Owl,Spring,humidity,4.0,April,-0.3598629922274942,0.3598629922274942,6
+Himalayan Owl,Spring,prcp,4.0,April,-0.3205227750267831,0.3205227750267831,6
+Hume's Warbler,Spring,temperature,5.0,May,-0.5049103048597251,0.5049103048597251,9
+Hume's Warbler,Spring,humidity,4.0,April,-0.5783442864568339,0.5783442864568339,9
+Hume's Warbler,Spring,prcp,4.0,April,-0.5790418872146055,0.5790418872146055,9
+Japanese Grosbeak,Spring,temperature,,,,,0
+Japanese Grosbeak,Spring,humidity,,,,,0
+Japanese Grosbeak,Spring,prcp,,,,,0
+Japanese Quail,Spring,temperature,4.0,April,-0.5305312349629497,0.5305312349629497,8
+Japanese Quail,Spring,humidity,5.0,May,-0.8042372960305049,0.8042372960305049,9
+Japanese Quail,Spring,prcp,5.0,May,-0.626425128182831,0.626425128182831,9
+Kentish Plover,Spring,temperature,5.0,May,0.3706726678733125,0.3706726678733125,9
+Kentish Plover,Spring,humidity,4.0,April,0.5045608216137505,0.5045608216137505,9
+Kentish Plover,Spring,prcp,5.0,May,-0.47552424562272544,0.47552424562272544,9
+Koklass Pheasant,Spring,temperature,5.0,May,-0.2923540023685928,0.2923540023685928,5
+Koklass Pheasant,Spring,humidity,5.0,May,-0.35966043627141947,0.35966043627141947,5
+Koklass Pheasant,Spring,prcp,5.0,May,-0.8659416015139663,0.8659416015139663,5
+Larus sp.,Spring,temperature,,,,,0
+Larus sp.,Spring,humidity,,,,,0
+Larus sp.,Spring,prcp,,,,,0
+Lesser Black-backed Gull,Spring,temperature,4.0,April,0.33744138672683804,0.33744138672683804,5
+Lesser Black-backed Gull,Spring,humidity,3.0,March,0.5389156740546096,0.5389156740546096,7
+Lesser Black-backed Gull,Spring,prcp,3.0,March,0.7321092345103073,0.7321092345103073,7
+Lesser Kestrel,Spring,temperature,4.0,April,-0.49067810224071273,0.49067810224071273,6
+Lesser Kestrel,Spring,humidity,4.0,April,0.31963433085314946,0.31963433085314946,6
+Lesser Kestrel,Spring,prcp,4.0,April,-0.09897606655533768,0.09897606655533768,6
+Lesser White-fronted Goose,Spring,temperature,3.0,March,0.6638495800275903,0.6638495800275903,5
+Lesser White-fronted Goose,Spring,humidity,3.0,March,0.34289890419929003,0.34289890419929003,5
+Lesser White-fronted Goose,Spring,prcp,3.0,March,0.6815873949854832,0.6815873949854832,5
+Little Bunting,Spring,temperature,4.0,April,0.24044386036335422,0.24044386036335422,9
+Little Bunting,Spring,humidity,5.0,May,-0.6862954943055365,0.6862954943055365,9
+Little Bunting,Spring,prcp,5.0,May,-0.6666226949370609,0.6666226949370609,9
+Little Curlew,Spring,temperature,,,,,0
+Little Curlew,Spring,humidity,,,,,0
+Little Curlew,Spring,prcp,,,,,0
+Little Owl,Spring,temperature,4.0,April,0.6745482497554839,0.6745482497554839,6
+Little Owl,Spring,humidity,4.0,April,0.4652790887454247,0.4652790887454247,6
+Little Owl,Spring,prcp,5.0,May,0.4946514534154815,0.4946514534154815,6
+Little Ringed Plover,Spring,temperature,5.0,May,0.44701558992660845,0.44701558992660845,9
+Little Ringed Plover,Spring,humidity,5.0,May,-0.6664837671397241,0.6664837671397241,9
+Little Ringed Plover,Spring,prcp,5.0,May,-0.8113308203878881,0.8113308203878881,9
+Little Tern,Spring,temperature,5.0,May,0.3722566856028849,0.3722566856028849,9
+Little Tern,Spring,humidity,5.0,May,-0.2826920613056573,0.2826920613056573,9
+Little Tern,Spring,prcp,5.0,May,-0.4410188164368538,0.4410188164368538,9
+Long-tailed Minivet,Spring,temperature,5.0,May,-0.7241932977959518,0.7241932977959518,9
+Long-tailed Minivet,Spring,humidity,5.0,May,0.4469872537819778,0.4469872537819778,9
+Long-tailed Minivet,Spring,prcp,4.0,April,-0.40658090096848465,0.40658090096848465,8
+Long-toed Stint,Spring,temperature,5.0,May,0.19221548045431985,0.19221548045431985,9
+Long-toed Stint,Spring,humidity,5.0,May,-0.7566974840304743,0.7566974840304743,9
+Long-toed Stint,Spring,prcp,5.0,May,-0.7101678466521127,0.7101678466521127,9
+Mallard x Northern Pintail (hybrid),Spring,temperature,,,,,0
+Mallard x Northern Pintail (hybrid),Spring,humidity,,,,,0
+Mallard x Northern Pintail (hybrid),Spring,prcp,,,,,0
+Marsh Sandpiper,Spring,temperature,4.0,April,-0.4257634616629923,0.4257634616629923,7
+Marsh Sandpiper,Spring,humidity,5.0,May,-0.845117857900736,0.845117857900736,9
+Marsh Sandpiper,Spring,prcp,4.0,April,-0.5723606277104115,0.5723606277104115,7
+Marsh/Willow Tit,Spring,temperature,,,,,0
+Marsh/Willow Tit,Spring,humidity,,,,,0
+Marsh/Willow Tit,Spring,prcp,,,,,0
+Merlin,Spring,temperature,4.0,April,-0.6276540196053199,0.6276540196053199,7
+Merlin,Spring,humidity,3.0,March,0.08141389461372203,0.08141389461372203,6
+Merlin,Spring,prcp,3.0,March,0.5421615206190502,0.5421615206190502,6
+Mongolian Gull,Spring,temperature,5.0,May,0.5565000712567898,0.5565000712567898,8
+Mongolian Gull,Spring,humidity,5.0,May,-0.29752484352035313,0.29752484352035313,8
+Mongolian Gull,Spring,prcp,4.0,April,0.1834789698565291,0.1834789698565291,8
+Mongolian Short-toed Lark,Spring,temperature,4.0,April,-0.760747334893424,0.760747334893424,9
+Mongolian Short-toed Lark,Spring,humidity,4.0,April,-0.39677677255238414,0.39677677255238414,9
+Mongolian Short-toed Lark,Spring,prcp,4.0,April,-0.05174030385814215,0.05174030385814215,9
+Muscovy Duck,Spring,temperature,,,,,0
+Muscovy Duck,Spring,humidity,,,,,0
+Muscovy Duck,Spring,prcp,,,,,0
+Northern Boobook,Spring,temperature,5.0,May,-0.028204195902238206,0.028204195902238206,7
+Northern Boobook,Spring,humidity,5.0,May,0.16949689177016436,0.16949689177016436,7
+Northern Boobook,Spring,prcp,5.0,May,-0.17779242592434408,0.17779242592434408,7
+Northern Lapwing,Spring,temperature,5.0,May,0.3933114265552803,0.3933114265552803,9
+Northern Lapwing,Spring,humidity,3.0,March,0.24283888612718585,0.24283888612718585,9
+Northern Lapwing,Spring,prcp,5.0,May,-0.4191837619388332,0.4191837619388332,9
+Northern Pintail,Spring,temperature,5.0,May,-0.7445923244168403,0.7445923244168403,6
+Northern Pintail,Spring,humidity,5.0,May,-0.6831430497148856,0.6831430497148856,6
+Northern Pintail,Spring,prcp,4.0,April,-0.6648180422804852,0.6648180422804852,9
+Northern Shoveler,Spring,temperature,5.0,May,0.48330326934950346,0.48330326934950346,7
+Northern Shoveler,Spring,humidity,4.0,April,0.5881566029298986,0.5881566029298986,9
+Northern Shoveler,Spring,prcp,4.0,April,0.40285256479984427,0.40285256479984427,9
+Ochre-rumped Bunting,Spring,temperature,5.0,May,0.48617070211314745,0.48617070211314745,6
+Ochre-rumped Bunting,Spring,humidity,5.0,May,-0.7991394887611849,0.7991394887611849,6
+Ochre-rumped Bunting,Spring,prcp,4.0,April,0.9360612175727184,0.9360612175727184,7
+Olive-backed Pipit,Spring,temperature,3.0,March,-0.44965818185928075,0.44965818185928075,8
+Olive-backed Pipit,Spring,humidity,5.0,May,-0.4551998527731142,0.4551998527731142,9
+Olive-backed Pipit,Spring,prcp,4.0,April,-0.34704489099251573,0.34704489099251573,9
+Oriental Cuckoo,Spring,temperature,5.0,May,-0.7060629929244874,0.7060629929244874,5
+Oriental Cuckoo,Spring,humidity,5.0,May,0.4339763203482279,0.4339763203482279,5
+Oriental Cuckoo,Spring,prcp,5.0,May,0.19769573318599434,0.19769573318599434,5
+Oriental Honey-buzzard,Spring,temperature,4.0,April,0.29165750512746363,0.29165750512746363,5
+Oriental Honey-buzzard,Spring,humidity,4.0,April,0.5427672510472092,0.5427672510472092,5
+Oriental Honey-buzzard,Spring,prcp,4.0,April,0.6704250047417104,0.6704250047417104,5
+Oriental Plover,Spring,temperature,4.0,April,0.3260058720838386,0.3260058720838386,7
+Oriental Plover,Spring,humidity,4.0,April,0.4307149059674679,0.4307149059674679,7
+Oriental Plover,Spring,prcp,4.0,April,0.8075002376807444,0.8075002376807444,7
+Oriental Pratincole,Spring,temperature,4.0,April,-0.1223396091300081,0.1223396091300081,9
+Oriental Pratincole,Spring,humidity,5.0,May,-0.4743792624470044,0.4743792624470044,9
+Oriental Pratincole,Spring,prcp,5.0,May,-0.3754406620181769,0.3754406620181769,9
+Oriental Scops-Owl,Spring,temperature,4.0,April,0.5450198500452772,0.5450198500452772,9
+Oriental Scops-Owl,Spring,humidity,5.0,May,-0.40148363630931533,0.40148363630931533,9
+Oriental Scops-Owl,Spring,prcp,5.0,May,-0.47300180942461373,0.47300180942461373,9
+Oriental Stork,Spring,temperature,4.0,April,-0.07973325914346713,0.07973325914346713,8
+Oriental Stork,Spring,humidity,3.0,March,-0.564506098357931,0.564506098357931,8
+Oriental Stork,Spring,prcp,4.0,April,-0.44736194945822294,0.44736194945822294,8
+Osprey,Spring,temperature,5.0,May,-0.8292387019950179,0.8292387019950179,9
+Osprey,Spring,humidity,3.0,March,0.36540439225447513,0.36540439225447513,8
+Osprey,Spring,prcp,4.0,April,0.5964208562053699,0.5964208562053699,9
+Pacific Golden-Plover,Spring,temperature,5.0,May,0.21955445781073363,0.21955445781073363,9
+Pacific Golden-Plover,Spring,humidity,5.0,May,-0.46529323240388426,0.46529323240388426,9
+Pacific Golden-Plover,Spring,prcp,5.0,May,-0.03829740559366944,0.03829740559366944,9
+Pacific Swift,Spring,temperature,4.0,April,-0.45254157952891194,0.45254157952891194,7
+Pacific Swift,Spring,humidity,5.0,May,-0.46520971435060826,0.46520971435060826,9
+Pacific Swift,Spring,prcp,5.0,May,-0.10206728998860594,0.10206728998860594,9
+Pale-legged Leaf Warbler,Spring,temperature,5.0,May,0.06828927906710427,0.06828927906710427,8
+Pale-legged Leaf Warbler,Spring,humidity,5.0,May,-0.6818125441326436,0.6818125441326436,8
+Pale-legged Leaf Warbler,Spring,prcp,5.0,May,-0.8488172116977702,0.8488172116977702,8
+Pallas's Gull,Spring,temperature,4.0,April,0.12415413774186278,0.12415413774186278,5
+Pallas's Gull,Spring,humidity,4.0,April,0.4066272444301368,0.4066272444301368,5
+Pallas's Gull,Spring,prcp,4.0,April,0.42854936379125275,0.42854936379125275,5
+Pallas's Leaf Warbler,Spring,temperature,5.0,May,-0.6683216241451868,0.6683216241451868,9
+Pallas's Leaf Warbler,Spring,humidity,4.0,April,-0.4755481977966038,0.4755481977966038,9
+Pallas's Leaf Warbler,Spring,prcp,4.0,April,-0.6474260695349722,0.6474260695349722,9
+Pallas's/Reed Bunting,Spring,temperature,,,,,0
+Pallas's/Reed Bunting,Spring,humidity,,,,,0
+Pallas's/Reed Bunting,Spring,prcp,,,,,0
+Pechora Pipit,Spring,temperature,,,,,0
+Pechora Pipit,Spring,humidity,,,,,0
+Pechora Pipit,Spring,prcp,,,,,0
+Phylloscopus sp.,Spring,temperature,4.0,April,-0.46425910936384535,0.46425910936384535,5
+Phylloscopus sp.,Spring,humidity,5.0,May,-0.6560122918284006,0.6560122918284006,7
+Phylloscopus sp.,Spring,prcp,3.0,March,-0.4529270626525239,0.4529270626525239,6
+Pied Avocet,Spring,temperature,4.0,April,-0.3080460517039215,0.3080460517039215,9
+Pied Avocet,Spring,humidity,3.0,March,0.19814303294787883,0.19814303294787883,8
+Pied Avocet,Spring,prcp,3.0,March,0.35333541547781494,0.35333541547781494,8
+Pied Harrier,Spring,temperature,5.0,May,-0.6551616674460217,0.6551616674460217,9
+Pied Harrier,Spring,humidity,4.0,April,0.4416361248532567,0.4416361248532567,9
+Pied Harrier,Spring,prcp,4.0,April,0.7271218656879425,0.7271218656879425,9
+Pied Wheatear,Spring,temperature,,,,,0
+Pied Wheatear,Spring,humidity,,,,,0
+Pied Wheatear,Spring,prcp,,,,,0
+Pin-tailed Snipe,Spring,temperature,5.0,May,0.7055133341267975,0.7055133341267975,5
+Pin-tailed Snipe,Spring,humidity,5.0,May,-0.3445563388321419,0.3445563388321419,5
+Pin-tailed Snipe,Spring,prcp,5.0,May,-0.4432901297820064,0.4432901297820064,5
+Purple Heron,Spring,temperature,4.0,April,0.4113319226600003,0.4113319226600003,9
+Purple Heron,Spring,humidity,4.0,April,0.4960344538730716,0.4960344538730716,9
+Purple Heron,Spring,prcp,4.0,April,0.6220022687781925,0.6220022687781925,9
+Radde's Warbler,Spring,temperature,5.0,May,-0.5142839729939839,0.5142839729939839,9
+Radde's Warbler,Spring,humidity,5.0,May,0.15577876567821294,0.15577876567821294,9
+Radde's Warbler,Spring,prcp,4.0,April,-0.3809584633393876,0.3809584633393876,6
+Red Collared-Dove,Spring,temperature,,,,,0
+Red Collared-Dove,Spring,humidity,,,,,0
+Red Collared-Dove,Spring,prcp,,,,,0
+Red-crested Pochard,Spring,temperature,4.0,April,0.43657263550473246,0.43657263550473246,9
+Red-crested Pochard,Spring,humidity,5.0,May,0.5647825262924552,0.5647825262924552,9
+Red-crested Pochard,Spring,prcp,5.0,May,0.4344666318337615,0.4344666318337615,9
+Red-flanked Bluetail,Spring,temperature,3.0,March,0.6062595267206548,0.6062595267206548,5
+Red-flanked Bluetail,Spring,humidity,3.0,March,-0.6336347193426306,0.6336347193426306,5
+Red-flanked Bluetail,Spring,prcp,4.0,April,-0.17577862853314788,0.17577862853314788,8
+Red-flanked/Qilian Bluetail,Spring,temperature,5.0,May,-0.33585556994522425,0.33585556994522425,7
+Red-flanked/Qilian Bluetail,Spring,humidity,3.0,March,0.4202253700761134,0.4202253700761134,9
+Red-flanked/Qilian Bluetail,Spring,prcp,5.0,May,-0.17544758623924434,0.17544758623924434,7
+Red-necked Grebe,Spring,temperature,,,,,0
+Red-necked Grebe,Spring,humidity,,,,,0
+Red-necked Grebe,Spring,prcp,,,,,0
+Red-throated Pipit,Spring,temperature,4.0,April,0.3156044830565527,0.3156044830565527,9
+Red-throated Pipit,Spring,humidity,5.0,May,-0.9619477977096774,0.9619477977096774,9
+Red-throated Pipit,Spring,prcp,5.0,May,-0.637142565283547,0.637142565283547,9
+Reed Bunting,Spring,temperature,4.0,April,0.5136684470112673,0.5136684470112673,7
+Reed Bunting,Spring,humidity,5.0,May,-0.9048876437101803,0.9048876437101803,5
+Reed Bunting,Spring,prcp,3.0,March,0.7184448943902352,0.7184448943902352,8
+Relict Gull,Spring,temperature,5.0,May,-0.7139974605539027,0.7139974605539027,5
+Relict Gull,Spring,humidity,4.0,April,0.39567560363583826,0.39567560363583826,9
+Relict Gull,Spring,prcp,3.0,March,0.8183754662254019,0.8183754662254019,5
+Richard's Pipit,Spring,temperature,5.0,May,0.466305642297897,0.466305642297897,9
+Richard's Pipit,Spring,humidity,5.0,May,-0.9563609347912052,0.9563609347912052,9
+Richard's Pipit,Spring,prcp,5.0,May,-0.7684129541287719,0.7684129541287719,9
+Rook,Spring,temperature,3.0,March,-0.33201694561685646,0.33201694561685646,9
+Rook,Spring,humidity,4.0,April,-0.43304265244318824,0.43304265244318824,8
+Rook,Spring,prcp,4.0,April,-0.5845570026187035,0.5845570026187035,8
+Rosy Pipit,Spring,temperature,4.0,April,-0.1501644471735932,0.1501644471735932,5
+Rosy Pipit,Spring,humidity,5.0,May,-0.8058725664599605,0.8058725664599605,7
+Rosy Pipit,Spring,prcp,4.0,April,-0.5704919801204381,0.5704919801204381,5
+Ruff,Spring,temperature,,,,,0
+Ruff,Spring,humidity,,,,,0
+Ruff,Spring,prcp,,,,,0
+Rufous-tailed Robin,Spring,temperature,5.0,May,-0.9193716033792502,0.9193716033792502,5
+Rufous-tailed Robin,Spring,humidity,5.0,May,-0.17492685398589242,0.17492685398589242,5
+Rufous-tailed Robin,Spring,prcp,5.0,May,-0.19247481482829107,0.19247481482829107,5
+Russet Sparrow,Spring,temperature,4.0,April,-0.49933024375743434,0.49933024375743434,8
+Russet Sparrow,Spring,humidity,5.0,May,0.4493054911868369,0.4493054911868369,9
+Russet Sparrow,Spring,prcp,5.0,May,0.5594391320068574,0.5594391320068574,9
+Scolopacidae sp.,Spring,temperature,,,,,0
+Scolopacidae sp.,Spring,humidity,,,,,0
+Scolopacidae sp.,Spring,prcp,,,,,0
+Short-toed Snake-Eagle,Spring,temperature,5.0,May,-0.7300691027723129,0.7300691027723129,8
+Short-toed Snake-Eagle,Spring,humidity,3.0,March,-0.3283907027641998,0.3283907027641998,7
+Short-toed Snake-Eagle,Spring,prcp,3.0,March,-0.27346981404085,0.27346981404085,7
+Siberian Blue Robin,Spring,temperature,5.0,May,-0.5967410377170995,0.5967410377170995,9
+Siberian Blue Robin,Spring,humidity,5.0,May,0.35247866678282036,0.35247866678282036,9
+Siberian Blue Robin,Spring,prcp,5.0,May,0.49927192486718996,0.49927192486718996,9
+Siberian Crane,Spring,temperature,,,,,0
+Siberian Crane,Spring,humidity,,,,,0
+Siberian Crane,Spring,prcp,,,,,0
+Siberian House-Martin,Spring,temperature,5.0,May,0.5698596943437174,0.5698596943437174,6
+Siberian House-Martin,Spring,humidity,5.0,May,-0.2375239167882279,0.2375239167882279,6
+Siberian House-Martin,Spring,prcp,5.0,May,0.20182321144476068,0.20182321144476068,6
+Siberian Pipit,Spring,temperature,3.0,March,-0.29147152425075645,0.29147152425075645,8
+Siberian Pipit,Spring,humidity,5.0,May,-0.5986970229664607,0.5986970229664607,9
+Siberian Pipit,Spring,prcp,4.0,April,0.5766326426574541,0.5766326426574541,9
+Siberian Thrush,Spring,temperature,5.0,May,-0.6339462155669304,0.6339462155669304,6
+Siberian Thrush,Spring,humidity,5.0,May,0.3234860574460376,0.3234860574460376,6
+Siberian Thrush,Spring,prcp,5.0,May,-0.060161160798339185,0.060161160798339185,6
+Swan Goose,Spring,temperature,3.0,March,-0.3005033729438929,0.3005033729438929,9
+Swan Goose,Spring,humidity,5.0,May,0.565352342957457,0.565352342957457,9
+Swan Goose,Spring,prcp,5.0,May,0.5305361687051748,0.5305361687051748,9
+Swinhoe's Snipe,Spring,temperature,,,,,0
+Swinhoe's Snipe,Spring,humidity,,,,,0
+Swinhoe's Snipe,Spring,prcp,,,,,0
+Swinhoe's/Pin-tailed Snipe,Spring,temperature,5.0,May,-0.18439288889813624,0.18439288889813624,8
+Swinhoe's/Pin-tailed Snipe,Spring,humidity,5.0,May,-0.5046865570682942,0.5046865570682942,8
+Swinhoe's/Pin-tailed Snipe,Spring,prcp,5.0,May,-0.46406552756652447,0.46406552756652447,8
+Taiga Bean-Goose,Spring,temperature,5.0,May,0.6435366700183113,0.6435366700183113,7
+Taiga Bean-Goose,Spring,humidity,3.0,March,0.39671152695489587,0.39671152695489587,8
+Taiga Bean-Goose,Spring,prcp,5.0,May,-0.30288925493513097,0.30288925493513097,7
+Taiga Flycatcher,Spring,temperature,4.0,April,0.5157704131096555,0.5157704131096555,9
+Taiga Flycatcher,Spring,humidity,5.0,May,-0.3827245103071738,0.3827245103071738,9
+Taiga Flycatcher,Spring,prcp,4.0,April,-0.10963493586375046,0.10963493586375046,9
+Taiga/Tundra Bean-Goose,Spring,temperature,4.0,April,-0.6620908723708017,0.6620908723708017,6
+Taiga/Tundra Bean-Goose,Spring,humidity,3.0,March,0.3051205101480316,0.3051205101480316,9
+Taiga/Tundra Bean-Goose,Spring,prcp,3.0,March,0.7420503101911686,0.7420503101911686,9
+Temminck's Stint,Spring,temperature,5.0,May,-0.5891737397933404,0.5891737397933404,9
+Temminck's Stint,Spring,humidity,4.0,April,0.4863595491436154,0.4863595491436154,8
+Temminck's Stint,Spring,prcp,5.0,May,-0.27582494347809505,0.27582494347809505,9
+Terek Sandpiper,Spring,temperature,,,,,0
+Terek Sandpiper,Spring,humidity,,,,,0
+Terek Sandpiper,Spring,prcp,,,,,0
+Thick-billed Warbler,Spring,temperature,5.0,May,-0.5027013489374327,0.5027013489374327,9
+Thick-billed Warbler,Spring,humidity,5.0,May,0.37359193389049977,0.37359193389049977,9
+Thick-billed Warbler,Spring,prcp,5.0,May,-0.0762487077263017,0.0762487077263017,9
+Tristram's Bunting,Spring,temperature,4.0,April,0.6191422959006551,0.6191422959006551,8
+Tristram's Bunting,Spring,humidity,3.0,March,-0.49400176939546525,0.49400176939546525,8
+Tristram's Bunting,Spring,prcp,4.0,April,-0.5382777843351843,0.5382777843351843,8
+Tufted Duck,Spring,temperature,4.0,April,0.39372127411829805,0.39372127411829805,9
+Tufted Duck,Spring,humidity,3.0,March,0.06683728374093496,0.06683728374093496,9
+Tufted Duck,Spring,prcp,4.0,April,0.36580811796420465,0.36580811796420465,9
+Tundra Bean-Goose,Spring,temperature,4.0,April,-0.2641230871474462,0.2641230871474462,9
+Tundra Bean-Goose,Spring,humidity,5.0,May,-0.6844053133408764,0.6844053133408764,5
+Tundra Bean-Goose,Spring,prcp,3.0,March,0.3624295530891282,0.3624295530891282,9
+Tundra Swan,Spring,temperature,4.0,April,-0.8445788184013283,0.8445788184013283,8
+Tundra Swan,Spring,humidity,3.0,March,0.5114305652970127,0.5114305652970127,9
+Tundra Swan,Spring,prcp,3.0,March,-0.22179701154319584,0.22179701154319584,9
+Tundra/Whooper Swan,Spring,temperature,3.0,March,0.07658149695368653,0.07658149695368653,5
+Tundra/Whooper Swan,Spring,humidity,3.0,March,-0.7950533165631263,0.7950533165631263,5
+Tundra/Whooper Swan,Spring,prcp,3.0,March,-0.7823224278521942,0.7823224278521942,5
+Two-barred Warbler,Spring,temperature,5.0,May,-0.7213227563552794,0.7213227563552794,9
+Two-barred Warbler,Spring,humidity,5.0,May,0.46781644742922407,0.46781644742922407,9
+Two-barred Warbler,Spring,prcp,5.0,May,0.3137707589826488,0.3137707589826488,9
+Vega/Mongolian Gull,Spring,temperature,5.0,May,-0.7072700734301016,0.7072700734301016,6
+Vega/Mongolian Gull,Spring,humidity,5.0,May,-0.8063173488847796,0.8063173488847796,6
+Vega/Mongolian Gull,Spring,prcp,5.0,May,-0.5357749791744618,0.5357749791744618,6
+Western/Eastern Yellow Wagtail,Spring,temperature,,,,,0
+Western/Eastern Yellow Wagtail,Spring,humidity,,,,,0
+Western/Eastern Yellow Wagtail,Spring,prcp,,,,,0
+Whiskered Tern,Spring,temperature,5.0,May,0.5670253123802627,0.5670253123802627,9
+Whiskered Tern,Spring,humidity,5.0,May,-0.4140724510537101,0.4140724510537101,9
+Whiskered Tern,Spring,prcp,5.0,May,-0.3320869321787687,0.3320869321787687,9
+White-naped Crane,Spring,temperature,4.0,April,-0.17764327357289916,0.17764327357289916,6
+White-naped Crane,Spring,humidity,4.0,April,0.12996655281090663,0.12996655281090663,6
+White-naped Crane,Spring,prcp,3.0,March,0.7354325286745077,0.7354325286745077,9
+White-throated Needletail,Spring,temperature,5.0,May,-0.43743449736376006,0.43743449736376006,8
+White-throated Needletail,Spring,humidity,5.0,May,0.2637260289250718,0.2637260289250718,8
+White-throated Needletail,Spring,prcp,5.0,May,0.7896329779038628,0.7896329779038628,8
+White-throated Rock-Thrush,Spring,temperature,5.0,May,-0.0677743390265948,0.0677743390265948,8
+White-throated Rock-Thrush,Spring,humidity,5.0,May,-0.3993742612682715,0.3993742612682715,8
+White-throated Rock-Thrush,Spring,prcp,5.0,May,0.028064823737256682,0.028064823737256682,8
+White-winged Tern,Spring,temperature,5.0,May,0.28408131273932397,0.28408131273932397,9
+White-winged Tern,Spring,humidity,5.0,May,-0.45810670989939584,0.45810670989939584,9
+White-winged Tern,Spring,prcp,5.0,May,0.18748242416228225,0.18748242416228225,9
+Whooper Swan,Spring,temperature,5.0,May,0.7077122635592795,0.7077122635592795,7
+Whooper Swan,Spring,humidity,4.0,April,0.6211346082804702,0.6211346082804702,8
+Whooper Swan,Spring,prcp,4.0,April,0.9084112424353046,0.9084112424353046,8
+Wood Sandpiper,Spring,temperature,4.0,April,0.2464176547344913,0.2464176547344913,9
+Wood Sandpiper,Spring,humidity,5.0,May,-0.8635576029678252,0.8635576029678252,9
+Wood Sandpiper,Spring,prcp,5.0,May,-0.4990659167948646,0.4990659167948646,9
+Yellow-browed Bunting,Spring,temperature,5.0,May,0.251529258487762,0.251529258487762,8
+Yellow-browed Bunting,Spring,humidity,5.0,May,-0.48798079252197485,0.48798079252197485,8
+Yellow-browed Bunting,Spring,prcp,5.0,May,-0.6133635087643988,0.6133635087643988,8
+Yellow-browed Warbler,Spring,temperature,5.0,May,-0.849008850687823,0.849008850687823,9
+Yellow-browed Warbler,Spring,humidity,5.0,May,0.3697431802261047,0.3697431802261047,9
+Yellow-browed Warbler,Spring,prcp,4.0,April,-0.09915369852381971,0.09915369852381971,9
+Yellow-rumped Flycatcher,Spring,temperature,5.0,May,-0.6058861847903562,0.6058861847903562,9
+Yellow-rumped Flycatcher,Spring,humidity,5.0,May,0.5375109663546299,0.5375109663546299,9
+Yellow-rumped Flycatcher,Spring,prcp,5.0,May,0.4521862425918659,0.4521862425918659,9
+bird sp.,Spring,temperature,,,,,0
+bird sp.,Spring,humidity,,,,,0
+bird sp.,Spring,prcp,,,,,0
+crow sp.,Spring,temperature,4.0,April,0.4992081552752085,0.4992081552752085,5
+crow sp.,Spring,humidity,4.0,April,0.8355265050257268,0.8355265050257268,5
+crow sp.,Spring,prcp,4.0,April,0.9439831202450979,0.9439831202450979,5
+crow/raven sp.,Spring,temperature,,,,,0
+crow/raven sp.,Spring,humidity,,,,,0
+crow/raven sp.,Spring,prcp,,,,,0
+diurnal raptor sp.,Spring,temperature,5.0,May,0.2602840376503211,0.2602840376503211,5
+diurnal raptor sp.,Spring,humidity,5.0,May,-0.309771471485415,0.309771471485415,5
+diurnal raptor sp.,Spring,prcp,5.0,May,-0.36134184362587707,0.36134184362587707,5
+duck sp.,Spring,temperature,,,,,0
+duck sp.,Spring,humidity,,,,,0
+duck sp.,Spring,prcp,,,,,0
+falcon sp.,Spring,temperature,5.0,May,0.8862405890906843,0.8862405890906843,6
+falcon sp.,Spring,humidity,5.0,May,-0.6780793108902439,0.6780793108902439,6
+falcon sp.,Spring,prcp,5.0,May,-0.0022402302902339226,0.0022402302902339226,6
+finch sp.,Spring,temperature,,,,,0
+finch sp.,Spring,humidity,,,,,0
+finch sp.,Spring,prcp,,,,,0
+goose sp.,Spring,temperature,,,,,0
+goose sp.,Spring,humidity,,,,,0
+goose sp.,Spring,prcp,,,,,0
+gull sp.,Spring,temperature,,,,,0
+gull sp.,Spring,humidity,,,,,0
+gull sp.,Spring,prcp,,,,,0
+hawk sp.,Spring,temperature,4.0,April,0.3532770488451388,0.3532770488451388,5
+hawk sp.,Spring,humidity,4.0,April,-0.5840132690998523,0.5840132690998523,5
+hawk sp.,Spring,prcp,4.0,April,-0.13284806118116885,0.13284806118116885,5
+heron sp.,Spring,temperature,,,,,0
+heron sp.,Spring,humidity,,,,,0
+heron sp.,Spring,prcp,,,,,0
+muscicapid sp.,Spring,temperature,,,,,0
+muscicapid sp.,Spring,humidity,,,,,0
+muscicapid sp.,Spring,prcp,,,,,0
+myna/starling sp.,Spring,temperature,,,,,0
+myna/starling sp.,Spring,humidity,,,,,0
+myna/starling sp.,Spring,prcp,,,,,0
+owl sp.,Spring,temperature,,,,,0
+owl sp.,Spring,humidity,,,,,0
+owl sp.,Spring,prcp,,,,,0
+parid sp.,Spring,temperature,,,,,0
+parid sp.,Spring,humidity,,,,,0
+parid sp.,Spring,prcp,,,,,0
+passerine sp.,Spring,temperature,5.0,May,0.04301471576277204,0.04301471576277204,7
+passerine sp.,Spring,humidity,5.0,May,-0.7264245699963604,0.7264245699963604,7
+passerine sp.,Spring,prcp,5.0,May,-0.49894592733864146,0.49894592733864146,7
+pigeon/dove sp.,Spring,temperature,,,,,0
+pigeon/dove sp.,Spring,humidity,,,,,0
+pigeon/dove sp.,Spring,prcp,,,,,0
+pipit sp.,Spring,temperature,5.0,May,-0.7619117093594121,0.7619117093594121,5
+pipit sp.,Spring,humidity,5.0,May,0.2712114207683195,0.2712114207683195,5
+pipit sp.,Spring,prcp,5.0,May,0.2836219734465399,0.2836219734465399,5
+rail/crake sp.,Spring,temperature,,,,,0
+rail/crake sp.,Spring,humidity,,,,,0
+rail/crake sp.,Spring,prcp,,,,,0
+shorebird sp.,Spring,temperature,,,,,0
+shorebird sp.,Spring,humidity,,,,,0
+shorebird sp.,Spring,prcp,,,,,0
+snipe sp.,Spring,temperature,3.0,March,-0.9475470432462562,0.9475470432462562,5
+snipe sp.,Spring,humidity,5.0,May,-0.735982404116144,0.735982404116144,8
+snipe sp.,Spring,prcp,5.0,May,-0.3890641784243426,0.3890641784243426,8
+swallow sp.,Spring,temperature,,,,,0
+swallow sp.,Spring,humidity,,,,,0
+swallow sp.,Spring,prcp,,,,,0
+swan sp.,Spring,temperature,,,,,0
+swan sp.,Spring,humidity,,,,,0
+swan sp.,Spring,prcp,,,,,0
+white egret sp.,Spring,temperature,,,,,0
+white egret sp.,Spring,humidity,,,,,0
+white egret sp.,Spring,prcp,,,,,0
+woodpecker sp.,Spring,temperature,,,,,0
+woodpecker sp.,Spring,humidity,,,,,0
+woodpecker sp.,Spring,prcp,,,,,0
+Acrocephalus sp.,Summer,temperature,,,,,0
+Acrocephalus sp.,Summer,humidity,,,,,0
+Acrocephalus sp.,Summer,prcp,,,,,0
+Alstr√∂m's Warbler,Summer,temperature,6.0,June,0.15783132348751927,0.15783132348751927,7
+Alstr√∂m's Warbler,Summer,humidity,6.0,June,0.05727791604750676,0.05727791604750676,7
+Alstr√∂m's Warbler,Summer,prcp,6.0,June,0.2065140828951596,0.2065140828951596,7
+Amur Falcon,Summer,temperature,8.0,August,0.4236751772407458,0.4236751772407458,9
+Amur Falcon,Summer,humidity,8.0,August,-0.2094959256205768,0.2094959256205768,9
+Amur Falcon,Summer,prcp,7.0,July,0.34987373087862556,0.34987373087862556,9
+Amur Paradise-Flycatcher,Summer,temperature,7.0,July,-0.7063566887887799,0.7063566887887799,5
+Amur Paradise-Flycatcher,Summer,humidity,7.0,July,0.5331131885280903,0.5331131885280903,5
+Amur Paradise-Flycatcher,Summer,prcp,7.0,July,-0.2313135380605771,0.2313135380605771,5
+Asian Dowitcher,Summer,temperature,,,,,0
+Asian Dowitcher,Summer,humidity,,,,,0
+Asian Dowitcher,Summer,prcp,,,,,0
+Asian House-Martin,Summer,temperature,7.0,July,0.13921188377313717,0.13921188377313717,5
+Asian House-Martin,Summer,humidity,8.0,August,-0.7049180236580125,0.7049180236580125,6
+Asian House-Martin,Summer,prcp,8.0,August,-0.822831891791301,0.822831891791301,6
+Asian Koel,Summer,temperature,8.0,August,0.10588860291192234,0.10588860291192234,6
+Asian Koel,Summer,humidity,7.0,July,-0.4388669164895678,0.4388669164895678,9
+Asian Koel,Summer,prcp,8.0,August,-0.20501246557316763,0.20501246557316763,6
+Asian Stubtail,Summer,temperature,7.0,July,-0.3086692861214402,0.3086692861214402,7
+Asian Stubtail,Summer,humidity,7.0,July,-0.17171397417772527,0.17171397417772527,7
+Asian Stubtail,Summer,prcp,7.0,July,-0.6593096292196862,0.6593096292196862,7
+Baikal Bush Warbler,Summer,temperature,8.0,August,-0.5830653588502427,0.5830653588502427,5
+Baikal Bush Warbler,Summer,humidity,6.0,June,0.36843610777456126,0.36843610777456126,9
+Baikal Bush Warbler,Summer,prcp,6.0,June,0.5209665933832719,0.5209665933832719,9
+Barn Swallow,Summer,temperature,8.0,August,0.3854596925620409,0.3854596925620409,9
+Barn Swallow,Summer,humidity,7.0,July,0.2412640892845112,0.2412640892845112,9
+Barn Swallow,Summer,prcp,7.0,July,0.2466964948035316,0.2466964948035316,9
+Black Drongo,Summer,temperature,8.0,August,0.3038625885529317,0.3038625885529317,9
+Black Drongo,Summer,humidity,8.0,August,0.6789719344038417,0.6789719344038417,9
+Black Drongo,Summer,prcp,8.0,August,0.6729705650361787,0.6729705650361787,9
+Black-capped Kingfisher,Summer,temperature,7.0,July,-0.7871940440471942,0.7871940440471942,6
+Black-capped Kingfisher,Summer,humidity,7.0,July,0.6560156510712735,0.6560156510712735,6
+Black-capped Kingfisher,Summer,prcp,7.0,July,-0.1899620328238499,0.1899620328238499,6
+Black-naped Oriole,Summer,temperature,6.0,June,-0.4082807353134326,0.4082807353134326,9
+Black-naped Oriole,Summer,humidity,6.0,June,0.4839497451008645,0.4839497451008645,9
+Black-naped Oriole,Summer,prcp,6.0,June,0.4991120826665829,0.4991120826665829,9
+Blue Rock-Thrush,Summer,temperature,7.0,July,-0.5106072792322965,0.5106072792322965,7
+Blue Rock-Thrush,Summer,humidity,7.0,July,0.29359655138341556,0.29359655138341556,7
+Blue Rock-Thrush,Summer,prcp,7.0,July,-0.25328950522218663,0.25328950522218663,7
+Blue Whistling-Thrush,Summer,temperature,6.0,June,0.5059483994303879,0.5059483994303879,9
+Blue Whistling-Thrush,Summer,humidity,6.0,June,-0.35966953818451086,0.35966953818451086,9
+Blue Whistling-Thrush,Summer,prcp,6.0,June,-0.2637970294783561,0.2637970294783561,9
+Blue-and-white Flycatcher,Summer,temperature,6.0,June,-0.272960866653508,0.272960866653508,7
+Blue-and-white Flycatcher,Summer,humidity,6.0,June,0.19662950012933741,0.19662950012933741,7
+Blue-and-white Flycatcher,Summer,prcp,6.0,June,0.3085736817024272,0.3085736817024272,7
+Blunt-winged Warbler,Summer,temperature,,,,,0
+Blunt-winged Warbler,Summer,humidity,,,,,0
+Blunt-winged Warbler,Summer,prcp,,,,,0
+Broad-billed Sandpiper,Summer,temperature,8.0,August,-0.03946864686966292,0.03946864686966292,5
+Broad-billed Sandpiper,Summer,humidity,8.0,August,-0.1769653535946217,0.1769653535946217,5
+Broad-billed Sandpiper,Summer,prcp,8.0,August,0.50723713801208,0.50723713801208,5
+Brown Shrike,Summer,temperature,7.0,July,0.286078678271726,0.286078678271726,9
+Brown Shrike,Summer,humidity,8.0,August,0.20112753501967418,0.20112753501967418,9
+Brown Shrike,Summer,prcp,6.0,June,0.37469152769462233,0.37469152769462233,9
+Brown-rumped Minivet,Summer,temperature,,,,,0
+Brown-rumped Minivet,Summer,humidity,,,,,0
+Brown-rumped Minivet,Summer,prcp,,,,,0
+Brownish-flanked Bush Warbler,Summer,temperature,,,,,0
+Brownish-flanked Bush Warbler,Summer,humidity,,,,,0
+Brownish-flanked Bush Warbler,Summer,prcp,,,,,0
+Bull-headed Shrike,Summer,temperature,8.0,August,-0.6138344588551735,0.6138344588551735,6
+Bull-headed Shrike,Summer,humidity,7.0,July,-0.7299772370196447,0.7299772370196447,6
+Bull-headed Shrike,Summer,prcp,7.0,July,-0.6797680473705627,0.6797680473705627,6
+Calidris sp.,Summer,temperature,,,,,0
+Calidris sp.,Summer,humidity,,,,,0
+Calidris sp.,Summer,prcp,,,,,0
+Chestnut-winged Cuckoo,Summer,temperature,6.0,June,-0.8567267745640522,0.8567267745640522,6
+Chestnut-winged Cuckoo,Summer,humidity,6.0,June,0.7150006620705689,0.7150006620705689,6
+Chestnut-winged Cuckoo,Summer,prcp,6.0,June,0.6780311464682025,0.6780311464682025,6
+Chinese Beautiful Rosefinch,Summer,temperature,8.0,August,-0.7120891666642691,0.7120891666642691,7
+Chinese Beautiful Rosefinch,Summer,humidity,8.0,August,-0.4279450953085267,0.4279450953085267,7
+Chinese Beautiful Rosefinch,Summer,prcp,7.0,July,-0.6892266187767934,0.6892266187767934,7
+Chinese Bush Warbler,Summer,temperature,6.0,June,0.025188329745873844,0.025188329745873844,8
+Chinese Bush Warbler,Summer,humidity,6.0,June,0.07264187482582715,0.07264187482582715,8
+Chinese Bush Warbler,Summer,prcp,6.0,June,0.10111367723344025,0.10111367723344025,8
+Chinese Leaf Warbler,Summer,temperature,8.0,August,-0.4948220930390615,0.4948220930390615,5
+Chinese Leaf Warbler,Summer,humidity,7.0,July,-0.3673324373881237,0.3673324373881237,7
+Chinese Leaf Warbler,Summer,prcp,8.0,August,-0.5606264911543196,0.5606264911543196,5
+Chinese Pond-Heron,Summer,temperature,8.0,August,0.5156163303709531,0.5156163303709531,9
+Chinese Pond-Heron,Summer,humidity,6.0,June,0.2578444546102309,0.2578444546102309,9
+Chinese Pond-Heron,Summer,prcp,6.0,June,0.14507000761477595,0.14507000761477595,9
+Chinese Sparrowhawk,Summer,temperature,6.0,June,-0.3935037401158486,0.3935037401158486,8
+Chinese Sparrowhawk,Summer,humidity,6.0,June,0.613154341462631,0.613154341462631,8
+Chinese Sparrowhawk,Summer,prcp,6.0,June,0.7264193297644359,0.7264193297644359,8
+Cinnamon Bittern,Summer,temperature,7.0,July,-0.870839631295692,0.870839631295692,5
+Cinnamon Bittern,Summer,humidity,7.0,July,0.7799024595720719,0.7799024595720719,5
+Cinnamon Bittern,Summer,prcp,7.0,July,-0.3171725326886274,0.3171725326886274,5
+Claudia's Leaf Warbler,Summer,temperature,8.0,August,-0.7316402528777085,0.7316402528777085,9
+Claudia's Leaf Warbler,Summer,humidity,8.0,August,-0.333385334805061,0.333385334805061,9
+Claudia's Leaf Warbler,Summer,prcp,7.0,July,-0.777295713186397,0.777295713186397,8
+Common Cuckoo,Summer,temperature,8.0,August,0.26610609730327134,0.26610609730327134,9
+Common Cuckoo,Summer,humidity,7.0,July,0.6310707560397577,0.6310707560397577,9
+Common Cuckoo,Summer,prcp,7.0,July,0.26731287303077883,0.26731287303077883,9
+Common Swift,Summer,temperature,7.0,July,0.3672497487828513,0.3672497487828513,9
+Common Swift,Summer,humidity,6.0,June,-0.3826461130876351,0.3826461130876351,9
+Common Swift,Summer,prcp,8.0,August,-0.20195606596290575,0.20195606596290575,9
+Common Tern,Summer,temperature,7.0,July,0.4896795050576272,0.4896795050576272,9
+Common Tern,Summer,humidity,6.0,June,-0.4257633017854066,0.4257633017854066,8
+Common Tern,Summer,prcp,7.0,July,0.5421702420543275,0.5421702420543275,9
+Cotton Pygmy-Goose,Summer,temperature,,,,,0
+Cotton Pygmy-Goose,Summer,humidity,,,,,0
+Cotton Pygmy-Goose,Summer,prcp,,,,,0
+Cuculus sp.,Summer,temperature,8.0,August,-0.47294909359913584,0.47294909359913584,7
+Cuculus sp.,Summer,humidity,8.0,August,-0.8132369969503076,0.8132369969503076,7
+Cuculus sp.,Summer,prcp,8.0,August,-0.5718390440744425,0.5718390440744425,7
+Dark-sided Flycatcher,Summer,temperature,6.0,June,0.6452024075970146,0.6452024075970146,6
+Dark-sided Flycatcher,Summer,humidity,6.0,June,-0.5309697721910718,0.5309697721910718,6
+Dark-sided Flycatcher,Summer,prcp,6.0,June,-0.16142862654466256,0.16142862654466256,6
+Dollarbird,Summer,temperature,6.0,June,-0.25316609813045976,0.25316609813045976,7
+Dollarbird,Summer,humidity,7.0,July,0.5738228554563872,0.5738228554563872,9
+Dollarbird,Summer,prcp,7.0,July,0.48866357050055914,0.48866357050055914,9
+Eastern Cattle-Egret,Summer,temperature,8.0,August,0.48955687180121676,0.48955687180121676,8
+Eastern Cattle-Egret,Summer,humidity,6.0,June,0.4933048077168488,0.4933048077168488,9
+Eastern Cattle-Egret,Summer,prcp,6.0,June,0.34782498795685707,0.34782498795685707,9
+Eastern Crowned Warbler,Summer,temperature,8.0,August,-0.12502474830104965,0.12502474830104965,8
+Eastern Crowned Warbler,Summer,humidity,7.0,July,-0.72619194069786,0.72619194069786,6
+Eastern Crowned Warbler,Summer,prcp,7.0,July,-0.7125460820919949,0.7125460820919949,6
+Eastern Red-rumped Swallow,Summer,temperature,8.0,August,0.47621153081682527,0.47621153081682527,9
+Eastern Red-rumped Swallow,Summer,humidity,6.0,June,-0.461325815864268,0.461325815864268,9
+Eastern Red-rumped Swallow,Summer,prcp,7.0,July,0.4636291828460405,0.4636291828460405,9
+Eurasian Crag-Martin,Summer,temperature,6.0,June,0.5271677851726804,0.5271677851726804,8
+Eurasian Crag-Martin,Summer,humidity,6.0,June,-0.45575506612562,0.45575506612562,8
+Eurasian Crag-Martin,Summer,prcp,7.0,July,-0.4974002195388014,0.4974002195388014,8
+Eurasian Hobby,Summer,temperature,6.0,June,0.3808598853976819,0.3808598853976819,9
+Eurasian Hobby,Summer,humidity,8.0,August,0.48975013979808474,0.48975013979808474,9
+Eurasian Hobby,Summer,prcp,7.0,July,0.6288505992340293,0.6288505992340293,8
+Eurasian Nuthatch,Summer,temperature,7.0,July,-0.5677070573246371,0.5677070573246371,8
+Eurasian Nuthatch,Summer,humidity,7.0,July,-0.20652530807934338,0.20652530807934338,8
+Eurasian Nuthatch,Summer,prcp,7.0,July,-0.6065305268182078,0.6065305268182078,8
+Eurasian Wryneck,Summer,temperature,8.0,August,0.03155165730137536,0.03155165730137536,8
+Eurasian Wryneck,Summer,humidity,8.0,August,0.5255025624882376,0.5255025624882376,8
+Eurasian Wryneck,Summer,prcp,8.0,August,0.10493118652809674,0.10493118652809674,8
+Gray Nightjar,Summer,temperature,7.0,July,0.48237545065967086,0.48237545065967086,6
+Gray Nightjar,Summer,humidity,7.0,July,-0.4716480550683038,0.4716480550683038,6
+Gray Nightjar,Summer,prcp,6.0,June,0.18677382720011054,0.18677382720011054,8
+Gray-sided Thrush,Summer,temperature,7.0,July,-0.26124323023671603,0.26124323023671603,7
+Gray-sided Thrush,Summer,humidity,7.0,July,0.10527205716489332,0.10527205716489332,7
+Gray-sided Thrush,Summer,prcp,7.0,July,-0.37107102280469434,0.37107102280469434,7
+Great/Medium Egret,Summer,temperature,,,,,0
+Great/Medium Egret,Summer,humidity,,,,,0
+Great/Medium Egret,Summer,prcp,,,,,0
+Greater Painted-Snipe,Summer,temperature,,,,,0
+Greater Painted-Snipe,Summer,humidity,,,,,0
+Greater Painted-Snipe,Summer,prcp,,,,,0
+Green-backed Flycatcher,Summer,temperature,8.0,August,-0.6124462670700989,0.6124462670700989,8
+Green-backed Flycatcher,Summer,humidity,8.0,August,-0.794140940284446,0.794140940284446,8
+Green-backed Flycatcher,Summer,prcp,7.0,July,-0.5700128891323467,0.5700128891323467,8
+Greenish/Two-barred Warbler,Summer,temperature,6.0,June,0.074294175120472,0.074294175120472,5
+Greenish/Two-barred Warbler,Summer,humidity,6.0,June,-0.09940040796275003,0.09940040796275003,5
+Greenish/Two-barred Warbler,Summer,prcp,6.0,June,-0.34207242990441633,0.34207242990441633,5
+Hair-crested Drongo,Summer,temperature,6.0,June,0.25540463031655636,0.25540463031655636,9
+Hair-crested Drongo,Summer,humidity,7.0,July,0.2390747174961669,0.2390747174961669,8
+Hair-crested Drongo,Summer,prcp,7.0,July,-0.4639032350868304,0.4639032350868304,8
+Himalayan Cuckoo,Summer,temperature,6.0,June,0.0026163177092388113,0.0026163177092388113,9
+Himalayan Cuckoo,Summer,humidity,6.0,June,0.19869833442987034,0.19869833442987034,9
+Himalayan Cuckoo,Summer,prcp,6.0,June,0.048976681577240826,0.048976681577240826,9
+Himalayan Owl,Summer,temperature,8.0,August,-0.838473336389715,0.838473336389715,6
+Himalayan Owl,Summer,humidity,8.0,August,-0.8785654645985179,0.8785654645985179,6
+Himalayan Owl,Summer,prcp,8.0,August,-0.8496836332926843,0.8496836332926843,6
+Indian Cuckoo,Summer,temperature,8.0,August,0.22072336593882105,0.22072336593882105,9
+Indian Cuckoo,Summer,humidity,7.0,July,0.1110871498851835,0.1110871498851835,9
+Indian Cuckoo,Summer,prcp,7.0,July,-0.3162381546265096,0.3162381546265096,9
+Japanese Scops-Owl,Summer,temperature,,,,,0
+Japanese Scops-Owl,Summer,humidity,,,,,0
+Japanese Scops-Owl,Summer,prcp,,,,,0
+Koklass Pheasant,Summer,temperature,7.0,July,-0.6829817915918391,0.6829817915918391,5
+Koklass Pheasant,Summer,humidity,7.0,July,0.718863358424764,0.718863358424764,5
+Koklass Pheasant,Summer,prcp,7.0,July,-0.6885703068566041,0.6885703068566041,5
+Large Hawk-Cuckoo,Summer,temperature,8.0,August,-0.36272367274864614,0.36272367274864614,6
+Large Hawk-Cuckoo,Summer,humidity,6.0,June,0.3049675829168774,0.3049675829168774,9
+Large Hawk-Cuckoo,Summer,prcp,7.0,July,-0.5136286454899288,0.5136286454899288,8
+Lesser Coucal,Summer,temperature,,,,,0
+Lesser Coucal,Summer,humidity,,,,,0
+Lesser Coucal,Summer,prcp,,,,,0
+Lesser Cuckoo,Summer,temperature,7.0,July,-0.6793344995064632,0.6793344995064632,6
+Lesser Cuckoo,Summer,humidity,7.0,July,0.1262019369066727,0.1262019369066727,6
+Lesser Cuckoo,Summer,prcp,7.0,July,-0.5581382917497948,0.5581382917497948,6
+Little Heron,Summer,temperature,7.0,July,-0.19357927654518056,0.19357927654518056,9
+Little Heron,Summer,humidity,7.0,July,0.09296097179671424,0.09296097179671424,9
+Little Heron,Summer,prcp,7.0,July,-0.1284259857732248,0.1284259857732248,9
+Long-tailed Minivet,Summer,temperature,7.0,July,-0.5051430857068284,0.5051430857068284,8
+Long-tailed Minivet,Summer,humidity,7.0,July,0.2753406878119006,0.2753406878119006,8
+Long-tailed Minivet,Summer,prcp,7.0,July,-0.5809401821498985,0.5809401821498985,8
+Manchurian Bush Warbler,Summer,temperature,8.0,August,-0.6304936884891275,0.6304936884891275,6
+Manchurian Bush Warbler,Summer,humidity,8.0,August,-0.41444452875127724,0.41444452875127724,6
+Manchurian Bush Warbler,Summer,prcp,8.0,August,-0.6893163680327383,0.6893163680327383,6
+Marsh Grassbird,Summer,temperature,,,,,0
+Marsh Grassbird,Summer,humidity,,,,,0
+Marsh Grassbird,Summer,prcp,,,,,0
+Oriental Reed Warbler,Summer,temperature,8.0,August,0.6723994447039053,0.6723994447039053,9
+Oriental Reed Warbler,Summer,humidity,8.0,August,0.620614702620834,0.620614702620834,9
+Oriental Reed Warbler,Summer,prcp,8.0,August,0.4525460387446098,0.4525460387446098,9
+Pacific Swift,Summer,temperature,8.0,August,-0.5041995181443142,0.5041995181443142,7
+Pacific Swift,Summer,humidity,8.0,August,-0.5266546469356251,0.5266546469356251,7
+Pacific Swift,Summer,prcp,8.0,August,-0.5877909031279156,0.5877909031279156,7
+Pallas's Grasshopper Warbler,Summer,temperature,6.0,June,-0.6199583078263322,0.6199583078263322,9
+Pallas's Grasshopper Warbler,Summer,humidity,6.0,June,0.4143766616432979,0.4143766616432979,9
+Pallas's Grasshopper Warbler,Summer,prcp,6.0,June,0.6214147893791119,0.6214147893791119,9
+Pheasant-tailed Jacana,Summer,temperature,,,,,0
+Pheasant-tailed Jacana,Summer,humidity,,,,,0
+Pheasant-tailed Jacana,Summer,prcp,,,,,0
+Qilian Bluetail,Summer,temperature,6.0,June,0.2798139127845078,0.2798139127845078,6
+Qilian Bluetail,Summer,humidity,6.0,June,-0.2995893877293694,0.2995893877293694,6
+Qilian Bluetail,Summer,prcp,6.0,June,-0.4061261262652036,0.4061261262652036,6
+Red Collared-Dove,Summer,temperature,,,,,0
+Red Collared-Dove,Summer,humidity,,,,,0
+Red Collared-Dove,Summer,prcp,,,,,0
+Red-billed Chough,Summer,temperature,7.0,July,-0.6911309218752292,0.6911309218752292,7
+Red-billed Chough,Summer,humidity,8.0,August,0.14685086174431405,0.14685086174431405,6
+Red-billed Chough,Summer,prcp,7.0,July,-0.5689446148995212,0.5689446148995212,7
+Red-necked Stint,Summer,temperature,8.0,August,-0.4584341552509887,0.4584341552509887,7
+Red-necked Stint,Summer,humidity,8.0,August,-0.39791098674338765,0.39791098674338765,7
+Red-necked Stint,Summer,prcp,8.0,August,0.01808816718169895,0.01808816718169895,7
+Rosy Pipit,Summer,temperature,7.0,July,-0.7540344758536207,0.7540344758536207,5
+Rosy Pipit,Summer,humidity,7.0,July,-0.5534636636139918,0.5534636636139918,5
+Rosy Pipit,Summer,prcp,7.0,July,-0.7984721132465329,0.7984721132465329,5
+Ruddy Turnstone,Summer,temperature,,,,,0
+Ruddy Turnstone,Summer,humidity,,,,,0
+Ruddy Turnstone,Summer,prcp,,,,,0
+Ruddy-breasted Crake,Summer,temperature,6.0,June,-0.05378926196863833,0.05378926196863833,7
+Ruddy-breasted Crake,Summer,humidity,6.0,June,-0.24890460641284817,0.24890460641284817,7
+Ruddy-breasted Crake,Summer,prcp,6.0,June,0.2193273251168166,0.2193273251168166,7
+Russet Sparrow,Summer,temperature,7.0,July,-0.4320026838174494,0.4320026838174494,7
+Russet Sparrow,Summer,humidity,8.0,August,-0.9010672845186102,0.9010672845186102,5
+Russet Sparrow,Summer,prcp,7.0,July,-0.7765664522406732,0.7765664522406732,7
+Sanderling,Summer,temperature,,,,,0
+Sanderling,Summer,humidity,,,,,0
+Sanderling,Summer,prcp,,,,,0
+Schrenck's Bittern,Summer,temperature,6.0,June,-0.1282346656181037,0.1282346656181037,8
+Schrenck's Bittern,Summer,humidity,8.0,August,-0.31557740333123,0.31557740333123,6
+Schrenck's Bittern,Summer,prcp,8.0,August,-0.3866015983746092,0.3866015983746092,6
+Sharp-tailed Sandpiper,Summer,temperature,8.0,August,0.2327948333072879,0.2327948333072879,5
+Sharp-tailed Sandpiper,Summer,humidity,8.0,August,-0.21483329091929113,0.21483329091929113,5
+Sharp-tailed Sandpiper,Summer,prcp,8.0,August,-0.5554444367659014,0.5554444367659014,5
+Siberian Blue Robin,Summer,temperature,6.0,June,-0.15594097761927056,0.15594097761927056,9
+Siberian Blue Robin,Summer,humidity,7.0,July,-0.6022842385360473,0.6022842385360473,6
+Siberian Blue Robin,Summer,prcp,7.0,July,-0.6131210226155461,0.6131210226155461,6
+Slaty-backed Flycatcher,Summer,temperature,,,,,0
+Slaty-backed Flycatcher,Summer,humidity,,,,,0
+Slaty-backed Flycatcher,Summer,prcp,,,,,0
+Southern Nutcracker,Summer,temperature,7.0,July,-0.6164844697557723,0.6164844697557723,5
+Southern Nutcracker,Summer,humidity,7.0,July,-0.49274226571288054,0.49274226571288054,5
+Southern Nutcracker,Summer,prcp,7.0,July,-0.8032877955742921,0.8032877955742921,5
+Swinhoe's White-eye,Summer,temperature,8.0,August,-0.13453429601216785,0.13453429601216785,8
+Swinhoe's White-eye,Summer,humidity,7.0,July,-0.5298332842667194,0.5298332842667194,7
+Swinhoe's White-eye,Summer,prcp,7.0,July,-0.591190248568305,0.591190248568305,7
+Terek Sandpiper,Summer,temperature,,,,,0
+Terek Sandpiper,Summer,humidity,,,,,0
+Terek Sandpiper,Summer,prcp,,,,,0
+Whiskered Tern,Summer,temperature,7.0,July,0.5841264613516314,0.5841264613516314,9
+Whiskered Tern,Summer,humidity,6.0,June,-0.24578208843040375,0.24578208843040375,7
+Whiskered Tern,Summer,prcp,7.0,July,0.7514303836798509,0.7514303836798509,9
+White-backed Woodpecker,Summer,temperature,7.0,July,-0.44426128987452057,0.44426128987452057,5
+White-backed Woodpecker,Summer,humidity,7.0,July,0.14400852092278318,0.14400852092278318,5
+White-backed Woodpecker,Summer,prcp,7.0,July,-0.6118026922372337,0.6118026922372337,5
+White-bellied Redstart,Summer,temperature,7.0,July,-0.6738822217919593,0.6738822217919593,5
+White-bellied Redstart,Summer,humidity,7.0,July,-0.529706501406019,0.529706501406019,5
+White-bellied Redstart,Summer,prcp,7.0,July,-0.6057288477318997,0.6057288477318997,5
+White-breasted Waterhen,Summer,temperature,6.0,June,-0.6785624395052329,0.6785624395052329,7
+White-breasted Waterhen,Summer,humidity,7.0,July,0.8509699510188117,0.8509699510188117,6
+White-breasted Waterhen,Summer,prcp,6.0,June,0.7393813397352632,0.7393813397352632,7
+White-winged Tern,Summer,temperature,8.0,August,-0.19966628587164886,0.19966628587164886,9
+White-winged Tern,Summer,humidity,8.0,August,-0.5430247024532577,0.5430247024532577,9
+White-winged Tern,Summer,prcp,8.0,August,-0.3930200576684344,0.3930200576684344,9
+Yellow Bittern,Summer,temperature,8.0,August,0.1261153362833414,0.1261153362833414,9
+Yellow Bittern,Summer,humidity,8.0,August,0.5972784031487036,0.5972784031487036,9
+Yellow Bittern,Summer,prcp,8.0,August,0.28769964779858265,0.28769964779858265,9
+Yellow-legged Buttonquail,Summer,temperature,,,,,0
+Yellow-legged Buttonquail,Summer,humidity,,,,,0
+Yellow-legged Buttonquail,Summer,prcp,,,,,0
+Yellow-rumped Flycatcher,Summer,temperature,7.0,July,-0.16511720388308374,0.16511720388308374,9
+Yellow-rumped Flycatcher,Summer,humidity,6.0,June,0.2677612570396298,0.2677612570396298,9
+Yellow-rumped Flycatcher,Summer,prcp,7.0,July,-0.39018095867847147,0.39018095867847147,9
+Yellow-streaked Warbler,Summer,temperature,8.0,August,-0.6451780389025193,0.6451780389025193,7
+Yellow-streaked Warbler,Summer,humidity,8.0,August,-0.2999009051111252,0.2999009051111252,7
+Yellow-streaked Warbler,Summer,prcp,7.0,July,-0.6922413492220733,0.6922413492220733,8
+Zappey's Flycatcher,Summer,temperature,6.0,June,-0.15959461249058812,0.15959461249058812,8
+Zappey's Flycatcher,Summer,humidity,6.0,June,0.34624730745550886,0.34624730745550886,8
+Zappey's Flycatcher,Summer,prcp,6.0,June,0.36854111627549135,0.36854111627549135,8
+Zitting Cisticola,Summer,temperature,7.0,July,-0.49472659725998425,0.49472659725998425,9
+Zitting Cisticola,Summer,humidity,6.0,June,0.33779114980541114,0.33779114980541114,9
+Zitting Cisticola,Summer,prcp,8.0,August,0.522874813546569,0.522874813546569,9
+cuckoo sp. (Cuculidae sp.),Summer,temperature,8.0,August,0.2433990191334122,0.2433990191334122,6
+cuckoo sp. (Cuculidae sp.),Summer,humidity,8.0,August,-0.12991850221042991,0.12991850221042991,6
+cuckoo sp. (Cuculidae sp.),Summer,prcp,8.0,August,-0.087028882276551,0.087028882276551,6
+heron sp.,Summer,temperature,,,,,0
+heron sp.,Summer,humidity,,,,,0
+heron sp.,Summer,prcp,,,,,0
+swallow sp.,Summer,temperature,,,,,0
+swallow sp.,Summer,humidity,,,,,0
+swallow sp.,Summer,prcp,,,,,0
+Accipitrine hawk sp. (former Accipiter sp.),Autumn,temperature,9.0,September,0.5604513151240496,0.5604513151240496,5
+Accipitrine hawk sp. (former Accipiter sp.),Autumn,humidity,10.0,October,-0.4524887734824447,0.4524887734824447,7
+Accipitrine hawk sp. (former Accipiter sp.),Autumn,prcp,9.0,September,-0.8121657673221336,0.8121657673221336,5
+Amur Falcon,Autumn,temperature,10.0,October,-0.5303761252611231,0.5303761252611231,9
+Amur Falcon,Autumn,humidity,10.0,October,0.7553789805058944,0.7553789805058944,9
+Amur Falcon,Autumn,prcp,10.0,October,0.7935137336771851,0.7935137336771851,9
+Amur Stonechat,Autumn,temperature,10.0,October,-0.24749539524834127,0.24749539524834127,9
+Amur Stonechat,Autumn,humidity,10.0,October,0.8045360459770856,0.8045360459770856,9
+Amur Stonechat,Autumn,prcp,9.0,September,0.8647295281502365,0.8647295281502365,9
+Arctic Loon,Autumn,temperature,,,,,0
+Arctic Loon,Autumn,humidity,,,,,0
+Arctic Loon,Autumn,prcp,,,,,0
+Ashy Minivet,Autumn,temperature,10.0,October,-0.4462450201821573,0.4462450201821573,5
+Ashy Minivet,Autumn,humidity,10.0,October,0.958252194723277,0.958252194723277,5
+Ashy Minivet,Autumn,prcp,10.0,October,0.8444616687622788,0.8444616687622788,5
+Asian Short-toed Lark,Autumn,temperature,10.0,October,0.7869554854239242,0.7869554854239242,8
+Asian Short-toed Lark,Autumn,humidity,11.0,November,0.44597299385617295,0.44597299385617295,5
+Asian Short-toed Lark,Autumn,prcp,10.0,October,-0.6315111539402911,0.6315111539402911,8
+Aythya sp.,Autumn,temperature,,,,,0
+Aythya sp.,Autumn,humidity,,,,,0
+Aythya sp.,Autumn,prcp,,,,,0
+Baikal Teal,Autumn,temperature,9.0,September,-0.5745693112055303,0.5745693112055303,7
+Baikal Teal,Autumn,humidity,9.0,September,-0.5815434399124141,0.5815434399124141,7
+Baikal Teal,Autumn,prcp,9.0,September,-0.35019997470876224,0.35019997470876224,7
+Baillon's Crake,Autumn,temperature,9.0,September,0.4289497860350821,0.4289497860350821,6
+Baillon's Crake,Autumn,humidity,9.0,September,0.730627089195225,0.730627089195225,6
+Baillon's Crake,Autumn,prcp,9.0,September,0.8827087413173205,0.8827087413173205,6
+Bar-headed Goose,Autumn,temperature,10.0,October,0.17157207283022816,0.17157207283022816,7
+Bar-headed Goose,Autumn,humidity,10.0,October,0.5520324218923958,0.5520324218923958,7
+Bar-headed Goose,Autumn,prcp,10.0,October,0.40651644436314816,0.40651644436314816,7
+Black Kite,Autumn,temperature,10.0,October,-0.18880895498374362,0.18880895498374362,9
+Black Kite,Autumn,humidity,9.0,September,-0.7799271895106581,0.7799271895106581,9
+Black Kite,Autumn,prcp,9.0,September,-0.31125129753815683,0.31125129753815683,9
+Black-bellied Plover,Autumn,temperature,,,,,0
+Black-bellied Plover,Autumn,humidity,,,,,0
+Black-bellied Plover,Autumn,prcp,,,,,0
+Black-browed Reed Warbler,Autumn,temperature,10.0,October,-0.28120539085325236,0.28120539085325236,9
+Black-browed Reed Warbler,Autumn,humidity,9.0,September,0.8440674135031196,0.8440674135031196,9
+Black-browed Reed Warbler,Autumn,prcp,9.0,September,0.9379813077900742,0.9379813077900742,9
+Black-faced Bunting,Autumn,temperature,9.0,September,-0.3668500683558262,0.3668500683558262,9
+Black-faced Bunting,Autumn,humidity,11.0,November,-0.17431366519758482,0.17431366519758482,9
+Black-faced Bunting,Autumn,prcp,9.0,September,-0.589495650108487,0.589495650108487,9
+Black-legged Kittiwake,Autumn,temperature,,,,,0
+Black-legged Kittiwake,Autumn,humidity,,,,,0
+Black-legged Kittiwake,Autumn,prcp,,,,,0
+Black-tailed Godwit,Autumn,temperature,9.0,September,0.19181662857186882,0.19181662857186882,8
+Black-tailed Godwit,Autumn,humidity,9.0,September,-0.7816744234724335,0.7816744234724335,8
+Black-tailed Godwit,Autumn,prcp,9.0,September,-0.690926539290328,0.690926539290328,8
+Black-winged Kite,Autumn,temperature,11.0,November,0.40732684149056075,0.40732684149056075,8
+Black-winged Kite,Autumn,humidity,10.0,October,0.44636460198938344,0.44636460198938344,8
+Black-winged Kite,Autumn,prcp,9.0,September,-0.41745917323758364,0.41745917323758364,7
+Blyth's Pipit,Autumn,temperature,9.0,September,0.364184513083905,0.364184513083905,8
+Blyth's Pipit,Autumn,humidity,9.0,September,-0.8210179295562531,0.8210179295562531,8
+Blyth's Pipit,Autumn,prcp,9.0,September,-0.6334312244041217,0.6334312244041217,8
+Bull-headed Shrike,Autumn,temperature,9.0,September,-0.941711274822047,0.941711274822047,7
+Bull-headed Shrike,Autumn,humidity,10.0,October,0.4109666329759428,0.4109666329759428,8
+Bull-headed Shrike,Autumn,prcp,10.0,October,0.5533906691049763,0.5533906691049763,8
+Caspian Tern,Autumn,temperature,9.0,September,0.3200106871001733,0.3200106871001733,9
+Caspian Tern,Autumn,humidity,9.0,September,-0.7595755206650121,0.7595755206650121,9
+Caspian Tern,Autumn,prcp,9.0,September,-0.2913538522345949,0.2913538522345949,9
+Chestnut-eared Bunting,Autumn,temperature,9.0,September,-0.3250109971103456,0.3250109971103456,8
+Chestnut-eared Bunting,Autumn,humidity,9.0,September,-0.37532195457270445,0.37532195457270445,8
+Chestnut-eared Bunting,Autumn,prcp,9.0,September,-0.6210815982257999,0.6210815982257999,8
+Chestnut-flanked White-eye,Autumn,temperature,10.0,October,-0.37443487846613976,0.37443487846613976,9
+Chestnut-flanked White-eye,Autumn,humidity,9.0,September,0.7077572124588865,0.7077572124588865,9
+Chestnut-flanked White-eye,Autumn,prcp,10.0,October,0.5781914171517178,0.5781914171517178,9
+Chinese Thrush,Autumn,temperature,9.0,September,0.4740702976807139,0.4740702976807139,8
+Chinese Thrush,Autumn,humidity,10.0,October,-0.4790284610196623,0.4790284610196623,9
+Chinese Thrush,Autumn,prcp,10.0,October,-0.32402709242149597,0.32402709242149597,9
+Common Crane,Autumn,temperature,11.0,November,-0.7315723768076187,0.7315723768076187,9
+Common Crane,Autumn,humidity,11.0,November,-0.6510782225055468,0.6510782225055468,9
+Common Crane,Autumn,prcp,11.0,November,-0.6100502555100342,0.6100502555100342,9
+Common Greenshank,Autumn,temperature,10.0,October,0.7577588425441035,0.7577588425441035,7
+Common Greenshank,Autumn,humidity,9.0,September,-0.5616745604406803,0.5616745604406803,9
+Common Greenshank,Autumn,prcp,10.0,October,-0.3201106707309108,0.3201106707309108,7
+Common Pochard x Ferruginous Duck (hybrid),Autumn,temperature,,,,,0
+Common Pochard x Ferruginous Duck (hybrid),Autumn,humidity,,,,,0
+Common Pochard x Ferruginous Duck (hybrid),Autumn,prcp,,,,,0
+Common Rosefinch,Autumn,temperature,11.0,November,0.4218963880361624,0.4218963880361624,7
+Common Rosefinch,Autumn,humidity,10.0,October,0.7206728778474759,0.7206728778474759,9
+Common Rosefinch,Autumn,prcp,9.0,September,-0.3811658722241489,0.3811658722241489,9
+Crested Lark,Autumn,temperature,10.0,October,-0.40466722053515103,0.40466722053515103,6
+Crested Lark,Autumn,humidity,10.0,October,0.3194258696615404,0.3194258696615404,6
+Crested Lark,Autumn,prcp,10.0,October,0.5908260982222092,0.5908260982222092,6
+Cuculus sp.,Autumn,temperature,9.0,September,-0.5252366688977943,0.5252366688977943,6
+Cuculus sp.,Autumn,humidity,9.0,September,-0.5171141014700897,0.5171141014700897,6
+Cuculus sp.,Autumn,prcp,9.0,September,-0.4972405319679269,0.4972405319679269,6
+Daurian Jackdaw,Autumn,temperature,9.0,September,-0.742039703551455,0.742039703551455,5
+Daurian Jackdaw,Autumn,humidity,9.0,September,-0.5977201481924131,0.5977201481924131,5
+Daurian Jackdaw,Autumn,prcp,10.0,October,0.2498975286559516,0.2498975286559516,9
+Dendrocopos sp.,Autumn,temperature,,,,,0
+Dendrocopos sp.,Autumn,humidity,,,,,0
+Dendrocopos sp.,Autumn,prcp,,,,,0
+Dunlin,Autumn,temperature,9.0,September,0.6462361620330312,0.6462361620330312,8
+Dunlin,Autumn,humidity,9.0,September,-0.6141828204160656,0.6141828204160656,8
+Dunlin,Autumn,prcp,9.0,September,-0.46847755705858035,0.46847755705858035,8
+Dusky Warbler,Autumn,temperature,11.0,November,-0.4268981599990432,0.4268981599990432,5
+Dusky Warbler,Autumn,humidity,9.0,September,0.6934530428444307,0.6934530428444307,9
+Dusky Warbler,Autumn,prcp,10.0,October,0.565006087124186,0.565006087124186,9
+Dusky/Naumann's Thrush,Autumn,temperature,11.0,November,-0.44250255300226,0.44250255300226,9
+Dusky/Naumann's Thrush,Autumn,humidity,11.0,November,-0.3602029190162764,0.3602029190162764,9
+Dusky/Naumann's Thrush,Autumn,prcp,11.0,November,-0.2049741610603153,0.2049741610603153,9
+Eastern Buzzard,Autumn,temperature,11.0,November,-0.4891392486740884,0.4891392486740884,9
+Eastern Buzzard,Autumn,humidity,9.0,September,0.5613615654621449,0.5613615654621449,8
+Eastern Buzzard,Autumn,prcp,11.0,November,-0.4947766979689047,0.4947766979689047,9
+Eastern Marsh Harrier,Autumn,temperature,11.0,November,-0.7659162655683316,0.7659162655683316,7
+Eastern Marsh Harrier,Autumn,humidity,11.0,November,-0.8162632808530327,0.8162632808530327,7
+Eastern Marsh Harrier,Autumn,prcp,11.0,November,-0.611630040187418,0.611630040187418,7
+Emberiza sp.,Autumn,temperature,11.0,November,0.6212437242085727,0.6212437242085727,7
+Emberiza sp.,Autumn,humidity,10.0,October,-0.3984739181312504,0.3984739181312504,8
+Emberiza sp.,Autumn,prcp,11.0,November,-0.22628302043855067,0.22628302043855067,7
+Eurasian Goshawk,Autumn,temperature,10.0,October,-0.21700606048915913,0.21700606048915913,9
+Eurasian Goshawk,Autumn,humidity,9.0,September,0.6748626441782662,0.6748626441782662,9
+Eurasian Goshawk,Autumn,prcp,11.0,November,-0.4323937968515884,0.4323937968515884,9
+Eurasian Hobby,Autumn,temperature,11.0,November,-0.7223551890035319,0.7223551890035319,5
+Eurasian Hobby,Autumn,humidity,11.0,November,-0.6672604515407976,0.6672604515407976,5
+Eurasian Hobby,Autumn,prcp,9.0,September,0.6851293965777611,0.6851293965777611,9
+Eurasian Jay,Autumn,temperature,9.0,September,-0.17764047832255384,0.17764047832255384,6
+Eurasian Jay,Autumn,humidity,10.0,October,-0.4908961836710878,0.4908961836710878,8
+Eurasian Jay,Autumn,prcp,10.0,October,-0.4194497230255832,0.4194497230255832,8
+Eurasian Siskin,Autumn,temperature,11.0,November,0.3143268694770593,0.3143268694770593,9
+Eurasian Siskin,Autumn,humidity,11.0,November,0.2961588484246658,0.2961588484246658,9
+Eurasian Siskin,Autumn,prcp,11.0,November,0.22586011462488859,0.22586011462488859,9
+Eurasian Skylark,Autumn,temperature,9.0,September,-0.4669383906084168,0.4669383906084168,9
+Eurasian Skylark,Autumn,humidity,9.0,September,-0.7930499715740166,0.7930499715740166,9
+Eurasian Skylark,Autumn,prcp,9.0,September,-0.6456733528052867,0.6456733528052867,9
+European Starling,Autumn,temperature,10.0,October,0.8595375839725659,0.8595375839725659,7
+European Starling,Autumn,humidity,11.0,November,-0.3442570187106729,0.3442570187106729,7
+European Starling,Autumn,prcp,10.0,October,-0.48337920617952074,0.48337920617952074,7
+Eyebrowed Thrush,Autumn,temperature,10.0,October,-0.2898145318050641,0.2898145318050641,6
+Eyebrowed Thrush,Autumn,humidity,10.0,October,-0.4568741603936075,0.4568741603936075,6
+Eyebrowed Thrush,Autumn,prcp,9.0,September,-0.4107308159333243,0.4107308159333243,9
+Gray-backed Thrush,Autumn,temperature,10.0,October,-0.12238369564348142,0.12238369564348142,7
+Gray-backed Thrush,Autumn,humidity,10.0,October,-0.08020190877773899,0.08020190877773899,7
+Gray-backed Thrush,Autumn,prcp,10.0,October,0.2290640544949266,0.2290640544949266,7
+Gray-headed Canary-Flycatcher,Autumn,temperature,,,,,0
+Gray-headed Canary-Flycatcher,Autumn,humidity,,,,,0
+Gray-headed Canary-Flycatcher,Autumn,prcp,,,,,0
+Graylag x Swan Goose (hybrid),Autumn,temperature,,,,,0
+Graylag x Swan Goose (hybrid),Autumn,humidity,,,,,0
+Graylag x Swan Goose (hybrid),Autumn,prcp,,,,,0
+Great/Medium Egret,Autumn,temperature,,,,,0
+Great/Medium Egret,Autumn,humidity,,,,,0
+Great/Medium Egret,Autumn,prcp,,,,,0
+Greater Scaup,Autumn,temperature,11.0,November,-0.13268128573865004,0.13268128573865004,6
+Greater Scaup,Autumn,humidity,11.0,November,0.029400093490013813,0.029400093490013813,6
+Greater Scaup,Autumn,prcp,11.0,November,-0.17339431713447132,0.17339431713447132,6
+Hen Harrier,Autumn,temperature,9.0,September,-0.5040316216165508,0.5040316216165508,9
+Hen Harrier,Autumn,humidity,11.0,November,-0.17498681543103428,0.17498681543103428,9
+Hen Harrier,Autumn,prcp,10.0,October,-0.421197673309829,0.421197673309829,9
+Horned Grebe,Autumn,temperature,11.0,November,-0.051196175536400816,0.051196175536400816,7
+Horned Grebe,Autumn,humidity,11.0,November,0.5912253809329806,0.5912253809329806,7
+Horned Grebe,Autumn,prcp,11.0,November,0.4397698833845172,0.4397698833845172,7
+Imperial Eagle,Autumn,temperature,,,,,0
+Imperial Eagle,Autumn,humidity,,,,,0
+Imperial Eagle,Autumn,prcp,,,,,0
+Indian Peafowl,Autumn,temperature,,,,,0
+Indian Peafowl,Autumn,humidity,,,,,0
+Indian Peafowl,Autumn,prcp,,,,,0
+Japanese Leaf/Arctic/Kamchatka Leaf Warbler,Autumn,temperature,,,,,0
+Japanese Leaf/Arctic/Kamchatka Leaf Warbler,Autumn,humidity,,,,,0
+Japanese Leaf/Arctic/Kamchatka Leaf Warbler,Autumn,prcp,,,,,0
+Japanese Quail,Autumn,temperature,11.0,November,-0.6115105001155123,0.6115105001155123,9
+Japanese Quail,Autumn,humidity,9.0,September,-0.651479990352479,0.651479990352479,8
+Japanese Quail,Autumn,prcp,11.0,November,-0.3230910223095737,0.3230910223095737,9
+Japanese Sparrowhawk,Autumn,temperature,10.0,October,-0.07951234673232016,0.07951234673232016,9
+Japanese Sparrowhawk,Autumn,humidity,9.0,September,0.7136070756357071,0.7136070756357071,9
+Japanese Sparrowhawk,Autumn,prcp,9.0,September,0.2712177483060819,0.2712177483060819,9
+Lanceolated Warbler,Autumn,temperature,10.0,October,-0.05177611775614953,0.05177611775614953,9
+Lanceolated Warbler,Autumn,humidity,10.0,October,0.6257924834340838,0.6257924834340838,9
+Lanceolated Warbler,Autumn,prcp,9.0,September,0.7217414665296912,0.7217414665296912,9
+Lapland Longspur,Autumn,temperature,11.0,November,-0.3105497828110738,0.3105497828110738,8
+Lapland Longspur,Autumn,humidity,10.0,October,-0.5031641769482269,0.5031641769482269,8
+Lapland Longspur,Autumn,prcp,10.0,October,-0.47127612494598037,0.47127612494598037,8
+Lesser Whitethroat,Autumn,temperature,,,,,0
+Lesser Whitethroat,Autumn,humidity,,,,,0
+Lesser Whitethroat,Autumn,prcp,,,,,0
+Little Bunting,Autumn,temperature,10.0,October,0.1761421964154394,0.1761421964154394,9
+Little Bunting,Autumn,humidity,9.0,September,-0.6593439341223506,0.6593439341223506,9
+Little Bunting,Autumn,prcp,9.0,September,-0.6493254512920413,0.6493254512920413,9
+Long-eared Owl,Autumn,temperature,11.0,November,-0.4862104464972502,0.4862104464972502,9
+Long-eared Owl,Autumn,humidity,10.0,October,0.8133813346687762,0.8133813346687762,5
+Long-eared Owl,Autumn,prcp,11.0,November,-0.6902067053422775,0.6902067053422775,9
+Long-tailed Shrike,Autumn,temperature,9.0,September,0.4166549522013454,0.4166549522013454,9
+Long-tailed Shrike,Autumn,humidity,10.0,October,0.2192107549317835,0.2192107549317835,9
+Long-tailed Shrike,Autumn,prcp,10.0,October,0.38432646170157214,0.38432646170157214,9
+Manchurian Reed Warbler,Autumn,temperature,9.0,September,0.39191917885555255,0.39191917885555255,6
+Manchurian Reed Warbler,Autumn,humidity,9.0,September,0.562732700970507,0.562732700970507,6
+Manchurian Reed Warbler,Autumn,prcp,9.0,September,0.8845261610523443,0.8845261610523443,6
+Medium Egret,Autumn,temperature,11.0,November,-0.839693461566104,0.839693461566104,6
+Medium Egret,Autumn,humidity,11.0,November,-0.7104615091333583,0.7104615091333583,6
+Medium Egret,Autumn,prcp,9.0,September,0.6982404112904854,0.6982404112904854,9
+Merlin,Autumn,temperature,11.0,November,-0.384439833062196,0.384439833062196,8
+Merlin,Autumn,humidity,11.0,November,-0.25157899130191264,0.25157899130191264,8
+Merlin,Autumn,prcp,11.0,November,-0.5328411945895023,0.5328411945895023,8
+Mugimaki Flycatcher,Autumn,temperature,,,,,0
+Mugimaki Flycatcher,Autumn,humidity,,,,,0
+Mugimaki Flycatcher,Autumn,prcp,,,,,0
+Northern Hawk-Cuckoo,Autumn,temperature,,,,,0
+Northern Hawk-Cuckoo,Autumn,humidity,,,,,0
+Northern Hawk-Cuckoo,Autumn,prcp,,,,,0
+Northern Shrike,Autumn,temperature,11.0,November,0.4655707440763533,0.4655707440763533,8
+Northern Shrike,Autumn,humidity,11.0,November,0.4615428345306865,0.4615428345306865,8
+Northern Shrike,Autumn,prcp,11.0,November,0.5659490080145991,0.5659490080145991,8
+Olive-backed Pipit,Autumn,temperature,10.0,October,0.406394051133902,0.406394051133902,9
+Olive-backed Pipit,Autumn,humidity,9.0,September,-0.3716048161617837,0.3716048161617837,9
+Olive-backed Pipit,Autumn,prcp,9.0,September,-0.6008314117357196,0.6008314117357196,9
+Oriental Honey-buzzard,Autumn,temperature,10.0,October,-0.5809638035674767,0.5809638035674767,8
+Oriental Honey-buzzard,Autumn,humidity,9.0,September,0.5048378260006122,0.5048378260006122,9
+Oriental Honey-buzzard,Autumn,prcp,10.0,October,0.4478167451842938,0.4478167451842938,8
+Pallas's Leaf Warbler,Autumn,temperature,11.0,November,-0.4310785999361344,0.4310785999361344,9
+Pallas's Leaf Warbler,Autumn,humidity,9.0,September,0.7377017535698975,0.7377017535698975,9
+Pallas's Leaf Warbler,Autumn,prcp,9.0,September,0.34085586355400566,0.34085586355400566,9
+Pallas's Sandgrouse,Autumn,temperature,,,,,0
+Pallas's Sandgrouse,Autumn,humidity,,,,,0
+Pallas's Sandgrouse,Autumn,prcp,,,,,0
+Pechora Pipit,Autumn,temperature,,,,,0
+Pechora Pipit,Autumn,humidity,,,,,0
+Pechora Pipit,Autumn,prcp,,,,,0
+Phylloscopus sp.,Autumn,temperature,9.0,September,0.5341116880938224,0.5341116880938224,7
+Phylloscopus sp.,Autumn,humidity,9.0,September,-0.7797404212420563,0.7797404212420563,7
+Phylloscopus sp.,Autumn,prcp,10.0,October,0.2871938274662716,0.2871938274662716,8
+Pied Harrier,Autumn,temperature,9.0,September,0.47752150304047736,0.47752150304047736,9
+Pied Harrier,Autumn,humidity,10.0,October,-0.7549787799831408,0.7549787799831408,8
+Pied Harrier,Autumn,prcp,10.0,October,-0.6028329935010325,0.6028329935010325,8
+Pine Bunting,Autumn,temperature,10.0,October,0.18411167868033834,0.18411167868033834,8
+Pine Bunting,Autumn,humidity,10.0,October,-0.3553204138196051,0.3553204138196051,8
+Pine Bunting,Autumn,prcp,10.0,October,-0.5233457362698951,0.5233457362698951,8
+Radde's Warbler,Autumn,temperature,10.0,October,-0.39993298853375214,0.39993298853375214,9
+Radde's Warbler,Autumn,humidity,9.0,September,0.6856751069400556,0.6856751069400556,9
+Radde's Warbler,Autumn,prcp,10.0,October,0.8211115650565181,0.8211115650565181,9
+Red Crossbill,Autumn,temperature,11.0,November,-0.715854810939594,0.715854810939594,6
+Red Crossbill,Autumn,humidity,11.0,November,-0.566855116580742,0.566855116580742,6
+Red Crossbill,Autumn,prcp,11.0,November,-0.5361830502609409,0.5361830502609409,6
+Red-breasted Merganser,Autumn,temperature,11.0,November,0.060460787470929346,0.060460787470929346,7
+Red-breasted Merganser,Autumn,humidity,11.0,November,-0.29447717615843677,0.29447717615843677,7
+Red-breasted Merganser,Autumn,prcp,11.0,November,-0.3562083964266789,0.3562083964266789,7
+Red-flanked/Qilian Bluetail,Autumn,temperature,9.0,September,0.6937994754786238,0.6937994754786238,9
+Red-flanked/Qilian Bluetail,Autumn,humidity,10.0,October,-0.5076687109528943,0.5076687109528943,9
+Red-flanked/Qilian Bluetail,Autumn,prcp,10.0,October,-0.4114940723484309,0.4114940723484309,9
+Red-necked Grebe,Autumn,temperature,,,,,0
+Red-necked Grebe,Autumn,humidity,,,,,0
+Red-necked Grebe,Autumn,prcp,,,,,0
+Red-necked Stint,Autumn,temperature,9.0,September,0.7260423122814937,0.7260423122814937,7
+Red-necked Stint,Autumn,humidity,9.0,September,-0.7312705252607438,0.7312705252607438,7
+Red-necked Stint,Autumn,prcp,9.0,September,-0.3761381328974848,0.3761381328974848,7
+Red-throated Pipit,Autumn,temperature,9.0,September,-0.27771368249477696,0.27771368249477696,9
+Red-throated Pipit,Autumn,humidity,9.0,September,-0.5645181885542382,0.5645181885542382,9
+Red-throated Pipit,Autumn,prcp,9.0,September,-0.5857933917398873,0.5857933917398873,9
+Redpoll,Autumn,temperature,11.0,November,-0.6850483768357811,0.6850483768357811,5
+Redpoll,Autumn,humidity,11.0,November,-0.7373282248522729,0.7373282248522729,5
+Redpoll,Autumn,prcp,10.0,October,-0.15712348584505614,0.15712348584505614,6
+Reed Bunting,Autumn,temperature,9.0,September,-0.5871125969284794,0.5871125969284794,6
+Reed Bunting,Autumn,humidity,9.0,September,-0.3900038627558797,0.3900038627558797,6
+Reed Bunting,Autumn,prcp,11.0,November,-0.3599818882462565,0.3599818882462565,8
+Richard's Pipit,Autumn,temperature,10.0,October,0.6188556941357856,0.6188556941357856,9
+Richard's Pipit,Autumn,humidity,9.0,September,-0.7062951549626131,0.7062951549626131,9
+Richard's Pipit,Autumn,prcp,9.0,September,-0.3966243397754472,0.3966243397754472,9
+Rook,Autumn,temperature,11.0,November,-0.6432358619799212,0.6432358619799212,9
+Rook,Autumn,humidity,11.0,November,-0.6780025663184956,0.6780025663184956,9
+Rook,Autumn,prcp,11.0,November,-0.6277978554557948,0.6277978554557948,9
+Ruddy Turnstone,Autumn,temperature,,,,,0
+Ruddy Turnstone,Autumn,humidity,,,,,0
+Ruddy Turnstone,Autumn,prcp,,,,,0
+Rufous-bellied Woodpecker,Autumn,temperature,10.0,October,0.7776498102615672,0.7776498102615672,5
+Rufous-bellied Woodpecker,Autumn,humidity,9.0,September,0.5280946660950572,0.5280946660950572,9
+Rufous-bellied Woodpecker,Autumn,prcp,9.0,September,0.1666352107842973,0.1666352107842973,9
+Rufous-faced Warbler,Autumn,temperature,,,,,0
+Rufous-faced Warbler,Autumn,humidity,,,,,0
+Rufous-faced Warbler,Autumn,prcp,,,,,0
+Rufous-tailed Robin,Autumn,temperature,10.0,October,0.03833336229377638,0.03833336229377638,6
+Rufous-tailed Robin,Autumn,humidity,10.0,October,0.13183496285604168,0.13183496285604168,6
+Rufous-tailed Robin,Autumn,prcp,10.0,October,0.2661873391025231,0.2661873391025231,6
+Sanderling,Autumn,temperature,,,,,0
+Sanderling,Autumn,humidity,,,,,0
+Sanderling,Autumn,prcp,,,,,0
+Scolopacidae sp.,Autumn,temperature,,,,,0
+Scolopacidae sp.,Autumn,humidity,,,,,0
+Scolopacidae sp.,Autumn,prcp,,,,,0
+Short-eared Owl,Autumn,temperature,11.0,November,-0.35370789028261296,0.35370789028261296,8
+Short-eared Owl,Autumn,humidity,10.0,October,-0.6914477956632522,0.6914477956632522,9
+Short-eared Owl,Autumn,prcp,10.0,October,-0.4933425015261092,0.4933425015261092,9
+Siberian Rubythroat,Autumn,temperature,9.0,September,-0.01988865188689827,0.01988865188689827,9
+Siberian Rubythroat,Autumn,humidity,9.0,September,0.7698660304818952,0.7698660304818952,9
+Siberian Rubythroat,Autumn,prcp,9.0,September,0.5580639311143487,0.5580639311143487,9
+Southern Nutcracker,Autumn,temperature,9.0,September,-0.464276994946353,0.464276994946353,7
+Southern Nutcracker,Autumn,humidity,9.0,September,-0.6859483460059422,0.6859483460059422,7
+Southern Nutcracker,Autumn,prcp,10.0,October,-0.32262977898064493,0.32262977898064493,8
+Spotted Redshank,Autumn,temperature,11.0,November,-0.7761572741300291,0.7761572741300291,7
+Spotted Redshank,Autumn,humidity,11.0,November,-0.6756036877736882,0.6756036877736882,7
+Spotted Redshank,Autumn,prcp,10.0,October,-0.4795215744678349,0.4795215744678349,9
+Stejneger's Scoter,Autumn,temperature,,,,,0
+Stejneger's Scoter,Autumn,humidity,,,,,0
+Stejneger's Scoter,Autumn,prcp,,,,,0
+Steppe Eagle,Autumn,temperature,11.0,November,-0.37012460610105735,0.37012460610105735,7
+Steppe Eagle,Autumn,humidity,10.0,October,-0.6162152420315902,0.6162152420315902,5
+Steppe Eagle,Autumn,prcp,11.0,November,0.35504306137486424,0.35504306137486424,7
+Swinhoe's White-eye,Autumn,temperature,9.0,September,-0.5561979547998949,0.5561979547998949,8
+Swinhoe's White-eye,Autumn,humidity,9.0,September,0.5512533640578012,0.5512533640578012,8
+Swinhoe's White-eye,Autumn,prcp,10.0,October,0.4153903821852428,0.4153903821852428,9
+Taiga Flycatcher,Autumn,temperature,10.0,October,-0.2844243449252373,0.2844243449252373,9
+Taiga Flycatcher,Autumn,humidity,9.0,September,0.8845481317598756,0.8845481317598756,9
+Taiga Flycatcher,Autumn,prcp,9.0,September,0.8237489946028265,0.8237489946028265,9
+Thick-billed Warbler,Autumn,temperature,10.0,October,0.291981691818222,0.291981691818222,5
+Thick-billed Warbler,Autumn,humidity,9.0,September,0.770092954207551,0.770092954207551,9
+Thick-billed Warbler,Autumn,prcp,9.0,September,0.7397151197594685,0.7397151197594685,9
+Turdus sp.,Autumn,temperature,,,,,0
+Turdus sp.,Autumn,humidity,,,,,0
+Turdus sp.,Autumn,prcp,,,,,0
+Two-barred Warbler,Autumn,temperature,9.0,September,0.19204685702875135,0.19204685702875135,9
+Two-barred Warbler,Autumn,humidity,9.0,September,0.6916931529995994,0.6916931529995994,9
+Two-barred Warbler,Autumn,prcp,9.0,September,0.2592749444769375,0.2592749444769375,9
+Water/Siberian/American Pipit,Autumn,temperature,,,,,0
+Water/Siberian/American Pipit,Autumn,humidity,,,,,0
+Water/Siberian/American Pipit,Autumn,prcp,,,,,0
+White's Thrush,Autumn,temperature,9.0,September,0.3526378587882401,0.3526378587882401,9
+White's Thrush,Autumn,humidity,9.0,September,0.27455086418801594,0.27455086418801594,9
+White's Thrush,Autumn,prcp,9.0,September,0.6082011180268256,0.6082011180268256,9
+Yellow-browed Bunting,Autumn,temperature,11.0,November,-0.8484280486735988,0.8484280486735988,7
+Yellow-browed Bunting,Autumn,humidity,11.0,November,-0.6673841803307148,0.6673841803307148,7
+Yellow-browed Bunting,Autumn,prcp,10.0,October,-0.17212751315680813,0.17212751315680813,8
+Yellow-browed Warbler,Autumn,temperature,10.0,October,-0.43351841056345775,0.43351841056345775,9
+Yellow-browed Warbler,Autumn,humidity,10.0,October,0.7594016681825272,0.7594016681825272,9
+Yellow-browed Warbler,Autumn,prcp,10.0,October,0.9618904467869134,0.9618904467869134,9
+Zosterops sp.,Autumn,temperature,10.0,October,-0.12926780682758554,0.12926780682758554,5
+Zosterops sp.,Autumn,humidity,10.0,October,0.7033017041242277,0.7033017041242277,5
+Zosterops sp.,Autumn,prcp,10.0,October,0.3433663575626128,0.3433663575626128,5
+crow/raven sp.,Autumn,temperature,,,,,0
+crow/raven sp.,Autumn,humidity,,,,,0
+crow/raven sp.,Autumn,prcp,,,,,0
+cuckoo sp. (Cuculidae sp.),Autumn,temperature,9.0,September,-0.49516854485478706,0.49516854485478706,5
+cuckoo sp. (Cuculidae sp.),Autumn,humidity,9.0,September,-0.23993109732276632,0.23993109732276632,5
+cuckoo sp. (Cuculidae sp.),Autumn,prcp,9.0,September,0.32704260367605253,0.32704260367605253,5
+dabbling duck sp.,Autumn,temperature,,,,,0
+dabbling duck sp.,Autumn,humidity,,,,,0
+dabbling duck sp.,Autumn,prcp,,,,,0
+duck sp.,Autumn,temperature,,,,,0
+duck sp.,Autumn,humidity,,,,,0
+duck sp.,Autumn,prcp,,,,,0
+falcon sp.,Autumn,temperature,,,,,0
+falcon sp.,Autumn,humidity,,,,,0
+falcon sp.,Autumn,prcp,,,,,0
+finch sp.,Autumn,temperature,,,,,0
+finch sp.,Autumn,humidity,,,,,0
+finch sp.,Autumn,prcp,,,,,0
+goose sp.,Autumn,temperature,,,,,0
+goose sp.,Autumn,humidity,,,,,0
+goose sp.,Autumn,prcp,,,,,0
+harrier sp.,Autumn,temperature,10.0,October,-0.2038051994048437,0.2038051994048437,7
+harrier sp.,Autumn,humidity,10.0,October,-0.23915267273274937,0.23915267273274937,7
+harrier sp.,Autumn,prcp,9.0,September,-0.9003823842768593,0.9003823842768593,5
+myna/starling sp.,Autumn,temperature,,,,,0
+myna/starling sp.,Autumn,humidity,,,,,0
+myna/starling sp.,Autumn,prcp,,,,,0
+passerine sp.,Autumn,temperature,9.0,September,0.13834630312214644,0.13834630312214644,6
+passerine sp.,Autumn,humidity,9.0,September,-0.2142396986730364,0.2142396986730364,6
+passerine sp.,Autumn,prcp,9.0,September,-0.18514518949683392,0.18514518949683392,6
+rail/crake sp.,Autumn,temperature,,,,,0
+rail/crake sp.,Autumn,humidity,,,,,0
+rail/crake sp.,Autumn,prcp,,,,,0
+rosefinch sp.,Autumn,temperature,,,,,0
+rosefinch sp.,Autumn,humidity,,,,,0
+rosefinch sp.,Autumn,prcp,,,,,0
+small falcon sp.,Autumn,temperature,,,,,0
+small falcon sp.,Autumn,humidity,,,,,0
+small falcon sp.,Autumn,prcp,,,,,0
+snipe sp.,Autumn,temperature,9.0,September,0.1692087344736822,0.1692087344736822,9
+snipe sp.,Autumn,humidity,9.0,September,-0.36925870150573936,0.36925870150573936,9
+snipe sp.,Autumn,prcp,10.0,October,0.3246716632351419,0.3246716632351419,8
+thrush sp.,Autumn,temperature,,,,,0
+thrush sp.,Autumn,humidity,,,,,0
+thrush sp.,Autumn,prcp,,,,,0
+wagtail sp.,Autumn,temperature,,,,,0
+wagtail sp.,Autumn,humidity,,,,,0
+wagtail sp.,Autumn,prcp,,,,,0
+white egret sp.,Autumn,temperature,,,,,0
+white egret sp.,Autumn,humidity,,,,,0
+white egret sp.,Autumn,prcp,,,,,0
+white-eye sp.,Autumn,temperature,10.0,October,0.209944609336662,0.209944609336662,7
+white-eye sp.,Autumn,humidity,10.0,October,-0.33433299408596046,0.33433299408596046,7
+white-eye sp.,Autumn,prcp,10.0,October,-0.3820364653035058,0.3820364653035058,7
+Alpine Accentor,Winter,temperature,1.0,January,-0.5088077072587317,0.5088077072587317,9
+Alpine Accentor,Winter,humidity,1.0,January,-0.2692662411533285,0.2692662411533285,9
+Alpine Accentor,Winter,prcp,1.0,January,0.3696339066630809,0.3696339066630809,9
+Asian Rosy-Finch,Winter,temperature,,,,,0
+Asian Rosy-Finch,Winter,humidity,,,,,0
+Asian Rosy-Finch,Winter,prcp,,,,,0
+Baikal Teal,Winter,temperature,2.0,February,-0.2810315657629579,0.2810315657629579,7
+Baikal Teal,Winter,humidity,1.0,January,-0.7338145055747841,0.7338145055747841,9
+Baikal Teal,Winter,prcp,1.0,January,-0.6853756468864514,0.6853756468864514,9
+Bearded Vulture,Winter,temperature,,,,,0
+Bearded Vulture,Winter,humidity,,,,,0
+Bearded Vulture,Winter,prcp,,,,,0
+Black Swan,Winter,temperature,12.0,December,0.4295717512119306,0.4295717512119306,8
+Black Swan,Winter,humidity,2.0,February,-0.3723850925249366,0.3723850925249366,7
+Black Swan,Winter,prcp,1.0,January,-0.42732826478180364,0.42732826478180364,7
+Black-throated Thrush,Winter,temperature,12.0,December,-0.26304617987444284,0.26304617987444284,9
+Black-throated Thrush,Winter,humidity,2.0,February,0.42018909727615994,0.42018909727615994,8
+Black-throated Thrush,Winter,prcp,12.0,December,0.38896060482316525,0.38896060482316525,9
+Black-throated x Red-throated Thrush (hybrid),Winter,temperature,12.0,December,-0.9177691528411182,0.9177691528411182,5
+Black-throated x Red-throated Thrush (hybrid),Winter,humidity,12.0,December,-0.08432287264046859,0.08432287264046859,5
+Black-throated x Red-throated Thrush (hybrid),Winter,prcp,12.0,December,0.3324931404268478,0.3324931404268478,5
+Black-throated/Red-throated Thrush,Winter,temperature,,,,,0
+Black-throated/Red-throated Thrush,Winter,humidity,,,,,0
+Black-throated/Red-throated Thrush,Winter,prcp,,,,,0
+Bohemian Waxwing,Winter,temperature,2.0,February,0.46533387417622285,0.46533387417622285,9
+Bohemian Waxwing,Winter,humidity,2.0,February,0.267254564748176,0.267254564748176,9
+Bohemian Waxwing,Winter,prcp,12.0,December,0.5935402385759935,0.5935402385759935,7
+Bohemian/Japanese Waxwing,Winter,temperature,,,,,0
+Bohemian/Japanese Waxwing,Winter,humidity,,,,,0
+Bohemian/Japanese Waxwing,Winter,prcp,,,,,0
+Brambling,Winter,temperature,2.0,February,0.43443837733861146,0.43443837733861146,9
+Brambling,Winter,humidity,12.0,December,0.5509119332151489,0.5509119332151489,9
+Brambling,Winter,prcp,12.0,December,0.7875611010639731,0.7875611010639731,9
+Brown Dipper,Winter,temperature,2.0,February,-0.4830488398808844,0.4830488398808844,6
+Brown Dipper,Winter,humidity,1.0,January,-0.6888967458468683,0.6888967458468683,6
+Brown Dipper,Winter,prcp,1.0,January,-0.6363571655603729,0.6363571655603729,6
+Brown-cheeked Rail,Winter,temperature,2.0,February,-0.3124879843217573,0.3124879843217573,5
+Brown-cheeked Rail,Winter,humidity,1.0,January,0.3389064497622508,0.3389064497622508,7
+Brown-cheeked Rail,Winter,prcp,1.0,January,0.6471795300678416,0.6471795300678416,7
+Brown-eared Bulbul,Winter,temperature,,,,,0
+Brown-eared Bulbul,Winter,humidity,,,,,0
+Brown-eared Bulbul,Winter,prcp,,,,,0
+Buteo sp.,Winter,temperature,,,,,0
+Buteo sp.,Winter,humidity,,,,,0
+Buteo sp.,Winter,prcp,,,,,0
+Carrion/Large-billed Crow,Winter,temperature,,,,,0
+Carrion/Large-billed Crow,Winter,humidity,,,,,0
+Carrion/Large-billed Crow,Winter,prcp,,,,,0
+Chinese Beautiful Rosefinch,Winter,temperature,12.0,December,0.41838612471543957,0.41838612471543957,9
+Chinese Beautiful Rosefinch,Winter,humidity,12.0,December,0.16909543148790945,0.16909543148790945,9
+Chinese Beautiful Rosefinch,Winter,prcp,1.0,January,0.34010925762037963,0.34010925762037963,9
+Chukar,Winter,temperature,2.0,February,0.7557739928958602,0.7557739928958602,6
+Chukar,Winter,humidity,1.0,January,0.1287014151059557,0.1287014151059557,7
+Chukar,Winter,prcp,1.0,January,-0.3556851706702343,0.3556851706702343,7
+Cinereous Vulture,Winter,temperature,12.0,December,0.34209724490165583,0.34209724490165583,9
+Cinereous Vulture,Winter,humidity,1.0,January,-0.35499143781093123,0.35499143781093123,9
+Cinereous Vulture,Winter,prcp,1.0,January,0.40896496533661325,0.40896496533661325,9
+Coal Tit,Winter,temperature,12.0,December,0.2793281535869188,0.2793281535869188,6
+Coal Tit,Winter,humidity,12.0,December,0.6993916975396605,0.6993916975396605,6
+Coal Tit,Winter,prcp,12.0,December,0.8197208454584461,0.8197208454584461,6
+Collared Crow,Winter,temperature,,,,,0
+Collared Crow,Winter,humidity,,,,,0
+Collared Crow,Winter,prcp,,,,,0
+Collared Finchbill,Winter,temperature,1.0,January,-0.5733299317587461,0.5733299317587461,5
+Collared Finchbill,Winter,humidity,1.0,January,-0.5453519679467381,0.5453519679467381,5
+Collared Finchbill,Winter,prcp,12.0,December,-0.783673568924361,0.783673568924361,5
+Common Chaffinch,Winter,temperature,12.0,December,-0.4247554374868596,0.4247554374868596,7
+Common Chaffinch,Winter,humidity,12.0,December,0.4180164731997888,0.4180164731997888,7
+Common Chaffinch,Winter,prcp,12.0,December,0.3124222096069589,0.3124222096069589,7
+Common Chiffchaff,Winter,temperature,,,,,0
+Common Chiffchaff,Winter,humidity,,,,,0
+Common Chiffchaff,Winter,prcp,,,,,0
+Common Crane,Winter,temperature,12.0,December,0.6483693933227891,0.6483693933227891,9
+Common Crane,Winter,humidity,2.0,February,-0.3871351913426495,0.3871351913426495,9
+Common Crane,Winter,prcp,12.0,December,-0.1927534096914082,0.1927534096914082,9
+Common Goldeneye,Winter,temperature,2.0,February,0.5339915456375667,0.5339915456375667,9
+Common Goldeneye,Winter,humidity,12.0,December,0.3783697518431753,0.3783697518431753,9
+Common Goldeneye,Winter,prcp,2.0,February,0.38735670434032354,0.38735670434032354,9
+Common Merganser,Winter,temperature,1.0,January,-0.6888083758090248,0.6888083758090248,9
+Common Merganser,Winter,humidity,2.0,February,0.29718443738080225,0.29718443738080225,9
+Common Merganser,Winter,prcp,2.0,February,0.6607616072222864,0.6607616072222864,9
+Common Pochard,Winter,temperature,2.0,February,-0.27507848422774916,0.27507848422774916,9
+Common Pochard,Winter,humidity,1.0,January,-0.5551436302434338,0.5551436302434338,9
+Common Pochard,Winter,prcp,1.0,January,-0.6460846916079404,0.6460846916079404,9
+Crested Kingfisher,Winter,temperature,2.0,February,0.518981497124737,0.518981497124737,9
+Crested Kingfisher,Winter,humidity,12.0,December,-0.49433938933937627,0.49433938933937627,9
+Crested Kingfisher,Winter,prcp,2.0,February,0.546061979670983,0.546061979670983,9
+Dalmatian Pelican,Winter,temperature,,,,,0
+Dalmatian Pelican,Winter,humidity,,,,,0
+Dalmatian Pelican,Winter,prcp,,,,,0
+Domestic goose sp. (Domestic type),Winter,temperature,,,,,0
+Domestic goose sp. (Domestic type),Winter,humidity,,,,,0
+Domestic goose sp. (Domestic type),Winter,prcp,,,,,0
+Dusky Thrush,Winter,temperature,1.0,January,-0.5111549008192373,0.5111549008192373,9
+Dusky Thrush,Winter,humidity,1.0,January,-0.28642610423770587,0.28642610423770587,9
+Dusky Thrush,Winter,prcp,2.0,February,-0.32093105571721087,0.32093105571721087,9
+Dusky x Naumann's Thrush (hybrid),Winter,temperature,2.0,February,0.47769065462316135,0.47769065462316135,5
+Dusky x Naumann's Thrush (hybrid),Winter,humidity,2.0,February,0.5471786496556678,0.5471786496556678,5
+Dusky x Naumann's Thrush (hybrid),Winter,prcp,2.0,February,0.31191898662185746,0.31191898662185746,5
+Dusky/Naumann's Thrush,Winter,temperature,2.0,February,0.7947863719647307,0.7947863719647307,8
+Dusky/Naumann's Thrush,Winter,humidity,2.0,February,0.8468951767343669,0.8468951767343669,8
+Dusky/Naumann's Thrush,Winter,prcp,2.0,February,0.8998388678038342,0.8998388678038342,8
+Eastern Spot-billed Duck x Mallard (hybrid),Winter,temperature,2.0,February,-0.16331347602071955,0.16331347602071955,5
+Eastern Spot-billed Duck x Mallard (hybrid),Winter,humidity,2.0,February,-0.7281605453745452,0.7281605453745452,5
+Eastern Spot-billed Duck x Mallard (hybrid),Winter,prcp,2.0,February,-0.6891520362723482,0.6891520362723482,5
+Eurasian Bittern,Winter,temperature,12.0,December,-0.7160000368862677,0.7160000368862677,9
+Eurasian Bittern,Winter,humidity,12.0,December,-0.8648039310056381,0.8648039310056381,9
+Eurasian Bittern,Winter,prcp,12.0,December,-0.40059911813952015,0.40059911813952015,9
+Eurasian Bullfinch,Winter,temperature,,,,,0
+Eurasian Bullfinch,Winter,humidity,,,,,0
+Eurasian Bullfinch,Winter,prcp,,,,,0
+Eurasian Eagle-Owl,Winter,temperature,2.0,February,0.9009999283509966,0.9009999283509966,5
+Eurasian Eagle-Owl,Winter,humidity,2.0,February,0.7315960344376388,0.7315960344376388,5
+Eurasian Eagle-Owl,Winter,prcp,2.0,February,0.9285433145047594,0.9285433145047594,5
+Eurasian Siskin,Winter,temperature,2.0,February,0.8153598542417038,0.8153598542417038,7
+Eurasian Siskin,Winter,humidity,12.0,December,0.7369209764540637,0.7369209764540637,8
+Eurasian Siskin,Winter,prcp,2.0,February,0.8301104018457364,0.8301104018457364,7
+Eurasian Treecreeper,Winter,temperature,,,,,0
+Eurasian Treecreeper,Winter,humidity,,,,,0
+Eurasian Treecreeper,Winter,prcp,,,,,0
+Eurasian Wren,Winter,temperature,2.0,February,-0.2149376812863763,0.2149376812863763,9
+Eurasian Wren,Winter,humidity,1.0,January,-0.4505166767783558,0.4505166767783558,9
+Eurasian Wren,Winter,prcp,1.0,January,0.25820010154154843,0.25820010154154843,9
+European Robin,Winter,temperature,,,,,0
+European Robin,Winter,humidity,,,,,0
+European Robin,Winter,prcp,,,,,0
+Falcated Duck,Winter,temperature,12.0,December,-0.1671392063418008,0.1671392063418008,9
+Falcated Duck,Winter,humidity,12.0,December,-0.3301343946209056,0.3301343946209056,9
+Falcated Duck,Winter,prcp,2.0,February,0.6923574487221993,0.6923574487221993,9
+Ferruginous Duck/Baer's Pochard,Winter,temperature,,,,,0
+Ferruginous Duck/Baer's Pochard,Winter,humidity,,,,,0
+Ferruginous Duck/Baer's Pochard,Winter,prcp,,,,,0
+Fieldfare,Winter,temperature,,,,,0
+Fieldfare,Winter,humidity,,,,,0
+Fieldfare,Winter,prcp,,,,,0
+Goldcrest,Winter,temperature,2.0,February,0.43639328420875767,0.43639328420875767,8
+Goldcrest,Winter,humidity,1.0,January,0.7140576106112612,0.7140576106112612,7
+Goldcrest,Winter,prcp,12.0,December,0.5497829432221484,0.5497829432221484,9
+Golden Eagle,Winter,temperature,2.0,February,0.09956129442446728,0.09956129442446728,6
+Golden Eagle,Winter,humidity,12.0,December,-0.46779025423834064,0.46779025423834064,6
+Golden Eagle,Winter,prcp,12.0,December,-0.5802004177768267,0.5802004177768267,6
+Gray-backed Thrush,Winter,temperature,,,,,0
+Gray-backed Thrush,Winter,humidity,,,,,0
+Gray-backed Thrush,Winter,prcp,,,,,0
+Great Bustard,Winter,temperature,12.0,December,-0.7265848360434634,0.7265848360434634,5
+Great Bustard,Winter,humidity,12.0,December,0.1859157942533846,0.1859157942533846,5
+Great Bustard,Winter,prcp,12.0,December,0.38132421483400347,0.38132421483400347,5
+Hawfinch,Winter,temperature,12.0,December,-0.35794104136843896,0.35794104136843896,9
+Hawfinch,Winter,humidity,12.0,December,0.33002751061856844,0.33002751061856844,9
+Hawfinch,Winter,prcp,12.0,December,0.7481470075570956,0.7481470075570956,9
+Hooded Crane,Winter,temperature,12.0,December,0.7430950419114897,0.7430950419114897,5
+Hooded Crane,Winter,humidity,12.0,December,0.1610821242267653,0.1610821242267653,5
+Hooded Crane,Winter,prcp,12.0,December,-0.24340047602152878,0.24340047602152878,5
+Horned Lark,Winter,temperature,,,,,0
+Horned Lark,Winter,humidity,,,,,0
+Horned Lark,Winter,prcp,,,,,0
+Ibisbill,Winter,temperature,,,,,0
+Ibisbill,Winter,humidity,,,,,0
+Ibisbill,Winter,prcp,,,,,0
+Japanese Grosbeak,Winter,temperature,,,,,0
+Japanese Grosbeak,Winter,humidity,,,,,0
+Japanese Grosbeak,Winter,prcp,,,,,0
+Japanese Thrush,Winter,temperature,,,,,0
+Japanese Thrush,Winter,humidity,,,,,0
+Japanese Thrush,Winter,prcp,,,,,0
+Japanese Waxwing,Winter,temperature,1.0,January,-0.09820396259051233,0.09820396259051233,7
+Japanese Waxwing,Winter,humidity,1.0,January,-0.27189327739870545,0.27189327739870545,7
+Japanese Waxwing,Winter,prcp,1.0,January,-0.37869515922340247,0.37869515922340247,7
+Lapland Longspur,Winter,temperature,2.0,February,0.686046185122162,0.686046185122162,6
+Lapland Longspur,Winter,humidity,2.0,February,0.6002768832658457,0.6002768832658457,6
+Lapland Longspur,Winter,prcp,2.0,February,0.8304924183622309,0.8304924183622309,6
+Little Owl,Winter,temperature,2.0,February,-0.709135314306085,0.709135314306085,8
+Little Owl,Winter,humidity,1.0,January,-0.7297348897809193,0.7297348897809193,6
+Little Owl,Winter,prcp,1.0,January,-0.37843382343453535,0.37843382343453535,6
+Long-tailed Duck,Winter,temperature,12.0,December,-0.22524196854356496,0.22524196854356496,5
+Long-tailed Duck,Winter,humidity,12.0,December,0.38981604799734715,0.38981604799734715,5
+Long-tailed Duck,Winter,prcp,12.0,December,-0.02337239612570309,0.02337239612570309,5
+Long-tailed Rosefinch,Winter,temperature,1.0,January,-0.18967372205160252,0.18967372205160252,9
+Long-tailed Rosefinch,Winter,humidity,12.0,December,0.13768354584876638,0.13768354584876638,9
+Long-tailed Rosefinch,Winter,prcp,2.0,February,-0.368441977409863,0.368441977409863,7
+Long-tailed Shrike,Winter,temperature,12.0,December,-0.4193441060158594,0.4193441060158594,9
+Long-tailed Shrike,Winter,humidity,1.0,January,0.5961296105953116,0.5961296105953116,8
+Long-tailed Shrike,Winter,prcp,1.0,January,0.5703286521171484,0.5703286521171484,8
+Long-tailed Tit,Winter,temperature,,,,,0
+Long-tailed Tit,Winter,humidity,,,,,0
+Long-tailed Tit,Winter,prcp,,,,,0
+Marsh/Willow Tit,Winter,temperature,,,,,0
+Marsh/Willow Tit,Winter,humidity,,,,,0
+Marsh/Willow Tit,Winter,prcp,,,,,0
+Masked Laughingthrush,Winter,temperature,,,,,0
+Masked Laughingthrush,Winter,humidity,,,,,0
+Masked Laughingthrush,Winter,prcp,,,,,0
+Meadow Pipit,Winter,temperature,,,,,0
+Meadow Pipit,Winter,humidity,,,,,0
+Meadow Pipit,Winter,prcp,,,,,0
+Muscovy Duck,Winter,temperature,,,,,0
+Muscovy Duck,Winter,humidity,,,,,0
+Muscovy Duck,Winter,prcp,,,,,0
+Mute Swan,Winter,temperature,2.0,February,0.6626850292783378,0.6626850292783378,5
+Mute Swan,Winter,humidity,2.0,February,0.6355794743850965,0.6355794743850965,5
+Mute Swan,Winter,prcp,2.0,February,0.7903540387627396,0.7903540387627396,5
+Naumann's Thrush,Winter,temperature,1.0,January,-0.6080986704506275,0.6080986704506275,9
+Naumann's Thrush,Winter,humidity,12.0,December,0.39258041486313877,0.39258041486313877,9
+Naumann's Thrush,Winter,prcp,12.0,December,0.2989191923389112,0.2989191923389112,9
+Pale Thrush,Winter,temperature,12.0,December,-0.18832023692708494,0.18832023692708494,5
+Pale Thrush,Winter,humidity,12.0,December,-0.6132070073813921,0.6132070073813921,5
+Pale Thrush,Winter,prcp,12.0,December,-0.010118523859789865,0.010118523859789865,5
+Pallas's Rosefinch,Winter,temperature,1.0,January,-0.5517747507305109,0.5517747507305109,9
+Pallas's Rosefinch,Winter,humidity,12.0,December,0.2842691627098314,0.2842691627098314,9
+Pallas's Rosefinch,Winter,prcp,1.0,January,0.4603800569155929,0.4603800569155929,9
+Pied Kingfisher,Winter,temperature,,,,,0
+Pied Kingfisher,Winter,humidity,,,,,0
+Pied Kingfisher,Winter,prcp,,,,,0
+Pine Bunting,Winter,temperature,2.0,February,0.19659036053200327,0.19659036053200327,9
+Pine Bunting,Winter,humidity,1.0,January,0.34506817732500694,0.34506817732500694,9
+Pine Bunting,Winter,prcp,2.0,February,0.5525515762930984,0.5525515762930984,9
+Plumbeous Redstart,Winter,temperature,1.0,January,0.38343452774291753,0.38343452774291753,8
+Plumbeous Redstart,Winter,humidity,1.0,January,-0.7662196089975465,0.7662196089975465,8
+Plumbeous Redstart,Winter,prcp,2.0,February,-0.3605628636066778,0.3605628636066778,8
+Red Crossbill,Winter,temperature,1.0,January,-0.5763356995264091,0.5763356995264091,5
+Red Crossbill,Winter,humidity,1.0,January,0.02736052105290882,0.02736052105290882,5
+Red Crossbill,Winter,prcp,1.0,January,-0.5664707591949444,0.5664707591949444,5
+Red-billed Chough,Winter,temperature,1.0,January,-0.26555146786010764,0.26555146786010764,9
+Red-billed Chough,Winter,humidity,1.0,January,-0.4306139863325677,0.4306139863325677,9
+Red-billed Chough,Winter,prcp,1.0,January,0.5708162499297952,0.5708162499297952,9
+Red-billed Leiothrix,Winter,temperature,,,,,0
+Red-billed Leiothrix,Winter,humidity,,,,,0
+Red-billed Leiothrix,Winter,prcp,,,,,0
+Red-breasted Flycatcher,Winter,temperature,,,,,0
+Red-breasted Flycatcher,Winter,humidity,,,,,0
+Red-breasted Flycatcher,Winter,prcp,,,,,0
+Red-flanked Bluetail,Winter,temperature,1.0,January,0.4107595109350789,0.4107595109350789,6
+Red-flanked Bluetail,Winter,humidity,2.0,February,-0.7929724507591862,0.7929724507591862,5
+Red-flanked Bluetail,Winter,prcp,2.0,February,-0.6184001818040434,0.6184001818040434,5
+Red-throated Thrush,Winter,temperature,1.0,January,0.23231745481996743,0.23231745481996743,9
+Red-throated Thrush,Winter,humidity,1.0,January,0.4435942262669833,0.4435942262669833,9
+Red-throated Thrush,Winter,prcp,2.0,February,-0.7054735178206898,0.7054735178206898,9
+Redpoll,Winter,temperature,12.0,December,0.4191759190219423,0.4191759190219423,5
+Redpoll,Winter,humidity,12.0,December,0.8625467195183866,0.8625467195183866,5
+Redpoll,Winter,prcp,12.0,December,0.5880496573126738,0.5880496573126738,5
+Redwing,Winter,temperature,,,,,0
+Redwing,Winter,humidity,,,,,0
+Redwing,Winter,prcp,,,,,0
+Rough-legged Hawk,Winter,temperature,12.0,December,0.6119669915838925,0.6119669915838925,7
+Rough-legged Hawk,Winter,humidity,12.0,December,-0.19647642794723663,0.19647642794723663,7
+Rough-legged Hawk,Winter,prcp,12.0,December,-0.20542413641421758,0.20542413641421758,7
+Rufous-backed Bunting,Winter,temperature,,,,,0
+Rufous-backed Bunting,Winter,humidity,,,,,0
+Rufous-backed Bunting,Winter,prcp,,,,,0
+Rustic Bunting,Winter,temperature,2.0,February,0.30303473618006205,0.30303473618006205,8
+Rustic Bunting,Winter,humidity,12.0,December,0.3954181518095787,0.3954181518095787,9
+Rustic Bunting,Winter,prcp,12.0,December,0.6024630969461159,0.6024630969461159,9
+Scaly-sided Merganser,Winter,temperature,,,,,0
+Scaly-sided Merganser,Winter,humidity,,,,,0
+Scaly-sided Merganser,Winter,prcp,,,,,0
+Short-eared Owl,Winter,temperature,1.0,January,0.34162187782888076,0.34162187782888076,5
+Short-eared Owl,Winter,humidity,2.0,February,0.4847745266698257,0.4847745266698257,6
+Short-eared Owl,Winter,prcp,2.0,February,0.012871291069839889,0.012871291069839889,6
+Siberian Accentor,Winter,temperature,1.0,January,-0.2744771635749404,0.2744771635749404,9
+Siberian Accentor,Winter,humidity,2.0,February,0.2925136544774483,0.2925136544774483,9
+Siberian Accentor,Winter,prcp,1.0,January,0.21574152905547783,0.21574152905547783,9
+Smew,Winter,temperature,2.0,February,0.2237747985470118,0.2237747985470118,9
+Smew,Winter,humidity,1.0,January,0.6499081735756539,0.6499081735756539,9
+Smew,Winter,prcp,2.0,February,0.4336538196235916,0.4336538196235916,9
+Solitary Snipe,Winter,temperature,,,,,0
+Solitary Snipe,Winter,humidity,,,,,0
+Solitary Snipe,Winter,prcp,,,,,0
+Tufted Duck,Winter,temperature,1.0,January,0.3067686843731523,0.3067686843731523,9
+Tufted Duck,Winter,humidity,2.0,February,-0.608638213155835,0.608638213155835,9
+Tufted Duck,Winter,prcp,1.0,January,-0.6652178472449093,0.6652178472449093,9
+Turdus sp.,Winter,temperature,,,,,0
+Turdus sp.,Winter,humidity,,,,,0
+Turdus sp.,Winter,prcp,,,,,0
+Upland Buzzard,Winter,temperature,2.0,February,0.4982842964324872,0.4982842964324872,6
+Upland Buzzard,Winter,humidity,2.0,February,0.5130780055420765,0.5130780055420765,6
+Upland Buzzard,Winter,prcp,2.0,February,0.5326286264399807,0.5326286264399807,6
+Wallcreeper,Winter,temperature,2.0,February,0.18173388296772316,0.18173388296772316,8
+Wallcreeper,Winter,humidity,1.0,January,-0.6669248184334824,0.6669248184334824,8
+Wallcreeper,Winter,prcp,2.0,February,-0.5953329292580485,0.5953329292580485,8
+Water Pipit,Winter,temperature,12.0,December,-0.4033203671435219,0.4033203671435219,9
+Water Pipit,Winter,humidity,12.0,December,-0.5314407114746788,0.5314407114746788,9
+Water Pipit,Winter,prcp,2.0,February,0.47182690971159086,0.47182690971159086,9
+Water Rail,Winter,temperature,2.0,February,-0.46925917786966737,0.46925917786966737,6
+Water Rail,Winter,humidity,2.0,February,-0.4530992726393436,0.4530992726393436,6
+Water Rail,Winter,prcp,1.0,January,0.7884182230407122,0.7884182230407122,6
+White-capped Redstart,Winter,temperature,1.0,January,-0.2656057411301086,0.2656057411301086,7
+White-capped Redstart,Winter,humidity,1.0,January,-0.20689821011133852,0.20689821011133852,7
+White-capped Redstart,Winter,prcp,1.0,January,0.8720763392675548,0.8720763392675548,7
+White-crowned Penduline-Tit,Winter,temperature,,,,,0
+White-crowned Penduline-Tit,Winter,humidity,,,,,0
+White-crowned Penduline-Tit,Winter,prcp,,,,,0
+White-tailed Eagle,Winter,temperature,12.0,December,0.7683821935847731,0.7683821935847731,8
+White-tailed Eagle,Winter,humidity,1.0,January,0.4499914355068648,0.4499914355068648,9
+White-tailed Eagle,Winter,prcp,2.0,February,0.4139492962560163,0.4139492962560163,9
+White-winged Redstart,Winter,temperature,1.0,January,-0.6734860491341402,0.6734860491341402,9
+White-winged Redstart,Winter,humidity,1.0,January,-0.35407579160921887,0.35407579160921887,9
+White-winged Redstart,Winter,prcp,1.0,January,0.4519644314714792,0.4519644314714792,9
+Whooper Swan,Winter,temperature,12.0,December,0.7753299014469054,0.7753299014469054,9
+Whooper Swan,Winter,humidity,12.0,December,0.2274702878596391,0.2274702878596391,9
+Whooper Swan,Winter,prcp,1.0,January,-0.21618064374123955,0.21618064374123955,9
+Yellowhammer,Winter,temperature,,,,,0
+Yellowhammer,Winter,humidity,,,,,0
+Yellowhammer,Winter,prcp,,,,,0
+crow sp.,Winter,temperature,2.0,February,-0.22013351611278764,0.22013351611278764,6
+crow sp.,Winter,humidity,12.0,December,-0.4265294134225665,0.4265294134225665,7
+crow sp.,Winter,prcp,12.0,December,-0.29193064858412604,0.29193064858412604,7
+rosefinch sp.,Winter,temperature,,,,,0
+rosefinch sp.,Winter,humidity,,,,,0
+rosefinch sp.,Winter,prcp,,,,,0
+shrike sp.,Winter,temperature,,,,,0
+shrike sp.,Winter,humidity,,,,,0
+shrike sp.,Winter,prcp,,,,,0

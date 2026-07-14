@@ -1,0 +1,124 @@
+﻿common_name,season,environment_factor,selected_month,month_name,correlation,absolute_correlation,n_years,correlation_direction,correlation_strength,group
+Bluethroat,Spring,temperature,4.0,April,-0.11252601119266224,0.11252601119266224,6,Negative,Very Weak,Bottom 10%
+Chinese Sparrowhawk,Spring,temperature,5.0,May,-0.016715664583328838,0.016715664583328838,9,Negative,Very Weak,Bottom 10%
+Crested Lark,Spring,temperature,3.0,March,-0.05831558079669677,0.05831558079669677,8,Negative,Very Weak,Bottom 10%
+Eastern Yellow Wagtail,Spring,temperature,4.0,April,0.13597932908709265,0.13597932908709265,9,Positive,Very Weak,Bottom 10%
+Eurasian Whimbrel,Spring,temperature,5.0,May,0.029815638155843854,0.029815638155843854,8,Positive,Very Weak,Bottom 10%
+Eurasian Woodcock,Spring,temperature,4.0,April,0.1422185881453291,0.1422185881453291,9,Positive,Very Weak,Bottom 10%
+Gray-streaked Flycatcher,Spring,temperature,5.0,May,0.002304559009310879,0.002304559009310879,9,Positive,Very Weak,Bottom 10%
+Greater Sand-Plover,Spring,temperature,5.0,May,-0.12438088113863585,0.12438088113863585,9,Negative,Very Weak,Bottom 10%
+Hair-crested Drongo,Spring,temperature,5.0,May,0.06818415165555859,0.06818415165555859,9,Positive,Very Weak,Bottom 10%
+Northern Boobook,Spring,temperature,5.0,May,-0.028204195902238206,0.028204195902238206,7,Negative,Very Weak,Bottom 10%
+Oriental Pratincole,Spring,temperature,4.0,April,-0.1223396091300081,0.1223396091300081,9,Negative,Very Weak,Bottom 10%
+Oriental Stork,Spring,temperature,4.0,April,-0.07973325914346713,0.07973325914346713,8,Negative,Very Weak,Bottom 10%
+Pale-legged Leaf Warbler,Spring,temperature,5.0,May,0.06828927906710427,0.06828927906710427,8,Positive,Very Weak,Bottom 10%
+Pallas's Gull,Spring,temperature,4.0,April,0.12415413774186278,0.12415413774186278,5,Positive,Very Weak,Bottom 10%
+Tundra/Whooper Swan,Spring,temperature,3.0,March,0.07658149695368653,0.07658149695368653,5,Positive,Very Weak,Bottom 10%
+White-throated Rock-Thrush,Spring,temperature,5.0,May,-0.0677743390265948,0.0677743390265948,8,Negative,Very Weak,Bottom 10%
+passerine sp.,Spring,temperature,5.0,May,0.04301471576277204,0.04301471576277204,7,Positive,Very Weak,Bottom 10%
+Asian House-Martin,Summer,temperature,7.0,July,0.13921188377313717,0.13921188377313717,5,Positive,Very Weak,Bottom 10%
+Asian Koel,Summer,temperature,8.0,August,0.10588860291192234,0.10588860291192234,6,Positive,Very Weak,Bottom 10%
+Broad-billed Sandpiper,Summer,temperature,8.0,August,-0.03946864686966292,0.03946864686966292,5,Negative,Very Weak,Bottom 10%
+Chinese Bush Warbler,Summer,temperature,6.0,June,0.025188329745873844,0.025188329745873844,8,Positive,Very Weak,Bottom 10%
+Eastern Crowned Warbler,Summer,temperature,8.0,August,-0.12502474830104965,0.12502474830104965,8,Negative,Very Weak,Bottom 10%
+Eurasian Wryneck,Summer,temperature,8.0,August,0.03155165730137536,0.03155165730137536,8,Positive,Very Weak,Bottom 10%
+Greenish/Two-barred Warbler,Summer,temperature,6.0,June,0.074294175120472,0.074294175120472,5,Positive,Very Weak,Bottom 10%
+Himalayan Cuckoo,Summer,temperature,6.0,June,0.0026163177092388113,0.0026163177092388113,9,Positive,Very Weak,Bottom 10%
+Ruddy-breasted Crake,Summer,temperature,6.0,June,-0.05378926196863833,0.05378926196863833,7,Negative,Very Weak,Bottom 10%
+Schrenck's Bittern,Summer,temperature,6.0,June,-0.1282346656181037,0.1282346656181037,8,Negative,Very Weak,Bottom 10%
+Swinhoe's White-eye,Summer,temperature,8.0,August,-0.13453429601216785,0.13453429601216785,8,Negative,Very Weak,Bottom 10%
+Yellow Bittern,Summer,temperature,8.0,August,0.1261153362833414,0.1261153362833414,9,Positive,Very Weak,Bottom 10%
+Gray-backed Thrush,Autumn,temperature,10.0,October,-0.12238369564348142,0.12238369564348142,7,Negative,Very Weak,Bottom 10%
+Greater Scaup,Autumn,temperature,11.0,November,-0.13268128573865004,0.13268128573865004,6,Negative,Very Weak,Bottom 10%
+Horned Grebe,Autumn,temperature,11.0,November,-0.051196175536400816,0.051196175536400816,7,Negative,Very Weak,Bottom 10%
+Japanese Sparrowhawk,Autumn,temperature,10.0,October,-0.07951234673232016,0.07951234673232016,9,Negative,Very Weak,Bottom 10%
+Lanceolated Warbler,Autumn,temperature,10.0,October,-0.05177611775614953,0.05177611775614953,9,Negative,Very Weak,Bottom 10%
+Red-breasted Merganser,Autumn,temperature,11.0,November,0.060460787470929346,0.060460787470929346,7,Positive,Very Weak,Bottom 10%
+Rufous-tailed Robin,Autumn,temperature,10.0,October,0.03833336229377638,0.03833336229377638,6,Positive,Very Weak,Bottom 10%
+Siberian Rubythroat,Autumn,temperature,9.0,September,-0.01988865188689827,0.01988865188689827,9,Negative,Very Weak,Bottom 10%
+Zosterops sp.,Autumn,temperature,10.0,October,-0.12926780682758554,0.12926780682758554,5,Negative,Very Weak,Bottom 10%
+passerine sp.,Autumn,temperature,9.0,September,0.13834630312214644,0.13834630312214644,6,Positive,Very Weak,Bottom 10%
+Golden Eagle,Winter,temperature,2.0,February,0.09956129442446728,0.09956129442446728,6,Positive,Very Weak,Bottom 10%
+Japanese Waxwing,Winter,temperature,1.0,January,-0.09820396259051233,0.09820396259051233,7,Negative,Very Weak,Bottom 10%
+Asian Stubtail,Spring,humidity,5.0,May,-0.045480493767295585,0.045480493767295585,9,Negative,Very Weak,Bottom 10%
+Black Kite,Spring,humidity,5.0,May,-0.1520629048827491,0.1520629048827491,9,Negative,Very Weak,Bottom 10%
+Common Goldeneye,Spring,humidity,3.0,March,0.07784308629561985,0.07784308629561985,9,Positive,Very Weak,Bottom 10%
+Common Snipe,Spring,humidity,4.0,April,-0.13511614701836624,0.13511614701836624,9,Negative,Very Weak,Bottom 10%
+Common Swift,Spring,humidity,4.0,April,-0.05248421015510364,0.05248421015510364,9,Negative,Very Weak,Bottom 10%
+Curlew Sandpiper,Spring,humidity,5.0,May,-0.021479587113222592,0.021479587113222592,9,Negative,Very Weak,Bottom 10%
+Eurasian Crag-Martin,Spring,humidity,3.0,March,0.16812141045077478,0.16812141045077478,8,Positive,Very Weak,Bottom 10%
+Eurasian Woodcock,Spring,humidity,4.0,April,-0.02142563521392811,0.02142563521392811,9,Negative,Very Weak,Bottom 10%
+Great Bustard,Spring,humidity,4.0,April,-0.15631701731927,0.15631701731927,8,Negative,Very Weak,Bottom 10%
+Merlin,Spring,humidity,3.0,March,0.08141389461372203,0.08141389461372203,6,Positive,Very Weak,Bottom 10%
+Northern Boobook,Spring,humidity,5.0,May,0.16949689177016436,0.16949689177016436,7,Positive,Very Weak,Bottom 10%
+Radde's Warbler,Spring,humidity,5.0,May,0.15577876567821294,0.15577876567821294,9,Positive,Very Weak,Bottom 10%
+Rufous-tailed Robin,Spring,humidity,5.0,May,-0.17492685398589242,0.17492685398589242,5,Negative,Very Weak,Bottom 10%
+Tufted Duck,Spring,humidity,3.0,March,0.06683728374093496,0.06683728374093496,9,Positive,Very Weak,Bottom 10%
+White-naped Crane,Spring,humidity,4.0,April,0.12996655281090663,0.12996655281090663,6,Positive,Very Weak,Bottom 10%
+Alstr√∂m's Warbler,Summer,humidity,6.0,June,0.05727791604750676,0.05727791604750676,7,Positive,Very Weak,Bottom 10%
+Asian Stubtail,Summer,humidity,7.0,July,-0.17171397417772527,0.17171397417772527,7,Negative,Very Weak,Bottom 10%
+Blue-and-white Flycatcher,Summer,humidity,6.0,June,0.19662950012933741,0.19662950012933741,7,Positive,Very Weak,Bottom 10%
+Broad-billed Sandpiper,Summer,humidity,8.0,August,-0.1769653535946217,0.1769653535946217,5,Negative,Very Weak,Bottom 10%
+Chinese Bush Warbler,Summer,humidity,6.0,June,0.07264187482582715,0.07264187482582715,8,Positive,Very Weak,Bottom 10%
+Gray-sided Thrush,Summer,humidity,7.0,July,0.10527205716489332,0.10527205716489332,7,Positive,Very Weak,Bottom 10%
+Greenish/Two-barred Warbler,Summer,humidity,6.0,June,-0.09940040796275003,0.09940040796275003,5,Negative,Very Weak,Bottom 10%
+Indian Cuckoo,Summer,humidity,7.0,July,0.1110871498851835,0.1110871498851835,9,Positive,Very Weak,Bottom 10%
+Lesser Cuckoo,Summer,humidity,7.0,July,0.1262019369066727,0.1262019369066727,6,Positive,Very Weak,Bottom 10%
+Little Heron,Summer,humidity,7.0,July,0.09296097179671424,0.09296097179671424,9,Positive,Very Weak,Bottom 10%
+Red-billed Chough,Summer,humidity,8.0,August,0.14685086174431405,0.14685086174431405,6,Positive,Very Weak,Bottom 10%
+White-backed Woodpecker,Summer,humidity,7.0,July,0.14400852092278318,0.14400852092278318,5,Positive,Very Weak,Bottom 10%
+cuckoo sp. (Cuculidae sp.),Summer,humidity,8.0,August,-0.12991850221042991,0.12991850221042991,6,Negative,Very Weak,Bottom 10%
+Black-faced Bunting,Autumn,humidity,11.0,November,-0.17431366519758482,0.17431366519758482,9,Negative,Very Weak,Bottom 10%
+Gray-backed Thrush,Autumn,humidity,10.0,October,-0.08020190877773899,0.08020190877773899,7,Negative,Very Weak,Bottom 10%
+Greater Scaup,Autumn,humidity,11.0,November,0.029400093490013813,0.029400093490013813,6,Positive,Very Weak,Bottom 10%
+Hen Harrier,Autumn,humidity,11.0,November,-0.17498681543103428,0.17498681543103428,9,Negative,Very Weak,Bottom 10%
+Rufous-tailed Robin,Autumn,humidity,10.0,October,0.13183496285604168,0.13183496285604168,6,Positive,Very Weak,Bottom 10%
+Black-throated x Red-throated Thrush (hybrid),Winter,humidity,12.0,December,-0.08432287264046859,0.08432287264046859,5,Negative,Very Weak,Bottom 10%
+Chinese Beautiful Rosefinch,Winter,humidity,12.0,December,0.16909543148790945,0.16909543148790945,9,Positive,Very Weak,Bottom 10%
+Chukar,Winter,humidity,1.0,January,0.1287014151059557,0.1287014151059557,7,Positive,Very Weak,Bottom 10%
+Great Bustard,Winter,humidity,12.0,December,0.1859157942533846,0.1859157942533846,5,Positive,Very Weak,Bottom 10%
+Hooded Crane,Winter,humidity,12.0,December,0.1610821242267653,0.1610821242267653,5,Positive,Very Weak,Bottom 10%
+Long-tailed Rosefinch,Winter,humidity,12.0,December,0.13768354584876638,0.13768354584876638,9,Positive,Very Weak,Bottom 10%
+Red Crossbill,Winter,humidity,1.0,January,0.02736052105290882,0.02736052105290882,5,Positive,Very Weak,Bottom 10%
+Rough-legged Hawk,Winter,humidity,12.0,December,-0.19647642794723663,0.19647642794723663,7,Negative,Very Weak,Bottom 10%
+Asian Brown Flycatcher,Spring,prcp,5.0,May,-0.13861299459872564,0.13861299459872564,9,Negative,Very Weak,Bottom 10%
+Baikal Bush Warbler,Spring,prcp,5.0,May,-0.18389241077669613,0.18389241077669613,9,Negative,Very Weak,Bottom 10%
+Black-tailed Godwit,Spring,prcp,4.0,April,0.18458878119037767,0.18458878119037767,7,Positive,Very Weak,Bottom 10%
+Chestnut Bunting,Spring,prcp,5.0,May,-0.008611980042145834,0.008611980042145834,9,Negative,Very Weak,Bottom 10%
+Common Tern,Spring,prcp,5.0,May,0.18027718725993316,0.18027718725993316,9,Positive,Very Weak,Bottom 10%
+Curlew Sandpiper,Spring,prcp,5.0,May,-0.04442563274831957,0.04442563274831957,9,Negative,Very Weak,Bottom 10%
+Dusky Warbler,Spring,prcp,5.0,May,-0.09280459819138971,0.09280459819138971,9,Negative,Very Weak,Bottom 10%
+Eurasian Woodcock,Spring,prcp,4.0,April,0.06361035297421237,0.06361035297421237,9,Positive,Very Weak,Bottom 10%
+Gray Nightjar,Spring,prcp,5.0,May,-0.15762507155286257,0.15762507155286257,9,Negative,Very Weak,Bottom 10%
+Lesser Kestrel,Spring,prcp,4.0,April,-0.09897606655533768,0.09897606655533768,6,Negative,Very Weak,Bottom 10%
+Mongolian Gull,Spring,prcp,4.0,April,0.1834789698565291,0.1834789698565291,8,Positive,Very Weak,Bottom 10%
+Mongolian Short-toed Lark,Spring,prcp,4.0,April,-0.05174030385814215,0.05174030385814215,9,Negative,Very Weak,Bottom 10%
+Northern Boobook,Spring,prcp,5.0,May,-0.17779242592434408,0.17779242592434408,7,Negative,Very Weak,Bottom 10%
+Pacific Golden-Plover,Spring,prcp,5.0,May,-0.03829740559366944,0.03829740559366944,9,Negative,Very Weak,Bottom 10%
+Pacific Swift,Spring,prcp,5.0,May,-0.10206728998860594,0.10206728998860594,9,Negative,Very Weak,Bottom 10%
+Red-flanked Bluetail,Spring,prcp,4.0,April,-0.17577862853314788,0.17577862853314788,8,Negative,Very Weak,Bottom 10%
+Red-flanked/Qilian Bluetail,Spring,prcp,5.0,May,-0.17544758623924434,0.17544758623924434,7,Negative,Very Weak,Bottom 10%
+Siberian Thrush,Spring,prcp,5.0,May,-0.060161160798339185,0.060161160798339185,6,Negative,Very Weak,Bottom 10%
+Taiga Flycatcher,Spring,prcp,4.0,April,-0.10963493586375046,0.10963493586375046,9,Negative,Very Weak,Bottom 10%
+Thick-billed Warbler,Spring,prcp,5.0,May,-0.0762487077263017,0.0762487077263017,9,Negative,Very Weak,Bottom 10%
+White-throated Rock-Thrush,Spring,prcp,5.0,May,0.028064823737256682,0.028064823737256682,8,Positive,Very Weak,Bottom 10%
+Yellow-browed Warbler,Spring,prcp,4.0,April,-0.09915369852381971,0.09915369852381971,9,Negative,Very Weak,Bottom 10%
+falcon sp.,Spring,prcp,5.0,May,-0.0022402302902339226,0.0022402302902339226,6,Negative,Very Weak,Bottom 10%
+hawk sp.,Spring,prcp,4.0,April,-0.13284806118116885,0.13284806118116885,5,Negative,Very Weak,Bottom 10%
+Chinese Bush Warbler,Summer,prcp,6.0,June,0.10111367723344025,0.10111367723344025,8,Positive,Very Weak,Bottom 10%
+Chinese Pond-Heron,Summer,prcp,6.0,June,0.14507000761477595,0.14507000761477595,9,Positive,Very Weak,Bottom 10%
+Dark-sided Flycatcher,Summer,prcp,6.0,June,-0.16142862654466256,0.16142862654466256,6,Negative,Very Weak,Bottom 10%
+Eurasian Wryneck,Summer,prcp,8.0,August,0.10493118652809674,0.10493118652809674,8,Positive,Very Weak,Bottom 10%
+Gray Nightjar,Summer,prcp,6.0,June,0.18677382720011054,0.18677382720011054,8,Positive,Very Weak,Bottom 10%
+Himalayan Cuckoo,Summer,prcp,6.0,June,0.048976681577240826,0.048976681577240826,9,Positive,Very Weak,Bottom 10%
+Little Heron,Summer,prcp,7.0,July,-0.1284259857732248,0.1284259857732248,9,Negative,Very Weak,Bottom 10%
+Red-necked Stint,Summer,prcp,8.0,August,0.01808816718169895,0.01808816718169895,7,Positive,Very Weak,Bottom 10%
+cuckoo sp. (Cuculidae sp.),Summer,prcp,8.0,August,-0.087028882276551,0.087028882276551,6,Negative,Very Weak,Bottom 10%
+Greater Scaup,Autumn,prcp,11.0,November,-0.17339431713447132,0.17339431713447132,6,Negative,Very Weak,Bottom 10%
+Redpoll,Autumn,prcp,10.0,October,-0.15712348584505614,0.15712348584505614,6,Negative,Very Weak,Bottom 10%
+Rufous-bellied Woodpecker,Autumn,prcp,9.0,September,0.1666352107842973,0.1666352107842973,9,Positive,Very Weak,Bottom 10%
+Yellow-browed Bunting,Autumn,prcp,10.0,October,-0.17212751315680813,0.17212751315680813,8,Negative,Very Weak,Bottom 10%
+passerine sp.,Autumn,prcp,9.0,September,-0.18514518949683392,0.18514518949683392,6,Negative,Very Weak,Bottom 10%
+Long-tailed Duck,Winter,prcp,12.0,December,-0.02337239612570309,0.02337239612570309,5,Negative,Very Weak,Bottom 10%
+Pale Thrush,Winter,prcp,12.0,December,-0.010118523859789865,0.010118523859789865,5,Negative,Very Weak,Bottom 10%
+Short-eared Owl,Winter,prcp,2.0,February,0.012871291069839889,0.012871291069839889,6,Positive,Very Weak,Bottom 10%

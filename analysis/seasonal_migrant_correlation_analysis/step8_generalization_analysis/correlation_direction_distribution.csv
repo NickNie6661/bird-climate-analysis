@@ -1,0 +1,7 @@
+﻿environment_factor,correlation_direction,number_of_correlations,percentage,Environmental Factor
+humidity,Negative,221,54.70297029702971,Humidity
+humidity,Positive,183,45.2970297029703,Humidity
+prcp,Negative,221,54.70297029702971,Precipitation
+prcp,Positive,183,45.2970297029703,Precipitation
+temperature,Negative,229,56.683168316831676,Temperature
+temperature,Positive,175,43.31683168316832,Temperature

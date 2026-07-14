@@ -1,0 +1,4 @@
+﻿environment_factor,environmental_factor,number_of_correlations,mean_r,median_r,std_r,mean_absolute_r,median_absolute_r,std_absolute_r,minimum_r,maximum_r,positive_percentage,negative_percentage,10th_percentile,25th_percentile,median,75th_percentile,90th_percentile
+humidity,Humidity,404,-0.072,-0.207,0.523,0.482,0.465,0.216,-0.962,0.958,45.297,54.703,0.197,0.327,0.465,0.667,0.775
+prcp,Precipitation,404,-0.014,-0.157,0.525,0.476,0.472,0.22,-0.936,0.962,45.297,54.703,0.187,0.317,0.472,0.634,0.781
+temperature,Temperature,404,-0.077,-0.172,0.484,0.437,0.433,0.22,-0.965,0.901,43.317,56.683,0.145,0.271,0.433,0.612,0.729

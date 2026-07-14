@@ -1,0 +1,13 @@
+﻿season,Environmental Factor,common_name,Selected Month,Pearson r,Relationship,Years Used
+Autumn,Humidity,Ashy Minivet,October,0.958,Positive,5
+Autumn,Precipitation,Yellow-browed Warbler,October,0.962,Positive,9
+Autumn,Temperature,Bull-headed Shrike,September,-0.942,Negative,7
+Spring,Humidity,Red-throated Pipit,May,-0.962,Negative,9
+Spring,Precipitation,Common Sandpiper,March,0.946,Positive,7
+Spring,Temperature,Baer's Pochard,May,-0.965,Negative,6
+Summer,Humidity,Russet Sparrow,August,-0.901,Negative,5
+Summer,Precipitation,Himalayan Owl,August,-0.85,Negative,6
+Summer,Temperature,Cinnamon Bittern,July,-0.871,Negative,5
+Winter,Humidity,Eurasian Bittern,December,-0.865,Negative,9
+Winter,Precipitation,Eurasian Eagle-Owl,February,0.929,Positive,5
+Winter,Temperature,Black-throated x Red-throated Thrush (hybrid),December,-0.918,Negative,5

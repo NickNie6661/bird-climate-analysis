@@ -1,0 +1,16 @@
+﻿environment_factor,correlation_strength,number_of_correlations
+humidity,Very Weak,43
+humidity,Weak,111
+humidity,Moderate,122
+humidity,Strong,99
+humidity,Very Strong,29
+prcp,Very Weak,48
+prcp,Weak,109
+prcp,Moderate,125
+prcp,Strong,89
+prcp,Very Strong,33
+temperature,Very Weak,69
+temperature,Weak,108
+temperature,Moderate,121
+temperature,Strong,88
+temperature,Very Strong,18

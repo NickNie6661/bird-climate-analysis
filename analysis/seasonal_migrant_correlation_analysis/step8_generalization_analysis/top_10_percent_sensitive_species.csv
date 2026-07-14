@@ -1,0 +1,124 @@
+﻿common_name,season,environment_factor,selected_month,month_name,correlation,absolute_correlation,n_years,correlation_direction,correlation_strength,group
+Baer's Pochard,Spring,temperature,5.0,May,-0.9649643153499831,0.9649643153499831,6,Negative,Very Strong,Top 10%
+Bar-headed Goose,Spring,temperature,5.0,May,0.8778823949689514,0.8778823949689514,5,Positive,Very Strong,Top 10%
+Brambling,Spring,temperature,5.0,May,-0.7346213296282215,0.7346213296282215,9,Negative,Strong,Top 10%
+Chinese Penduline-Tit,Spring,temperature,5.0,May,0.7634047724076474,0.7634047724076474,9,Positive,Strong,Top 10%
+Eurasian Curlew,Spring,temperature,5.0,May,0.7320564209026315,0.7320564209026315,6,Positive,Strong,Top 10%
+Green-backed Flycatcher,Spring,temperature,5.0,May,-0.7334473230248912,0.7334473230248912,9,Negative,Strong,Top 10%
+Mongolian Short-toed Lark,Spring,temperature,4.0,April,-0.760747334893424,0.760747334893424,9,Negative,Strong,Top 10%
+Northern Pintail,Spring,temperature,5.0,May,-0.7445923244168403,0.7445923244168403,6,Negative,Strong,Top 10%
+Osprey,Spring,temperature,5.0,May,-0.8292387019950179,0.8292387019950179,9,Negative,Very Strong,Top 10%
+Rufous-tailed Robin,Spring,temperature,5.0,May,-0.9193716033792502,0.9193716033792502,5,Negative,Very Strong,Top 10%
+Short-toed Snake-Eagle,Spring,temperature,5.0,May,-0.7300691027723129,0.7300691027723129,8,Negative,Strong,Top 10%
+Tundra Swan,Spring,temperature,4.0,April,-0.8445788184013283,0.8445788184013283,8,Negative,Very Strong,Top 10%
+Yellow-browed Warbler,Spring,temperature,5.0,May,-0.849008850687823,0.849008850687823,9,Negative,Very Strong,Top 10%
+falcon sp.,Spring,temperature,5.0,May,0.8862405890906843,0.8862405890906843,6,Positive,Very Strong,Top 10%
+pipit sp.,Spring,temperature,5.0,May,-0.7619117093594121,0.7619117093594121,5,Negative,Strong,Top 10%
+snipe sp.,Spring,temperature,3.0,March,-0.9475470432462562,0.9475470432462562,5,Negative,Very Strong,Top 10%
+Black-capped Kingfisher,Summer,temperature,7.0,July,-0.7871940440471942,0.7871940440471942,6,Negative,Strong,Top 10%
+Chestnut-winged Cuckoo,Summer,temperature,6.0,June,-0.8567267745640522,0.8567267745640522,6,Negative,Very Strong,Top 10%
+Cinnamon Bittern,Summer,temperature,7.0,July,-0.870839631295692,0.870839631295692,5,Negative,Very Strong,Top 10%
+Claudia's Leaf Warbler,Summer,temperature,8.0,August,-0.7316402528777085,0.7316402528777085,9,Negative,Strong,Top 10%
+Himalayan Owl,Summer,temperature,8.0,August,-0.838473336389715,0.838473336389715,6,Negative,Very Strong,Top 10%
+Rosy Pipit,Summer,temperature,7.0,July,-0.7540344758536207,0.7540344758536207,5,Negative,Strong,Top 10%
+Asian Short-toed Lark,Autumn,temperature,10.0,October,0.7869554854239242,0.7869554854239242,8,Positive,Strong,Top 10%
+Bull-headed Shrike,Autumn,temperature,9.0,September,-0.941711274822047,0.941711274822047,7,Negative,Very Strong,Top 10%
+Common Crane,Autumn,temperature,11.0,November,-0.7315723768076187,0.7315723768076187,9,Negative,Strong,Top 10%
+Common Greenshank,Autumn,temperature,10.0,October,0.7577588425441035,0.7577588425441035,7,Positive,Strong,Top 10%
+Daurian Jackdaw,Autumn,temperature,9.0,September,-0.742039703551455,0.742039703551455,5,Negative,Strong,Top 10%
+Eastern Marsh Harrier,Autumn,temperature,11.0,November,-0.7659162655683316,0.7659162655683316,7,Negative,Strong,Top 10%
+European Starling,Autumn,temperature,10.0,October,0.8595375839725659,0.8595375839725659,7,Positive,Very Strong,Top 10%
+Medium Egret,Autumn,temperature,11.0,November,-0.839693461566104,0.839693461566104,6,Negative,Very Strong,Top 10%
+Rufous-bellied Woodpecker,Autumn,temperature,10.0,October,0.7776498102615672,0.7776498102615672,5,Positive,Strong,Top 10%
+Spotted Redshank,Autumn,temperature,11.0,November,-0.7761572741300291,0.7761572741300291,7,Negative,Strong,Top 10%
+Yellow-browed Bunting,Autumn,temperature,11.0,November,-0.8484280486735988,0.8484280486735988,7,Negative,Very Strong,Top 10%
+Black-throated x Red-throated Thrush (hybrid),Winter,temperature,12.0,December,-0.9177691528411182,0.9177691528411182,5,Negative,Very Strong,Top 10%
+Chukar,Winter,temperature,2.0,February,0.7557739928958602,0.7557739928958602,6,Positive,Strong,Top 10%
+Dusky/Naumann's Thrush,Winter,temperature,2.0,February,0.7947863719647307,0.7947863719647307,8,Positive,Strong,Top 10%
+Eurasian Eagle-Owl,Winter,temperature,2.0,February,0.9009999283509966,0.9009999283509966,5,Positive,Very Strong,Top 10%
+Eurasian Siskin,Winter,temperature,2.0,February,0.8153598542417038,0.8153598542417038,7,Positive,Very Strong,Top 10%
+Hooded Crane,Winter,temperature,12.0,December,0.7430950419114897,0.7430950419114897,5,Positive,Strong,Top 10%
+White-tailed Eagle,Winter,temperature,12.0,December,0.7683821935847731,0.7683821935847731,8,Positive,Strong,Top 10%
+Whooper Swan,Winter,temperature,12.0,December,0.7753299014469054,0.7753299014469054,9,Positive,Strong,Top 10%
+Booted Eagle,Spring,humidity,5.0,May,-0.7915272427190299,0.7915272427190299,7,Negative,Strong,Top 10%
+Chestnut-eared Bunting,Spring,humidity,5.0,May,-0.8460424574608622,0.8460424574608622,9,Negative,Very Strong,Top 10%
+Common Greenshank,Spring,humidity,5.0,May,-0.840792269063741,0.840792269063741,9,Negative,Very Strong,Top 10%
+Common Sandpiper,Spring,humidity,5.0,May,-0.8536041586525996,0.8536041586525996,9,Negative,Very Strong,Top 10%
+Eastern Yellow Wagtail,Spring,humidity,5.0,May,-0.775697101322139,0.775697101322139,9,Negative,Strong,Top 10%
+Eurasian Spoonbill,Spring,humidity,5.0,May,-0.9137723036053734,0.9137723036053734,9,Negative,Very Strong,Top 10%
+Eurasian Wryneck,Spring,humidity,4.0,April,0.8576321365036983,0.8576321365036983,6,Positive,Very Strong,Top 10%
+Gray-headed Lapwing,Spring,humidity,5.0,May,-0.8204745416434758,0.8204745416434758,9,Negative,Very Strong,Top 10%
+Green-backed Flycatcher,Spring,humidity,4.0,April,-0.778795399342604,0.778795399342604,5,Negative,Strong,Top 10%
+Japanese Quail,Spring,humidity,5.0,May,-0.8042372960305049,0.8042372960305049,9,Negative,Very Strong,Top 10%
+Marsh Sandpiper,Spring,humidity,5.0,May,-0.845117857900736,0.845117857900736,9,Negative,Very Strong,Top 10%
+Ochre-rumped Bunting,Spring,humidity,5.0,May,-0.7991394887611849,0.7991394887611849,6,Negative,Strong,Top 10%
+Red-throated Pipit,Spring,humidity,5.0,May,-0.9619477977096774,0.9619477977096774,9,Negative,Very Strong,Top 10%
+Reed Bunting,Spring,humidity,5.0,May,-0.9048876437101803,0.9048876437101803,5,Negative,Very Strong,Top 10%
+Richard's Pipit,Spring,humidity,5.0,May,-0.9563609347912052,0.9563609347912052,9,Negative,Very Strong,Top 10%
+Rosy Pipit,Spring,humidity,5.0,May,-0.8058725664599605,0.8058725664599605,7,Negative,Very Strong,Top 10%
+Tundra/Whooper Swan,Spring,humidity,3.0,March,-0.7950533165631263,0.7950533165631263,5,Negative,Strong,Top 10%
+Vega/Mongolian Gull,Spring,humidity,5.0,May,-0.8063173488847796,0.8063173488847796,6,Negative,Very Strong,Top 10%
+Wood Sandpiper,Spring,humidity,5.0,May,-0.8635576029678252,0.8635576029678252,9,Negative,Very Strong,Top 10%
+crow sp.,Spring,humidity,4.0,April,0.8355265050257268,0.8355265050257268,5,Positive,Very Strong,Top 10%
+Cinnamon Bittern,Summer,humidity,7.0,July,0.7799024595720719,0.7799024595720719,5,Positive,Strong,Top 10%
+Cuculus sp.,Summer,humidity,8.0,August,-0.8132369969503076,0.8132369969503076,7,Negative,Very Strong,Top 10%
+Green-backed Flycatcher,Summer,humidity,8.0,August,-0.794140940284446,0.794140940284446,8,Negative,Strong,Top 10%
+Himalayan Owl,Summer,humidity,8.0,August,-0.8785654645985179,0.8785654645985179,6,Negative,Very Strong,Top 10%
+Russet Sparrow,Summer,humidity,8.0,August,-0.9010672845186102,0.9010672845186102,5,Negative,Very Strong,Top 10%
+White-breasted Waterhen,Summer,humidity,7.0,July,0.8509699510188117,0.8509699510188117,6,Positive,Very Strong,Top 10%
+Amur Stonechat,Autumn,humidity,10.0,October,0.8045360459770856,0.8045360459770856,9,Positive,Very Strong,Top 10%
+Ashy Minivet,Autumn,humidity,10.0,October,0.958252194723277,0.958252194723277,5,Positive,Very Strong,Top 10%
+Black Kite,Autumn,humidity,9.0,September,-0.7799271895106581,0.7799271895106581,9,Negative,Strong,Top 10%
+Black-browed Reed Warbler,Autumn,humidity,9.0,September,0.8440674135031196,0.8440674135031196,9,Positive,Very Strong,Top 10%
+Black-tailed Godwit,Autumn,humidity,9.0,September,-0.7816744234724335,0.7816744234724335,8,Negative,Strong,Top 10%
+Blyth's Pipit,Autumn,humidity,9.0,September,-0.8210179295562531,0.8210179295562531,8,Negative,Very Strong,Top 10%
+Eastern Marsh Harrier,Autumn,humidity,11.0,November,-0.8162632808530327,0.8162632808530327,7,Negative,Very Strong,Top 10%
+Eurasian Skylark,Autumn,humidity,9.0,September,-0.7930499715740166,0.7930499715740166,9,Negative,Strong,Top 10%
+Long-eared Owl,Autumn,humidity,10.0,October,0.8133813346687762,0.8133813346687762,5,Positive,Very Strong,Top 10%
+Phylloscopus sp.,Autumn,humidity,9.0,September,-0.7797404212420563,0.7797404212420563,7,Negative,Strong,Top 10%
+Taiga Flycatcher,Autumn,humidity,9.0,September,0.8845481317598756,0.8845481317598756,9,Positive,Very Strong,Top 10%
+Dusky/Naumann's Thrush,Winter,humidity,2.0,February,0.8468951767343669,0.8468951767343669,8,Positive,Very Strong,Top 10%
+Eurasian Bittern,Winter,humidity,12.0,December,-0.8648039310056381,0.8648039310056381,9,Negative,Very Strong,Top 10%
+Red-flanked Bluetail,Winter,humidity,2.0,February,-0.7929724507591862,0.7929724507591862,5,Negative,Strong,Top 10%
+Redpoll,Winter,humidity,12.0,December,0.8625467195183866,0.8625467195183866,5,Positive,Very Strong,Top 10%
+Baer's Pochard,Spring,prcp,4.0,April,-0.9356068191139967,0.9356068191139967,8,Negative,Very Strong,Top 10%
+Bar-headed Goose,Spring,prcp,4.0,April,0.8463626264767375,0.8463626264767375,6,Positive,Very Strong,Top 10%
+Black Swan,Spring,prcp,5.0,May,0.8236558150712536,0.8236558150712536,6,Positive,Very Strong,Top 10%
+Chinese Sparrowhawk,Spring,prcp,5.0,May,0.8280193276563854,0.8280193276563854,9,Positive,Very Strong,Top 10%
+Coal Tit,Spring,prcp,5.0,May,0.8087006629949186,0.8087006629949186,9,Positive,Very Strong,Top 10%
+Common Sandpiper,Spring,prcp,3.0,March,0.9457258347443738,0.9457258347443738,7,Positive,Very Strong,Top 10%
+Koklass Pheasant,Spring,prcp,5.0,May,-0.8659416015139663,0.8659416015139663,5,Negative,Very Strong,Top 10%
+Little Ringed Plover,Spring,prcp,5.0,May,-0.8113308203878881,0.8113308203878881,9,Negative,Very Strong,Top 10%
+Ochre-rumped Bunting,Spring,prcp,4.0,April,0.9360612175727184,0.9360612175727184,7,Positive,Very Strong,Top 10%
+Oriental Plover,Spring,prcp,4.0,April,0.8075002376807444,0.8075002376807444,7,Positive,Very Strong,Top 10%
+Pale-legged Leaf Warbler,Spring,prcp,5.0,May,-0.8488172116977702,0.8488172116977702,8,Negative,Very Strong,Top 10%
+Relict Gull,Spring,prcp,3.0,March,0.8183754662254019,0.8183754662254019,5,Positive,Very Strong,Top 10%
+Tundra/Whooper Swan,Spring,prcp,3.0,March,-0.7823224278521942,0.7823224278521942,5,Negative,Strong,Top 10%
+White-throated Needletail,Spring,prcp,5.0,May,0.7896329779038628,0.7896329779038628,8,Positive,Strong,Top 10%
+Whooper Swan,Spring,prcp,4.0,April,0.9084112424353046,0.9084112424353046,8,Positive,Very Strong,Top 10%
+crow sp.,Spring,prcp,4.0,April,0.9439831202450979,0.9439831202450979,5,Positive,Very Strong,Top 10%
+Asian House-Martin,Summer,prcp,8.0,August,-0.822831891791301,0.822831891791301,6,Negative,Very Strong,Top 10%
+Himalayan Owl,Summer,prcp,8.0,August,-0.8496836332926843,0.8496836332926843,6,Negative,Very Strong,Top 10%
+Rosy Pipit,Summer,prcp,7.0,July,-0.7984721132465329,0.7984721132465329,5,Negative,Strong,Top 10%
+Southern Nutcracker,Summer,prcp,7.0,July,-0.8032877955742921,0.8032877955742921,5,Negative,Very Strong,Top 10%
+Accipitrine hawk sp. (former Accipiter sp.),Autumn,prcp,9.0,September,-0.8121657673221336,0.8121657673221336,5,Negative,Very Strong,Top 10%
+Amur Falcon,Autumn,prcp,10.0,October,0.7935137336771851,0.7935137336771851,9,Positive,Strong,Top 10%
+Amur Stonechat,Autumn,prcp,9.0,September,0.8647295281502365,0.8647295281502365,9,Positive,Very Strong,Top 10%
+Ashy Minivet,Autumn,prcp,10.0,October,0.8444616687622788,0.8444616687622788,5,Positive,Very Strong,Top 10%
+Baillon's Crake,Autumn,prcp,9.0,September,0.8827087413173205,0.8827087413173205,6,Positive,Very Strong,Top 10%
+Black-browed Reed Warbler,Autumn,prcp,9.0,September,0.9379813077900742,0.9379813077900742,9,Positive,Very Strong,Top 10%
+Manchurian Reed Warbler,Autumn,prcp,9.0,September,0.8845261610523443,0.8845261610523443,6,Positive,Very Strong,Top 10%
+Radde's Warbler,Autumn,prcp,10.0,October,0.8211115650565181,0.8211115650565181,9,Positive,Very Strong,Top 10%
+Taiga Flycatcher,Autumn,prcp,9.0,September,0.8237489946028265,0.8237489946028265,9,Positive,Very Strong,Top 10%
+Yellow-browed Warbler,Autumn,prcp,10.0,October,0.9618904467869134,0.9618904467869134,9,Positive,Very Strong,Top 10%
+harrier sp.,Autumn,prcp,9.0,September,-0.9003823842768593,0.9003823842768593,5,Negative,Very Strong,Top 10%
+Brambling,Winter,prcp,12.0,December,0.7875611010639731,0.7875611010639731,9,Positive,Strong,Top 10%
+Coal Tit,Winter,prcp,12.0,December,0.8197208454584461,0.8197208454584461,6,Positive,Very Strong,Top 10%
+Collared Finchbill,Winter,prcp,12.0,December,-0.783673568924361,0.783673568924361,5,Negative,Strong,Top 10%
+Dusky/Naumann's Thrush,Winter,prcp,2.0,February,0.8998388678038342,0.8998388678038342,8,Positive,Very Strong,Top 10%
+Eurasian Eagle-Owl,Winter,prcp,2.0,February,0.9285433145047594,0.9285433145047594,5,Positive,Very Strong,Top 10%
+Eurasian Siskin,Winter,prcp,2.0,February,0.8301104018457364,0.8301104018457364,7,Positive,Very Strong,Top 10%
+Lapland Longspur,Winter,prcp,2.0,February,0.8304924183622309,0.8304924183622309,6,Positive,Very Strong,Top 10%
+Mute Swan,Winter,prcp,2.0,February,0.7903540387627396,0.7903540387627396,5,Positive,Strong,Top 10%
+Water Rail,Winter,prcp,1.0,January,0.7884182230407122,0.7884182230407122,6,Positive,Strong,Top 10%
+White-capped Redstart,Winter,prcp,1.0,January,0.8720763392675548,0.8720763392675548,7,Positive,Very Strong,Top 10%
