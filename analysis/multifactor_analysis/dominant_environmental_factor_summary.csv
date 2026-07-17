@@ -1,0 +1,13 @@
+﻿season,dominant_environment_factor,number_of_species,percentage
+Autumn,Humidity,35,51.470588235294116
+Autumn,Precipitation,26,38.23529411764706
+Autumn,Temperature,7,10.294117647058822
+Spring,Humidity,59,40.41095890410959
+Spring,Precipitation,51,34.93150684931507
+Spring,Temperature,36,24.65753424657534
+Summer,Humidity,38,64.40677966101694
+Summer,Precipitation,13,22.033898305084744
+Summer,Temperature,8,13.559322033898304
+Winter,Humidity,15,33.33333333333333
+Winter,Precipitation,19,42.22222222222222
+Winter,Temperature,11,24.444444444444443
