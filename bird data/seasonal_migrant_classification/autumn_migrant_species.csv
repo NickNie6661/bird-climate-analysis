@@ -1,0 +1,128 @@
+﻿common_name,dominant_season_days,dominant_season_years,dominant_season_records,total_observed_days,total_records,dominance_ratio,classification_confidence,primary_season,secondary_season,primary_season_days,secondary_season_days,secondary_to_primary_ratio,is_multi_season,dominant_season,seasonal_category
+Scolopacidae sp.,5,3,7,9,11,0.5555555555555556,Medium,Spring,Autumn,5,4,0.8,True,Spring + Autumn,春候鸟 + 秋候鸟
+Ashy Minivet,52,10,78,95,137,0.5473684210526316,Medium,Spring,Autumn,52,42,0.8076923076923077,True,Spring + Autumn,春候鸟 + 秋候鸟
+European Starling,93,12,197,173,331,0.5375722543352601,Medium,Spring,Autumn,93,76,0.8172043010752689,True,Spring + Autumn,春候鸟 + 秋候鸟
+Black Kite,304,12,925,583,1809,0.5214408233276158,Medium,Spring,Autumn,304,244,0.8026315789473685,True,Spring + Autumn,春候鸟 + 秋候鸟
+Radde's Warbler,220,12,914,424,1460,0.5188679245283019,Medium,Spring,Autumn,220,182,0.8272727272727273,True,Spring + Autumn,春候鸟 + 秋候鸟
+Eyebrowed Thrush,86,11,197,166,341,0.5180722891566265,Medium,Spring,Autumn,86,78,0.9069767441860465,True,Spring + Autumn,春候鸟 + 秋候鸟
+Black-bellied Plover,11,5,20,23,44,0.4782608695652174,Low,Spring,Autumn,11,9,0.8181818181818182,True,Spring + Autumn,春候鸟 + 秋候鸟
+Eastern Marsh Harrier,330,12,1085,692,2157,0.476878612716763,Low,Spring,Autumn,330,267,0.8090909090909091,True,Spring + Autumn,春候鸟 + 秋候鸟
+Dendrocopos sp.,8,3,9,17,20,0.47058823529411764,Low,Spring,Autumn,8,6,0.75,True,Spring + Autumn,春候鸟 + 秋候鸟
+Asian Short-toed Lark,89,12,150,190,323,0.46842105263157896,Low,Spring,Autumn,89,68,0.7640449438202247,True,Spring + Autumn,春候鸟 + 秋候鸟
+Pied Harrier,168,12,376,361,870,0.46537396121883656,Low,Spring,Autumn,168,158,0.9404761904761905,True,Spring + Autumn,春候鸟 + 秋候鸟
+Rook,206,12,535,444,1061,0.46396396396396394,Low,Spring,Autumn,206,163,0.7912621359223301,True,Spring + Autumn,春候鸟 + 秋候鸟
+Baillon's Crake,49,12,80,106,240,0.46226415094339623,Low,Spring,Autumn,49,49,1.0,True,Spring + Autumn,春候鸟 + 秋候鸟
+Common Pochard x Ferruginous Duck (hybrid),5,1,8,11,14,0.45454545454545453,Low,Spring,Autumn,5,4,0.8,True,Spring + Autumn,春候鸟 + 秋候鸟
+Chestnut-eared Bunting,98,12,199,216,428,0.4537037037037037,Low,Spring,Autumn,98,95,0.9693877551020408,True,Spring + Autumn,春候鸟 + 秋候鸟
+goose sp.,9,3,13,20,24,0.45,Low,Spring,Autumn,9,7,0.7777777777777778,True,Spring + Autumn,春候鸟 + 秋候鸟
+white egret sp.,4,3,4,9,12,0.4444444444444444,Low,Spring,Autumn,4,3,0.75,True,Spring + Autumn,春候鸟 + 秋候鸟
+Black-tailed Godwit,68,11,137,154,353,0.44155844155844154,Low,Spring,Autumn,68,57,0.8382352941176471,True,Spring + Autumn,春候鸟 + 秋候鸟
+Blyth's Pipit,56,9,88,127,242,0.4409448818897638,Low,Spring,Autumn,56,52,0.9285714285714286,True,Spring + Autumn,春候鸟 + 秋候鸟
+Pallas's Leaf Warbler,659,12,3833,1501,6899,0.4390406395736176,Low,Spring,Autumn,659,585,0.8877086494688923,True,Spring + Autumn,春候鸟 + 秋候鸟
+Greater Scaup,47,7,117,108,238,0.4351851851851852,Low,Spring,Autumn,47,47,1.0,True,Spring + Autumn,春候鸟 + 秋候鸟
+Bar-headed Goose,138,10,221,334,534,0.41317365269461076,Low,Spring,Autumn,138,110,0.7971014492753623,True,Spring + Autumn,春候鸟 + 秋候鸟
+duck sp.,16,5,26,39,55,0.41025641025641024,Low,Spring,Autumn,16,12,0.75,True,Spring + Autumn,春候鸟 + 秋候鸟
+Black-faced Bunting,409,12,1240,997,2624,0.4102306920762287,Low,Spring,Autumn,409,348,0.8508557457212714,True,Spring + Autumn,春候鸟 + 秋候鸟
+Two-barred Warbler,178,12,761,438,1419,0.4063926940639269,Low,Spring,Autumn,178,157,0.8820224719101124,True,Spring + Autumn,春候鸟 + 秋候鸟
+snipe sp.,51,11,76,126,193,0.40476190476190477,Low,Spring,Autumn,51,48,0.9411764705882353,True,Spring + Autumn,春候鸟 + 秋候鸟
+Japanese Quail,186,12,327,461,791,0.403470715835141,Low,Spring,Autumn,186,164,0.8817204301075269,True,Spring + Autumn,春候鸟 + 秋候鸟
+Daurian Jackdaw,356,12,1099,883,2613,0.4031710079275198,Low,Spring,Autumn,356,320,0.898876404494382,True,Spring + Autumn,春候鸟 + 秋候鸟
+Common Greenshank,121,12,280,301,696,0.4019933554817276,Low,Spring,Autumn,121,114,0.9421487603305785,True,Spring + Autumn,春候鸟 + 秋候鸟
+crow/raven sp.,16,4,21,40,53,0.4,Low,Spring,Autumn,16,14,0.875,True,Spring + Autumn,春候鸟 + 秋候鸟
+Thick-billed Warbler,130,11,431,326,806,0.3987730061349693,Low,Spring,Autumn,130,114,0.8769230769230769,True,Spring + Autumn,春候鸟 + 秋候鸟
+Eastern Buzzard,474,12,2074,1226,4517,0.3866231647634584,Low,Spring,Autumn,474,377,0.7953586497890295,True,Spring + Autumn,春候鸟 + 秋候鸟
+Red-flanked/Qilian Bluetail,287,12,823,743,1717,0.38627187079407804,Low,Spring,Autumn,287,238,0.8292682926829268,True,Spring + Autumn,春候鸟 + 秋候鸟
+Little Bunting,642,12,3133,1733,7249,0.3704558568955568,Low,Spring,Autumn,642,620,0.9657320872274143,True,Spring + Autumn,春候鸟 + 秋候鸟
+Graylag x Swan Goose (hybrid),49,8,78,134,216,0.3656716417910448,Low,Spring,Autumn,49,49,1.0,True,Spring + Autumn,春候鸟 + 秋候鸟
+myna/starling sp.,4,3,7,11,18,0.36363636363636365,Low,Spring,Autumn,4,4,1.0,True,Spring + Autumn,春候鸟 + 秋候鸟
+Crested Lark,39,9,84,113,208,0.34513274336283184,Low,Spring,Autumn,39,35,0.8974358974358975,True,Spring + Autumn,春候鸟 + 秋候鸟
+passerine sp.,37,9,50,110,147,0.33636363636363636,Low,Spring,Autumn,37,35,0.9459459459459459,True,Spring + Autumn,春候鸟 + 秋候鸟
+Chinese Thrush,96,12,199,293,551,0.32764505119453924,Low,Spring,Autumn,96,89,0.9270833333333334,True,Spring + Autumn,春候鸟 + 秋候鸟
+Sanderling,10,2,23,20,38,0.5,Medium,Summer,Autumn,10,8,0.8,True,Summer + Autumn,夏候鸟 + 秋候鸟
+Great/Medium Egret,2,2,2,4,4,0.5,Medium,Summer,Autumn,2,2,1.0,True,Summer + Autumn,夏候鸟 + 秋候鸟
+Bull-headed Shrike,62,7,106,142,248,0.43661971830985913,Low,Summer,Autumn,62,51,0.8225806451612904,True,Summer + Autumn,夏候鸟 + 秋候鸟
+Red-necked Stint,58,8,137,136,302,0.4264705882352941,Low,Summer,Autumn,58,49,0.8448275862068966,True,Summer + Autumn,夏候鸟 + 秋候鸟
+Ruddy Turnstone,11,3,31,26,80,0.4230769230769231,Low,Summer,Autumn,11,9,0.8181818181818182,True,Summer + Autumn,夏候鸟 + 秋候鸟
+Eurasian Hobby,319,11,740,837,2457,0.3811230585424134,Low,Summer,Autumn,319,295,0.9247648902821317,True,Summer + Autumn,夏候鸟 + 秋候鸟
+Swinhoe's White-eye,232,10,493,646,1940,0.3591331269349845,Low,Summer,Autumn,232,210,0.9051724137931034,True,Summer + Autumn,夏候鸟 + 秋候鸟
+Amur Falcon,314,11,764,896,2997,0.35044642857142855,Low,Summer,Autumn,314,300,0.9554140127388535,True,Summer + Autumn,夏候鸟 + 秋候鸟
+Arctic Loon,22,4,72,23,73,0.9565217391304348,High,Autumn,Spring,22,1,0.045454545454545456,False,Autumn,秋候鸟
+Steppe Eagle,27,8,85,32,92,0.84375,High,Autumn,Spring,27,3,0.1111111111111111,False,Autumn,秋候鸟
+Dunlin,56,9,151,68,169,0.8235294117647058,High,Autumn,Spring,56,7,0.125,False,Autumn,秋候鸟
+Northern Hawk-Cuckoo,20,4,57,25,65,0.8,High,Autumn,Spring,20,3,0.15,False,Autumn,秋候鸟
+Pallas's Sandgrouse,23,6,97,30,104,0.7666666666666667,High,Autumn,Winter,23,7,0.30434782608695654,False,Autumn,秋候鸟
+Gray-headed Canary-Flycatcher,9,1,24,12,27,0.75,High,Autumn,Spring,9,3,0.3333333333333333,False,Autumn,秋候鸟
+Japanese Leaf/Arctic/Kamchatka Leaf Warbler,6,3,6,8,8,0.75,High,Autumn,Spring,6,2,0.3333333333333333,False,Autumn,秋候鸟
+Stejneger's Scoter,11,6,30,16,36,0.6875,Medium,Autumn,Winter,11,4,0.36363636363636365,False,Autumn,秋候鸟
+Lesser Whitethroat,23,4,67,34,88,0.6764705882352942,Medium,Autumn,Spring,23,6,0.2608695652173913,False,Autumn,秋候鸟
+Imperial Eagle,2,2,3,3,6,0.6666666666666666,Medium,Autumn,Spring,2,1,0.5,False,Autumn,秋候鸟
+White's Thrush,132,11,239,200,347,0.66,Medium,Autumn,Spring,132,64,0.48484848484848486,False,Autumn,秋候鸟
+Lanceolated Warbler,137,11,269,209,410,0.6555023923444976,Medium,Autumn,Spring,137,43,0.31386861313868614,False,Autumn,秋候鸟
+Rufous-bellied Woodpecker,140,11,335,214,466,0.6542056074766355,Medium,Autumn,Spring,140,59,0.42142857142857143,False,Autumn,秋候鸟
+Rufous-faced Warbler,17,1,41,26,65,0.6538461538461539,Medium,Autumn,Spring,17,9,0.5294117647058824,False,Autumn,秋候鸟
+Zosterops sp.,79,6,152,124,235,0.6370967741935484,Medium,Autumn,Spring,79,38,0.4810126582278481,False,Autumn,秋候鸟
+small falcon sp.,7,4,8,11,14,0.6363636363636364,Medium,Autumn,Spring,7,3,0.42857142857142855,False,Autumn,秋候鸟
+Manchurian Reed Warbler,25,6,63,40,114,0.625,Medium,Autumn,Spring,25,8,0.32,False,Autumn,秋候鸟
+Mugimaki Flycatcher,16,3,49,26,71,0.6153846153846154,Medium,Autumn,Spring,16,10,0.625,False,Autumn,秋候鸟
+harrier sp.,31,8,42,51,72,0.6078431372549019,Medium,Autumn,Spring,31,16,0.5161290322580645,False,Autumn,秋候鸟
+Siberian Rubythroat,224,11,651,372,1026,0.6021505376344086,Medium,Autumn,Spring,224,140,0.625,False,Autumn,秋候鸟
+Chestnut-flanked White-eye,142,10,483,240,674,0.5916666666666667,Medium,Autumn,Spring,142,77,0.5422535211267606,False,Autumn,秋候鸟
+Spotted Redshank,140,11,348,238,558,0.5882352941176471,Medium,Autumn,Spring,140,78,0.5571428571428572,False,Autumn,秋候鸟
+Horned Grebe,45,8,99,78,193,0.5769230769230769,Medium,Autumn,Spring,45,32,0.7111111111111111,False,Autumn,秋候鸟
+Red-breasted Merganser,55,11,166,96,251,0.5729166666666666,Medium,Autumn,Spring,55,22,0.4,False,Autumn,秋候鸟
+Aythya sp.,4,2,4,7,7,0.5714285714285714,Medium,Autumn,Spring,4,2,0.5,False,Autumn,秋候鸟
+Accipitrine hawk sp. (former Accipiter sp.),33,9,61,58,101,0.5689655172413793,Medium,Autumn,Spring,33,20,0.6060606060606061,False,Autumn,秋候鸟
+Northern Shrike,38,8,97,68,159,0.5588235294117647,Medium,Autumn,Winter,38,22,0.5789473684210527,False,Autumn,秋候鸟
+Emberiza sp.,104,9,185,189,311,0.5502645502645502,Medium,Autumn,Spring,104,43,0.41346153846153844,False,Autumn,秋候鸟
+wagtail sp.,11,2,15,20,29,0.55,Medium,Autumn,Spring,11,5,0.45454545454545453,False,Autumn,秋候鸟
+Rufous-tailed Robin,34,8,68,63,123,0.5396825396825397,Medium,Autumn,Spring,34,28,0.8235294117647058,True,Autumn + Spring,秋候鸟 + 春候鸟
+Indian Peafowl,16,4,25,30,43,0.5333333333333333,Medium,Autumn,Winter,16,7,0.4375,False,Autumn,秋候鸟
+Japanese Sparrowhawk,214,11,661,405,1115,0.528395061728395,Medium,Autumn,Spring,214,160,0.7476635514018691,False,Autumn,秋候鸟
+Common Rosefinch,258,11,591,502,1087,0.5139442231075697,Medium,Autumn,Spring,258,158,0.6124031007751938,False,Autumn,秋候鸟
+Black-browed Reed Warbler,383,11,1241,746,2598,0.5134048257372654,Medium,Autumn,Spring,383,207,0.5404699738903395,False,Autumn,秋候鸟
+Oriental Honey-buzzard,216,11,733,427,1411,0.5058548009367682,Medium,Autumn,Spring,216,183,0.8472222222222222,True,Autumn + Spring,秋候鸟 + 春候鸟
+Black-legged Kittiwake,16,5,47,32,98,0.5,Medium,Autumn,Spring,16,16,1.0,True,Autumn + Spring,秋候鸟 + 春候鸟
+Pechora Pipit,8,4,10,16,25,0.5,Medium,Autumn,Spring,8,7,0.875,True,Autumn + Spring,秋候鸟 + 春候鸟
+Water/Siberian/American Pipit,4,3,7,8,14,0.5,Medium,Autumn,Spring,4,2,0.5,False,Autumn,秋候鸟
+Yellow-browed Warbler,527,11,3159,1058,6232,0.498109640831758,Low,Autumn,Spring,527,428,0.8121442125237192,True,Autumn + Spring,秋候鸟 + 春候鸟
+Red-throated Pipit,167,11,354,339,725,0.49262536873156343,Low,Autumn,Spring,167,161,0.9640718562874252,True,Autumn + Spring,秋候鸟 + 春候鸟
+Amur Stonechat,318,11,1314,653,2806,0.4869831546707504,Low,Autumn,Spring,318,253,0.7955974842767296,True,Autumn + Spring,秋候鸟 + 春候鸟
+Medium Egret,199,9,582,410,1013,0.4853658536585366,Low,Autumn,Summer,199,145,0.7286432160804021,False,Autumn,秋候鸟
+Dusky Warbler,419,11,1783,866,4029,0.4838337182448037,Low,Autumn,Spring,419,363,0.8663484486873508,True,Autumn + Spring,秋候鸟 + 春候鸟
+Caspian Tern,68,9,138,141,283,0.48226950354609927,Low,Autumn,Spring,68,49,0.7205882352941176,False,Autumn,秋候鸟
+Lapland Longspur,105,10,206,218,411,0.481651376146789,Low,Autumn,Winter,105,103,0.9809523809523809,True,Autumn + Winter,秋候鸟 + 冬候鸟
+Yellow-browed Bunting,156,8,261,324,565,0.48148148148148145,Low,Autumn,Spring,156,117,0.75,True,Autumn + Spring,秋候鸟 + 春候鸟
+Red-necked Grebe,13,3,42,27,80,0.48148148148148145,Low,Autumn,Spring,13,12,0.9230769230769231,True,Autumn + Spring,秋候鸟 + 春候鸟
+Olive-backed Pipit,428,11,1706,890,3831,0.48089887640449436,Low,Autumn,Spring,428,374,0.8738317757009346,True,Autumn + Spring,秋候鸟 + 春候鸟
+Taiga Flycatcher,341,11,1801,735,4638,0.4639455782312925,Low,Autumn,Spring,341,307,0.9002932551319648,True,Autumn + Spring,秋候鸟 + 春候鸟
+Redpoll,50,7,108,109,217,0.45871559633027525,Low,Autumn,Winter,50,48,0.96,True,Autumn + Winter,秋候鸟 + 冬候鸟
+white-eye sp.,93,8,155,204,311,0.45588235294117646,Low,Autumn,Spring,93,61,0.6559139784946236,False,Autumn,秋候鸟
+Eurasian Skylark,362,11,1178,799,2262,0.4530663329161452,Low,Autumn,Spring,362,288,0.7955801104972375,True,Autumn + Spring,秋候鸟 + 春候鸟
+Cuculus sp.,17,6,24,38,58,0.4473684210526316,Low,Autumn,Summer,17,14,0.8235294117647058,True,Autumn + Summer,秋候鸟 + 夏候鸟
+thrush sp.,48,3,79,108,171,0.4444444444444444,Low,Autumn,Winter,48,31,0.6458333333333334,False,Autumn,秋候鸟
+finch sp.,4,2,6,9,13,0.4444444444444444,Low,Autumn,Spring,4,3,0.75,True,Autumn + Spring,秋候鸟 + 春候鸟
+Long-eared Owl,92,10,214,211,430,0.43601895734597157,Low,Autumn,Winter,92,62,0.6739130434782609,False,Autumn,秋候鸟
+Richard's Pipit,213,11,554,490,1237,0.4346938775510204,Low,Autumn,Spring,213,181,0.8497652582159625,True,Autumn + Spring,秋候鸟 + 春候鸟
+Phylloscopus sp.,79,10,99,182,230,0.4340659340659341,Low,Autumn,Spring,79,68,0.8607594936708861,True,Autumn + Spring,秋候鸟 + 春候鸟
+Eurasian Goshawk,265,11,773,616,1514,0.4301948051948052,Low,Autumn,Spring,265,219,0.8264150943396227,True,Autumn + Spring,秋候鸟 + 春候鸟
+dabbling duck sp.,3,2,3,7,11,0.42857142857142855,Low,Autumn,Spring,3,2,0.6666666666666666,False,Autumn,秋候鸟
+cuckoo sp. (Cuculidae sp.),17,6,19,40,51,0.425,Low,Autumn,Summer,17,14,0.8235294117647058,True,Autumn + Summer,秋候鸟 + 夏候鸟
+Merlin,62,11,116,149,270,0.4161073825503356,Low,Autumn,Spring,62,53,0.8548387096774194,True,Autumn + Spring,秋候鸟 + 春候鸟
+Dusky/Naumann's Thrush,157,11,298,386,633,0.4067357512953368,Low,Autumn,Winter,157,140,0.89171974522293,True,Autumn + Winter,秋候鸟 + 冬候鸟
+Hen Harrier,357,11,1060,886,2231,0.40293453724604966,Low,Autumn,Spring,357,279,0.7815126050420168,True,Autumn + Spring,秋候鸟 + 春候鸟
+rail/crake sp.,2,2,7,5,12,0.4,Low,Autumn,Spring,2,2,1.0,True,Autumn + Spring,秋候鸟 + 春候鸟
+Gray-backed Thrush,42,8,76,109,165,0.3853211009174312,Low,Autumn,Winter,42,39,0.9285714285714286,True,Autumn + Winter,秋候鸟 + 冬候鸟
+Southern Nutcracker,53,8,119,143,263,0.3706293706293706,Low,Autumn,Summer,53,40,0.7547169811320755,True,Autumn + Summer,秋候鸟 + 夏候鸟
+Black-winged Kite,203,9,471,554,1176,0.3664259927797834,Low,Autumn,Spring,203,152,0.7487684729064039,False,Autumn,秋候鸟
+Long-tailed Shrike,356,11,776,998,2018,0.35671342685370744,Low,Autumn,Winter,356,299,0.8398876404494382,True,Autumn + Winter,秋候鸟 + 冬候鸟
+Reed Bunting,90,11,151,253,375,0.3557312252964427,Low,Autumn,Spring,90,83,0.9222222222222223,True,Autumn + Spring,秋候鸟 + 春候鸟
+Eurasian Jay,82,11,145,231,414,0.354978354978355,Low,Autumn,Winter,82,56,0.6829268292682927,False,Autumn,秋候鸟
+falcon sp.,25,4,40,72,109,0.3472222222222222,Low,Autumn,Spring,25,21,0.84,True,Autumn + Spring,秋候鸟 + 春候鸟
+Red Crossbill,50,8,94,105,198,0.47619047619047616,Low,Winter,Autumn,50,39,0.78,True,Winter + Autumn,冬候鸟 + 秋候鸟
+Pine Bunting,194,12,362,416,825,0.46634615384615385,Low,Winter,Autumn,194,180,0.9278350515463918,True,Winter + Autumn,冬候鸟 + 秋候鸟
+rosefinch sp.,5,4,11,11,22,0.45454545454545453,Low,Winter,Autumn,5,4,0.8,True,Winter + Autumn,冬候鸟 + 秋候鸟
+Turdus sp.,36,5,55,80,128,0.45,Low,Winter,Autumn,36,28,0.7777777777777778,True,Winter + Autumn,冬候鸟 + 秋候鸟
+Eurasian Siskin,211,10,429,503,1019,0.4194831013916501,Low,Winter,Autumn,211,164,0.7772511848341233,True,Winter + Autumn,冬候鸟 + 秋候鸟
+Short-eared Owl,88,11,152,213,390,0.4131455399061033,Low,Winter,Autumn,88,68,0.7727272727272727,True,Winter + Autumn,冬候鸟 + 秋候鸟
+Common Crane,161,12,316,415,871,0.38795180722891565,Low,Winter,Autumn,161,147,0.9130434782608695,True,Winter + Autumn,冬候鸟 + 秋候鸟
+Baikal Teal,209,12,447,544,1251,0.38419117647058826,Low,Winter,Autumn,209,187,0.8947368421052632,True,Winter + Autumn,冬候鸟 + 秋候鸟
