@@ -1,0 +1,99 @@
+﻿common_name,dominant_season_days,dominant_season_years,dominant_season_records,total_observed_days,total_records,dominance_ratio,classification_confidence,primary_season,secondary_season,primary_season_days,secondary_season_days,secondary_to_primary_ratio,is_multi_season,dominant_season,seasonal_category
+Common Swift,559,12,3642,1000,5093,0.559,Medium,Spring,Summer,559,429,0.7674418604651163,True,Spring + Summer,春候鸟 + 夏候鸟
+Common Tern,324,12,1239,615,1904,0.526829268292683,Medium,Spring,Summer,324,260,0.8024691358024691,True,Spring + Summer,春候鸟 + 夏候鸟
+Whiskered Tern,146,11,352,293,610,0.49829351535836175,Low,Spring,Summer,146,132,0.9041095890410958,True,Spring + Summer,春候鸟 + 夏候鸟
+Eastern Crowned Warbler,163,12,432,333,840,0.4894894894894895,Low,Spring,Summer,163,151,0.9263803680981595,True,Spring + Summer,春候鸟 + 夏候鸟
+Terek Sandpiper,16,5,31,33,67,0.48484848484848486,Low,Spring,Summer,16,13,0.8125,True,Spring + Summer,春候鸟 + 夏候鸟
+Baikal Bush Warbler,65,11,147,140,292,0.4642857142857143,Low,Spring,Summer,65,53,0.8153846153846154,True,Spring + Summer,春候鸟 + 夏候鸟
+Red Collared-Dove,6,4,6,13,13,0.46153846153846156,Low,Spring,Summer,6,5,0.8333333333333334,True,Spring + Summer,春候鸟 + 夏候鸟
+Gray Nightjar,52,11,84,113,175,0.46017699115044247,Low,Spring,Summer,52,49,0.9423076923076923,True,Spring + Summer,春候鸟 + 夏候鸟
+Eurasian Crag-Martin,75,12,134,168,264,0.44642857142857145,Low,Spring,Summer,75,57,0.76,True,Spring + Summer,春候鸟 + 夏候鸟
+Long-tailed Minivet,115,11,238,266,517,0.4323308270676692,Low,Spring,Summer,115,94,0.8173913043478261,True,Spring + Summer,春候鸟 + 夏候鸟
+Siberian Blue Robin,153,11,663,361,1150,0.42382271468144045,Low,Spring,Summer,153,127,0.8300653594771242,True,Spring + Summer,春候鸟 + 夏候鸟
+Eastern Cattle-Egret,122,12,234,308,540,0.3961038961038961,Low,Spring,Summer,122,117,0.9590163934426229,True,Spring + Summer,春候鸟 + 夏候鸟
+Eurasian Wryneck,50,11,67,146,301,0.3424657534246575,Low,Spring,Summer,50,48,0.96,True,Spring + Summer,春候鸟 + 夏候鸟
+heron sp.,2,1,3,6,7,0.3333333333333333,Low,Spring,Summer,2,2,1.0,True,Spring + Summer,春候鸟 + 夏候鸟
+Calidris sp.,1,1,4,3,6,0.3333333333333333,Low,Spring,Summer,1,1,1.0,True,Spring + Summer,春候鸟 + 夏候鸟
+Blue-and-white Flycatcher,11,7,12,11,12,1.0,High,Summer,Spring,11,0,0.0,False,Summer,夏候鸟
+Greenish/Two-barred Warbler,7,5,13,7,13,1.0,High,Summer,Spring,7,0,0.0,False,Summer,夏候鸟
+White-bellied Redstart,63,11,107,66,117,0.9545454545454546,High,Summer,Spring,63,3,0.047619047619047616,False,Summer,夏候鸟
+Lesser Coucal,17,5,29,18,30,0.9444444444444444,High,Summer,Spring,17,1,0.058823529411764705,False,Summer,夏候鸟
+Qilian Bluetail,28,9,44,30,47,0.9333333333333333,High,Summer,Spring,28,2,0.07142857142857142,False,Summer,夏候鸟
+Lesser Cuckoo,48,8,80,54,96,0.8888888888888888,High,Summer,Spring,48,6,0.125,False,Summer,夏候鸟
+Blunt-winged Warbler,39,5,106,45,112,0.8666666666666667,High,Summer,Spring,39,4,0.10256410256410256,False,Summer,夏候鸟
+Chestnut-winged Cuckoo,18,6,35,21,42,0.8571428571428571,High,Summer,Spring,18,3,0.16666666666666666,False,Summer,夏候鸟
+Asian Dowitcher,8,4,16,10,23,0.8,High,Summer,Spring,8,2,0.25,False,Summer,夏候鸟
+Brown-rumped Minivet,8,5,19,10,25,0.8,High,Summer,Spring,8,2,0.25,False,Summer,夏候鸟
+Schrenck's Bittern,70,10,134,88,160,0.7954545454545454,High,Summer,Spring,70,16,0.22857142857142856,False,Summer,夏候鸟
+Cinnamon Bittern,46,10,68,58,85,0.7931034482758621,High,Summer,Spring,46,11,0.2391304347826087,False,Summer,夏候鸟
+Blue Whistling-Thrush,43,10,62,58,79,0.7413793103448276,High,Summer,Spring,43,13,0.3023255813953488,False,Summer,夏候鸟
+Blue Rock-Thrush,63,10,103,86,141,0.7325581395348837,High,Summer,Spring,63,22,0.3492063492063492,False,Summer,夏候鸟
+Amur Paradise-Flycatcher,24,10,55,34,82,0.7058823529411765,High,Summer,Spring,24,8,0.3333333333333333,False,Summer,夏候鸟
+Brownish-flanked Bush Warbler,12,6,20,17,25,0.7058823529411765,High,Summer,Spring,12,5,0.4166666666666667,False,Summer,夏候鸟
+Pheasant-tailed Jacana,14,4,37,20,49,0.7,High,Summer,Spring,14,6,0.42857142857142855,False,Summer,夏候鸟
+Cotton Pygmy-Goose,13,2,38,19,60,0.6842105263157895,Medium,Summer,Autumn,13,6,0.46153846153846156,False,Summer,夏候鸟
+Yellow Bittern,537,11,1604,790,2229,0.6797468354430379,Medium,Summer,Spring,537,127,0.23649906890130354,False,Summer,夏候鸟
+Marsh Grassbird,19,5,42,28,56,0.6785714285714286,Medium,Summer,Autumn,19,8,0.42105263157894735,False,Summer,夏候鸟
+Common Cuckoo,469,11,1656,696,2955,0.6738505747126436,Medium,Summer,Spring,469,188,0.40085287846481876,False,Summer,夏候鸟
+Black-capped Kingfisher,65,11,108,97,157,0.6701030927835051,Medium,Summer,Spring,65,21,0.3230769230769231,False,Summer,夏候鸟
+Ruddy-breasted Crake,35,10,57,54,82,0.6481481481481481,Medium,Summer,Spring,35,17,0.4857142857142857,False,Summer,夏候鸟
+Broad-billed Sandpiper,16,5,39,25,58,0.64,Medium,Summer,Autumn,16,7,0.4375,False,Summer,夏候鸟
+Slaty-backed Flycatcher,12,6,19,19,48,0.631578947368421,Medium,Summer,Spring,12,6,0.5,False,Summer,夏候鸟
+Gray-sided Thrush,53,10,74,84,134,0.6309523809523809,Medium,Summer,Spring,53,29,0.5471698113207547,False,Summer,夏候鸟
+Yellow-streaked Warbler,172,10,370,276,607,0.6231884057971014,Medium,Summer,Spring,172,78,0.45348837209302323,False,Summer,夏候鸟
+Zappey's Flycatcher,58,9,125,94,203,0.6170212765957447,Medium,Summer,Spring,58,36,0.6206896551724138,False,Summer,夏候鸟
+Greater Painted-Snipe,8,4,13,13,25,0.6153846153846154,Medium,Summer,Spring,8,4,0.5,False,Summer,夏候鸟
+Indian Cuckoo,441,11,1656,718,3535,0.6142061281337048,Medium,Summer,Spring,441,224,0.5079365079365079,False,Summer,夏候鸟
+Alstr√∂m's Warbler,60,8,133,98,233,0.6122448979591837,Medium,Summer,Spring,60,36,0.6,False,Summer,夏候鸟
+Black Drongo,509,11,1664,841,3160,0.6052318668252081,Medium,Summer,Spring,509,203,0.3988212180746562,False,Summer,夏候鸟
+Yellow-legged Buttonquail,15,9,26,25,42,0.6,Medium,Summer,Autumn,15,7,0.4666666666666667,False,Summer,夏候鸟
+Japanese Scops-Owl,12,4,24,20,40,0.6,Medium,Summer,Spring,12,5,0.4166666666666667,False,Summer,夏候鸟
+Himalayan Cuckoo,93,10,219,157,384,0.5923566878980892,Medium,Summer,Spring,93,64,0.6881720430107527,False,Summer,夏候鸟
+Little Heron,137,11,277,234,427,0.5854700854700855,Medium,Summer,Spring,137,71,0.5182481751824818,False,Summer,夏候鸟
+Asian Koel,197,10,434,338,779,0.5828402366863905,Medium,Summer,Spring,197,138,0.700507614213198,False,Summer,夏候鸟
+Large Hawk-Cuckoo,193,11,427,332,769,0.5813253012048193,Medium,Summer,Spring,193,124,0.6424870466321243,False,Summer,夏候鸟
+Oriental Reed Warbler,560,11,1984,995,3961,0.5628140703517588,Medium,Summer,Spring,560,276,0.4928571428571429,False,Summer,夏候鸟
+Black-naped Oriole,270,11,718,480,1360,0.5625,Medium,Summer,Spring,270,158,0.5851851851851851,False,Summer,夏候鸟
+Dollarbird,86,10,137,156,266,0.5512820512820513,Medium,Summer,Spring,86,53,0.6162790697674418,False,Summer,夏候鸟
+Manchurian Bush Warbler,151,10,319,274,556,0.551094890510949,Medium,Summer,Spring,151,93,0.6158940397350994,False,Summer,夏候鸟
+Yellow-rumped Flycatcher,224,11,616,415,1350,0.5397590361445783,Medium,Summer,Spring,224,174,0.7767857142857143,True,Summer + Spring,夏候鸟 + 春候鸟
+Sharp-tailed Sandpiper,15,6,33,28,54,0.5357142857142857,Medium,Summer,Spring,15,11,0.7333333333333333,False,Summer,夏候鸟
+Asian Stubtail,120,9,279,228,546,0.5263157894736842,Medium,Summer,Spring,120,96,0.8,True,Summer + Spring,夏候鸟 + 春候鸟
+Asian House-Martin,42,10,68,81,123,0.5185185185185185,Medium,Summer,Spring,42,30,0.7142857142857143,False,Summer,夏候鸟
+White-breasted Waterhen,73,8,113,141,206,0.5177304964539007,Medium,Summer,Spring,73,49,0.6712328767123288,False,Summer,夏候鸟
+Chinese Leaf Warbler,179,11,400,347,753,0.515850144092219,Medium,Summer,Spring,179,130,0.7262569832402235,False,Summer,夏候鸟
+Sanderling,10,2,23,20,38,0.5,Medium,Summer,Autumn,10,8,0.8,True,Summer + Autumn,夏候鸟 + 秋候鸟
+Acrocephalus sp.,5,3,5,10,12,0.5,Medium,Summer,Autumn,5,3,0.6,False,Summer,夏候鸟
+Great/Medium Egret,2,2,2,4,4,0.5,Medium,Summer,Autumn,2,2,1.0,True,Summer + Autumn,夏候鸟 + 秋候鸟
+Brown Shrike,374,11,1021,755,2662,0.495364238410596,Low,Summer,Spring,374,227,0.606951871657754,False,Summer,夏候鸟
+White-backed Woodpecker,29,7,48,59,98,0.4915254237288136,Low,Summer,Spring,29,17,0.5862068965517241,False,Summer,夏候鸟
+Pacific Swift,107,11,202,219,393,0.4885844748858447,Low,Summer,Spring,107,102,0.9532710280373832,True,Summer + Spring,夏候鸟 + 春候鸟
+Rosy Pipit,43,9,75,89,147,0.48314606741573035,Low,Summer,Spring,43,38,0.8837209302325582,True,Summer + Spring,夏候鸟 + 春候鸟
+Pallas's Grasshopper Warbler,90,11,218,189,417,0.47619047619047616,Low,Summer,Spring,90,64,0.7111111111111111,False,Summer,夏候鸟
+Chinese Bush Warbler,27,8,46,57,115,0.47368421052631576,Low,Summer,Spring,27,18,0.6666666666666666,False,Summer,夏候鸟
+Chinese Pond-Heron,528,11,1575,1128,3581,0.46808510638297873,Low,Summer,Spring,528,304,0.5757575757575758,False,Summer,夏候鸟
+Himalayan Owl,60,9,119,129,236,0.46511627906976744,Low,Summer,Spring,60,59,0.9833333333333333,True,Summer + Spring,夏候鸟 + 春候鸟
+Zitting Cisticola,328,11,766,708,1543,0.4632768361581921,Low,Summer,Spring,328,198,0.6036585365853658,False,Summer,夏候鸟
+Russet Sparrow,195,11,480,424,937,0.45990566037735847,Low,Summer,Spring,195,177,0.9076923076923077,True,Summer + Spring,夏候鸟 + 春候鸟
+Hair-crested Drongo,75,11,141,164,289,0.4573170731707317,Low,Summer,Spring,75,65,0.8666666666666667,True,Summer + Spring,夏候鸟 + 春候鸟
+Eastern Red-rumped Swallow,588,11,1711,1296,4536,0.4537037037037037,Low,Summer,Spring,588,481,0.8180272108843537,True,Summer + Spring,夏候鸟 + 春候鸟
+Claudia's Leaf Warbler,214,11,574,476,1219,0.4495798319327731,Low,Summer,Spring,214,210,0.9813084112149533,True,Summer + Spring,夏候鸟 + 春候鸟
+White-winged Tern,46,10,77,103,186,0.44660194174757284,Low,Summer,Spring,46,39,0.8478260869565217,True,Summer + Spring,夏候鸟 + 春候鸟
+Green-backed Flycatcher,122,9,286,275,654,0.44363636363636366,Low,Summer,Spring,122,114,0.9344262295081968,True,Summer + Spring,夏候鸟 + 春候鸟
+Bull-headed Shrike,62,7,106,142,248,0.43661971830985913,Low,Summer,Autumn,62,51,0.8225806451612904,True,Summer + Autumn,夏候鸟 + 秋候鸟
+Red-necked Stint,58,8,137,136,302,0.4264705882352941,Low,Summer,Autumn,58,49,0.8448275862068966,True,Summer + Autumn,夏候鸟 + 秋候鸟
+Chinese Sparrowhawk,110,10,193,258,513,0.4263565891472868,Low,Summer,Spring,110,96,0.8727272727272727,True,Summer + Spring,夏候鸟 + 春候鸟
+Ruddy Turnstone,11,3,31,26,80,0.4230769230769231,Low,Summer,Autumn,11,9,0.8181818181818182,True,Summer + Autumn,夏候鸟 + 秋候鸟
+Koklass Pheasant,38,8,70,91,170,0.4175824175824176,Low,Summer,Spring,38,29,0.7631578947368421,True,Summer + Spring,夏候鸟 + 春候鸟
+swallow sp.,10,6,13,24,36,0.4166666666666667,Low,Summer,Spring,10,10,1.0,True,Summer + Spring,夏候鸟 + 春候鸟
+Barn Swallow,737,11,3322,1798,10555,0.40989988876529476,Low,Summer,Spring,737,732,0.9932157394843962,True,Summer + Spring,夏候鸟 + 春候鸟
+Dark-sided Flycatcher,154,11,399,378,1238,0.4074074074074074,Low,Summer,Spring,154,143,0.9285714285714286,True,Summer + Spring,夏候鸟 + 春候鸟
+Eurasian Hobby,319,11,740,837,2457,0.3811230585424134,Low,Summer,Autumn,319,295,0.9247648902821317,True,Summer + Autumn,夏候鸟 + 秋候鸟
+Swinhoe's White-eye,232,10,493,646,1940,0.3591331269349845,Low,Summer,Autumn,232,210,0.9051724137931034,True,Summer + Autumn,夏候鸟 + 秋候鸟
+Amur Falcon,314,11,764,896,2997,0.35044642857142855,Low,Summer,Autumn,314,300,0.9554140127388535,True,Summer + Autumn,夏候鸟 + 秋候鸟
+Eurasian Nuthatch,152,11,308,527,1076,0.2884250474383302,Low,Summer,Spring,152,131,0.8618421052631579,True,Summer + Spring,夏候鸟 + 春候鸟
+Cuculus sp.,17,6,24,38,58,0.4473684210526316,Low,Autumn,Summer,17,14,0.8235294117647058,True,Autumn + Summer,秋候鸟 + 夏候鸟
+cuckoo sp. (Cuculidae sp.),17,6,19,40,51,0.425,Low,Autumn,Summer,17,14,0.8235294117647058,True,Autumn + Summer,秋候鸟 + 夏候鸟
+Southern Nutcracker,53,8,119,143,263,0.3706293706293706,Low,Autumn,Summer,53,40,0.7547169811320755,True,Autumn + Summer,秋候鸟 + 夏候鸟
+Red-billed Chough,100,12,180,291,544,0.3436426116838488,Low,Winter,Summer,100,94,0.94,True,Winter + Summer,冬候鸟 + 夏候鸟
+Chinese Beautiful Rosefinch,161,12,365,502,1133,0.3207171314741036,Low,Winter,Summer,161,143,0.8881987577639752,True,Winter + Summer,冬候鸟 + 夏候鸟
